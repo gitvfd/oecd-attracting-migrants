@@ -1,0 +1,106 @@
+Country	Cat	value
+Australia	Workers	0.619
+Austria	Workers	0.541
+Belgium	Workers	0.518
+Canada	Workers	0.603
+Chile	Workers	0.466
+Czech Republic	Workers	0.529
+Denmark	Workers	0.556
+Estonia	Workers	0.551
+Finland	Workers	0.532
+France	Workers	0.521
+Germany	Workers	0.577
+Greece	Workers	0.401
+Hungary	Workers	0.505
+Iceland	Workers	0.564
+Ireland	Workers	0.594
+Israel	Workers	0.448
+Italy	Workers	0.422
+Japan	Workers	0.519
+Korea	Workers	0.548
+Latvia	Workers	0.487
+Luxembourg	Workers	0.564
+Mexico	Workers	0.376
+Netherlands	Workers	0.584
+New Zealand	Workers	0.597
+Norway	Workers	0.555
+Poland	Workers	0.451
+Portugal	Workers	0.524
+Slovak Republic	Workers	0.532
+Slovenia	Workers	0.593
+Spain	Workers	0.481
+Sweden	Workers	0.607
+Switzerland	Workers	0.601
+Turkey	Workers	0.355
+United Kingdom	Workers	0.551
+United States	Workers	0.598
+Australia	Entrepreneurs	0.548
+Austria	Entrepreneurs	0.544
+Belgium	Entrepreneurs	0.464
+Canada	Entrepreneurs	0.603
+Chile	Entrepreneurs	0.415
+Czech Republic	Entrepreneurs	0.479
+Denmark	Entrepreneurs	0.534
+Estonia	Entrepreneurs	0.508
+Finland	Entrepreneurs	0.544
+France	Entrepreneurs	0.459
+Germany	Entrepreneurs	0.521
+Greece	Entrepreneurs	0.364
+Hungary	Entrepreneurs	0.450
+Iceland	Entrepreneurs	0.000
+Ireland	Entrepreneurs	0.532
+Israel	Entrepreneurs	0.380
+Italy	Entrepreneurs	0.423
+Japan	Entrepreneurs	0.512
+Korea	Entrepreneurs	0.557
+Latvia	Entrepreneurs	0.442
+Luxembourg	Entrepreneurs	0.479
+Mexico	Entrepreneurs	0.318
+Netherlands	Entrepreneurs	0.531
+New Zealand	Entrepreneurs	0.592
+Norway	Entrepreneurs	0.546
+Poland	Entrepreneurs	0.440
+Portugal	Entrepreneurs	0.472
+Slovak Republic	Entrepreneurs	0.474
+Slovenia	Entrepreneurs	0.535
+Spain	Entrepreneurs	0.487
+Sweden	Entrepreneurs	0.569
+Switzerland	Entrepreneurs	0.580
+Turkey	Entrepreneurs	0.297
+United Kingdom	Entrepreneurs	0.520
+United States	Entrepreneurs	0.542
+Australia	Student	0.529
+Austria	Student	0.471
+Belgium	Student	0.428
+Canada	Student	0.527
+Chile	Student	0.333
+Czech Republic	Student	0.363
+Denmark	Student	0.484
+Estonia	Student	0.405
+Finland	Student	0.547
+France	Student	0.531
+Germany	Student	0.547
+Greece	Student	0.249
+Hungary	Student	0.343
+Iceland	Student	0.519
+Ireland	Student	0.430
+Israel	Student	0.324
+Italy	Student	0.459
+Japan	Student	0.436
+Korea	Student	0.495
+Latvia	Student	0.350
+Luxembourg	Student	0.452
+Mexico	Student	0.218
+Netherlands	Student	0.495
+New Zealand	Student	0.518
+Norway	Student	0.547
+Poland	Student	0.361
+Portugal	Student	0.478
+Slovak Republic	Student	0.461
+Slovenia	Student	0.481
+Spain	Student	0.441
+Sweden	Student	0.502
+Switzerland	Student	0.563
+Turkey	Student	0.220
+United Kingdom	Student	0.525
+United States	Student	0.549
