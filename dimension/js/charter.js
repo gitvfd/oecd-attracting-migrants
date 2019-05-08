@@ -133,6 +133,13 @@ function createChart(dimensionName) {
 			.attr("fill", lollipopText)
 
 
+		svg.selectAll("circle")
+			.on("mouseover", function (d) {
+				tooltip.html(d.Countries + "<br> <i> " + d.Cat + ": " + d3.format(".2f")(d.value) + "</i>");
+				tooltip.style("visibility", "visible");
+			})
+			.on("mousemove", mousemove)
+			.on("mouseout", mouseout);
 	}
 	else {
 		width = 0.8 * width;
@@ -215,6 +222,14 @@ function createChart(dimensionName) {
 				return dimColor(d.Cat);
 			})
 
+
+		svg.selectAll("circle")
+			.on("mouseover", function (d) {
+				tooltip.html(d.Countries + "<br> <i> " + d.Cat + ": " + d3.format(".2f")(d.value)+"</i>");
+				tooltip.style("visibility", "visible");
+			})
+			.on("mousemove", mousemove)
+			.on("mouseout", mouseout);
 
 
 	}
