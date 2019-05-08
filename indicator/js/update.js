@@ -118,6 +118,14 @@ function createChart(){
             .on("mouseout", mouseout);;;*/
 
 
+        svg.selectAll("circle")
+            .on("mouseover", function (d) {
+                tooltip.html(d.Countries );
+                tooltip.style("visibility", "visible");
+            })
+            .on("mousemove", mousemove)
+            .on("mouseout", mouseout);
+
     }
     else {
         width=0.8*width;
@@ -235,6 +243,13 @@ function createChart(){
      .on("mousemove", mousemove)
      .on("mouseout", mouseout);;;*/
 
+        svg.selectAll("circle")
+            .on("mouseover", function (d) {
+                tooltip.html(d.Countries);
+                tooltip.style("visibility", "visible");
+            })
+            .on("mousemove", mousemove)
+            .on("mouseout", mouseout);
     }
 
 }

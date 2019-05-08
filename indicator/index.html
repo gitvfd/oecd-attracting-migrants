@@ -148,6 +148,26 @@
     var format = d3.format(",.0f");
     
 
+    var tooltip = d3.select("body")
+            .append("div")
+            .style("position", "absolute")
+            .style("z-index", "20")
+            .style("visibility", "hidden")
+            .style("color", "#474747")
+            .style("padding", "8px")
+            .style("background-color", "#f0f0f0")
+            .style("border-radius", "3px")
+            .style("font", "11")
+            .style("font-family", "Quattrocento Sans")
+            .style("text-anchor", "middle")
+            .text("");
+
+        var mousemove = function () {
+            return tooltip.style("top", (d3.event.pageY - 10) + "px").style("left", (d3.event.pageX + 10) + "px");
+        }
+
+        var mouseout = function () { return tooltip.style("visibility", "hidden"); } 
+
 </script>
 
 
