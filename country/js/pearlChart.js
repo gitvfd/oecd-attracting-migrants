@@ -145,7 +145,7 @@ function pearlchart(nameIndic, selectedCou,compCou,indicData){
 				else if (d.value == maxValue)
 	              return  "Top performer";
 	      else
-	              return  d.Country+ " (" + format(d.value) + ""+")";
+					return d.Country /** + " (" + format(d.value) + ""+")"*/;
 		  })
 
 		var dispCou = false;

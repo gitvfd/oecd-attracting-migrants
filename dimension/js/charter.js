@@ -14,29 +14,29 @@ function createChart(dimensionName) {
 		.attr("r", lollipopRadius)
 		.attr("cx", function (d, i) {
 			if(width > 800)
-				return 120 * i + 100;
+				return 190 * i + 100;
 			else
-				return 120 * i + 10;
+				return 190 * i + 10;
 		})
 		.attr("cy", function (d) {
-			return height - 10
+			return  5
 		})
 		.attr("fill", function (d) {
 			return dimColor(d);
 		})
 
 	svg.selectAll("legendText")
-		.data(["Workers", "Entrepreneurs", "Student"])
+		.data(["Highly Educated Workers", "Entrepreneurs", "University Students"])
 		.enter().append("text")
 		.attr("class", "legendText")
 		.attr("dy", function (d) {
-			return height -5;
+			return 10;
 		})
 		.attr("dx", function (d, i) {
 			if (width > 800)
-				return 120 * i + 100 + lollipopRadius + 5;
+				return 190 * i + 100 + lollipopRadius + 5;
 			else
-				return 120 * i + 10 + lollipopRadius + 5;
+				return 190 * i + 10 + lollipopRadius + 5;
 		})
 		.text(function (d) {
 			return d;
@@ -44,6 +44,9 @@ function createChart(dimensionName) {
 		.attr("text-anchor", "start")
 		.attr("fill", lollipopText)
 
+
+
+		
 	if (width > 800) {
 
 		
