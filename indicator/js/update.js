@@ -5,40 +5,39 @@ function createChart(){
 
         var height = 0.9*window.innerHeight;
    //( d.Quality_of_opportunities +  d.Income + d.Future_prospects + d.Family_environment + d.Skills_environment+ d.Inclusiveness + d.Quality_of_life)/7
-
-
+       
         svg.attr("width", width)
         .attr("height", height)
 
         xScale = d3.scaleBand()
-            .domain(data.map(function (d) { return d.Countries }).sort(function (a, b) { return parseFloat(a.Countries) - parseFloat(b.Countries); }))
+            .domain(data.filter(function (d) { return d.Cat == crtSelected; }).sort(function (a, b) {
+                return b.Penalty * (parseFloat(b.Quality_of_opportunities) + parseFloat(b.Income) + parseFloat(b.Future_prospects) + parseFloat(b.Family_environment) + parseFloat(b.Skills_environment) + parseFloat(b.Inclusiveness) + parseFloat(b.Quality_of_life)) / 7 - a.Penalty * (parseFloat(a.Quality_of_opportunities) + parseFloat(a.Income) + parseFloat(a.Future_prospects) + parseFloat(a.Family_environment) + parseFloat(a.Skills_environment) + parseFloat(a.Inclusiveness) + parseFloat(a.Quality_of_life)) / 7}).map(function (d) { return d.Countries }))
             .range([margin, width - margin / 2])
             .padding(padding);
 
         yScale = d3.scaleLinear()
-            .domain([0, 1])
+            .domain([0, 0.75])
             .range([height - margin, margin / 3]);
 
 
-        /** var dimDescGuide = dimDescChart.append("text")
+        var dimDescGuide = svg.append("text")
             .attr("x", 0)
             .attr("y", 0)
             .append("tspan")
-            .attr("id", "chartGuideDimDesc")
-            .attr("x", margin)
-            .attr("y", heightChart - margin / 10)
-            .html(guideStart2display)*/
+            .attr("class", "annotation")
+            .attr("x", margin/2)
+            .attr("y", margin/2 )
+            .html("more attractive")
         //.call(wrap,0.25*width);
 
-       /** var dimDescGuideEnd = dimDescChart.append("text")
+        var dimDescGuideEnd = svg.append("text")
             .attr("x", 0)
             .attr("y", 0)
             .append("tspan")
-            .attr("id", "chartGuideDimDescEnd")
-            .attr("x", width - margin / 2)
-            .attr("y", heightChart - margin / 10)
-            .html(guideEnd2display)
-            .style("text-anchor", "end")*/ 
+            .attr("class", "annotation")
+            .attr("x", margin /2)
+            .attr("y", height - margin / 10)
+            .html("less attractive")
 
 
         //Create Y axis
@@ -129,35 +128,35 @@ function createChart(){
             .attr("height", height)
 
         yScale = d3.scaleBand()
-            .domain(data.map(function (d) { return d.Countries }).sort(function (a, b) { return parseFloat(a.Countries) - parseFloat(b.Countries); }))
-            .range([margin, height - margin / 2])
+            .domain(data.filter(function (d) { return d.Cat == crtSelected; }).sort(function (a, b) {
+                return b.Penalty * (parseFloat(b.Quality_of_opportunities) + parseFloat(b.Income) + parseFloat(b.Future_prospects) + parseFloat(b.Family_environment) + parseFloat(b.Skills_environment) + parseFloat(b.Inclusiveness) + parseFloat(b.Quality_of_life)) / 7 - a.Penalty * (parseFloat(a.Quality_of_opportunities) + parseFloat(a.Income) + parseFloat(a.Future_prospects) + parseFloat(a.Family_environment) + parseFloat(a.Skills_environment) + parseFloat(a.Inclusiveness) + parseFloat(a.Quality_of_life)) / 7
+            }).map(function (d) { return d.Countries }))
+           .range([margin, height - margin / 2])
             .padding(padding);
 
         xScale = d3.scaleLinear()
-            .domain([0, 1])
+            .domain([0, 0.75])
             .range([2*margin, width -  margin / 3]);
 
 
-        /** var dimDescGuide = dimDescChart.append("text")
+        var dimDescGuide = svg.append("text")
             .attr("x", 0)
             .attr("y", 0)
             .append("tspan")
-            .attr("id", "chartGuideDimDesc")
-            .attr("x", margin)
-            .attr("y", heightChart - margin / 10)
-            .html(guideStart2display)*/
+            .attr("class", "annotation")
+            .attr("x", margin / 2)
+            .attr("y", margin / 2)
+            .html("less attractive")
         //.call(wrap,0.25*width);
 
-        /** var dimDescGuideEnd = dimDescChart.append("text")
-             .attr("x", 0)
-             .attr("y", 0)
-             .append("tspan")
-             .attr("id", "chartGuideDimDescEnd")
-             .attr("x", width - margin / 2)
-             .attr("y", heightChart - margin / 10)
-             .html(guideEnd2display)
-             .style("text-anchor", "end")*/
-
+        var dimDescGuideEnd = svg.append("text")
+            .attr("x", 0)
+            .attr("y", 0)
+            .append("tspan")
+            .attr("class", "annotation")
+            .attr("x", width -2*margin )
+            .attr("y", margin / 2)
+            .html("more attractive")
 
         //Create Y axis
         svg.append("g")
@@ -308,16 +307,26 @@ function update(){
     }
 
     var divisor = parseFloat(Quality_of_opportunities_weight) + parseFloat(Income_weight) + parseFloat(Future_prospects_weight) + parseFloat(Family_environment_weight) + parseFloat(Skills_environment_weight) + parseFloat(Inclusiveness_weight) + parseFloat(Quality_of_life_weight)
-   //(Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight*d.Future_prospects + Family_environment_weight*d.Family_environment + Skills_environment_weight * d.Skills_environment+ Inclusiveness_weight*d.Inclusiveness + Quality_of_life_weight*d.Quality_of_life)
-
+    
+    function calculatesort(k) {
+        return (Quality_of_opportunities_weight * k.Quality_of_opportunities + Income_weight * k.Income + Future_prospects_weight * k.Future_prospects + Family_environment_weight * k.Family_environment + Skills_environment_weight * k.Skills_environment + Inclusiveness_weight * k.Inclusiveness + Quality_of_life_weight * k.Quality_of_life) * k.Penalty / divisor
+    }
+    
     if (width > 800) {
+       
+        xScale.domain(data.filter(function (d) { return d.Cat == crtSelected; }).sort(function (a, b) { return parseFloat(calculatesort(b)) - parseFloat(calculatesort(a))}).map(function (d) { return d.Countries }));
+        
+ 
 
 
         lollipopsCircle.data(data.filter(function (d) { return d.Cat == crtSelected; }))
            // .enter()
             .transition()
             .duration(1000)
-            .ease(d3.easeBounce) 
+            .ease(d3.easeBounce)
+            .attr("cx", function (d) {
+                return xScale(d.Countries) + xScale.bandwidth() / 2;
+            })
             .attr("cy", function (d) {
                 return yScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life)*d.Penalty/divisor);
             })
@@ -331,18 +340,31 @@ function update(){
             .attr("dx", function (d) {
                 return -yScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life) * d.Penalty / divisor);
             })
+            .attr("dy", function (d) {
+                return xScale(d.Countries) + xScale.bandwidth() / 2;
+            })
 
         lollipopsLine
             .data(data.filter(function (d) { return d.Cat == crtSelected; }))
             .transition()
             .duration(1000)
-            .ease(d3.easeBounce) 
+            .ease(d3.easeBounce)
+            .attr("x1", function (d) {
+                return xScale(d.Countries) + xScale.bandwidth() / 2;
+            })
+            .attr("x2", function (d) {
+                return xScale(d.Countries) + xScale.bandwidth() / 2;
+            })
             .attr("y2", function (d) {
                 return yScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life) * d.Penalty / divisor);
             })
 
 
     } else {
+
+
+        yScale.domain(data.filter(function (d) { return d.Cat == crtSelected; }).sort(function (a, b) { return parseFloat(calculatesort(b)) - parseFloat(calculatesort(a)) }).map(function (d) { return d.Countries }));
+
         lollipopsCircle.data(data.filter(function (d) { return d.Cat == crtSelected; }))
             // .enter()
             .transition()
@@ -350,6 +372,9 @@ function update(){
             .ease(d3.easeBounce)
             .attr("cx", function (d) {
                 return xScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life) * d.Penalty / divisor);
+            })
+            .attr("cy", function (d) {
+                return yScale(d.Countries) + yScale.bandwidth() / 2;
             })
 
 
@@ -361,6 +386,9 @@ function update(){
             .attr("dx", function (d) {
                 return xScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life) * d.Penalty / divisor);
             })
+            .attr("dy", function (d) {
+                return yScale(d.Countries) + yScale.bandwidth() / 2;
+            })
 
         lollipopsLine
             .data(data.filter(function (d) { return d.Cat == crtSelected; }))
@@ -369,6 +397,12 @@ function update(){
             .ease(d3.easeBounce)
             .attr("x2", function (d) {
                 return xScale((Quality_of_opportunities_weight * d.Quality_of_opportunities + Income_weight * d.Income + Future_prospects_weight * d.Future_prospects + Family_environment_weight * d.Family_environment + Skills_environment_weight * d.Skills_environment + Inclusiveness_weight * d.Inclusiveness + Quality_of_life_weight * d.Quality_of_life) * d.Penalty / divisor);
+            })
+            .attr("y1", function (d) {
+                return yScale(d.Countries) + yScale.bandwidth() / 2;
+            })
+            .attr("y2", function (d) {
+                return yScale(d.Countries) + yScale.bandwidth() / 2;
             })
 
 

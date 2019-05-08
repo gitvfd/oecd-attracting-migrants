@@ -56,6 +56,13 @@ h1{
 }
 
 
+.annotation{     
+    font-family: 'Raleway', sans-serif;
+    color:#575757;
+    font-weight:200;
+    font-size:12px;
+}
+
 #selector {
     border-style: solid;
     border-width:0.5px;
@@ -64,11 +71,11 @@ h1{
 	margin-left: 10px;
     padding-right: 10px;
 	padding-left: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	padding-top: 10px;
 	float: left;
 	width: 20%;
-	min-width: 230px;
+	min-width: 300px;
     height: 100%;
 
 	/**background: #d1dadf;**/
@@ -97,7 +104,7 @@ h1{
 
 .radio {
     display: inline-block;
-    width: 110px;
+    width: 95px;
     height: 20px;
     text-align: center;
     vertical-align: top;
@@ -233,12 +240,12 @@ svg {
 }
 
 .axis line{
-	stroke:#7A7A7A;
+	stroke:none;
 }
 
 .axis text{
 	font-family: Bernini, "Bernini Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size:14px;
+	font-size:12px;
 	fill:#7A7A7A;
 }
 
