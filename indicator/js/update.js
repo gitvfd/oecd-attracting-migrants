@@ -1,7 +1,7 @@
 function createChart(){
     var crtSelected = document.getElementById("ctrSel").options[document.getElementById("ctrSel").selectedIndex].value;
     
-    if (width > 800) {
+    if (width > 700) {
 
         var height = 0.9*window.innerHeight;
    //( d.Quality_of_opportunities +  d.Income + d.Future_prospects + d.Family_environment + d.Skills_environment+ d.Inclusiveness + d.Quality_of_life)/7
@@ -327,7 +327,7 @@ function update(){
         return (Quality_of_opportunities_weight * k.Quality_of_opportunities + Income_weight * k.Income + Future_prospects_weight * k.Future_prospects + Family_environment_weight * k.Family_environment + Skills_environment_weight * k.Skills_environment + Inclusiveness_weight * k.Inclusiveness + Quality_of_life_weight * k.Quality_of_life) * k.Penalty / divisor
     }
     
-    if (width > 800) {
+    if (width > 700) {
        
         xScale.domain(data.filter(function (d) { return d.Cat == crtSelected; }).sort(function (a, b) { return parseFloat(calculatesort(b)) - parseFloat(calculatesort(a))}).map(function (d) { return d.Countries }));
         
