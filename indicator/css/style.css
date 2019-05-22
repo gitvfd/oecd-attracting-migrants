@@ -96,12 +96,17 @@ h1{
 
 .img{
     margin-right:10px;
-  height: 20px;
-  width: 20px;
-  color:#fff;
-
+    height: 20px;
+    width: 20px;
+    color:#fff;
 }
-
+.infoImg{
+    margin-left:1px;
+  height: 15px;
+  width: 15px;
+  opacity:0.8;
+  cursor: pointer;
+}
 .radio {
     display: inline-block;
     width: 95px;
