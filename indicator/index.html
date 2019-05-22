@@ -30,7 +30,7 @@
                 <option value="family type: couple with no children">family type:couple with no children</option>
             </select>-->
 
-        <div class="selTitle"><img src="img/Quality_of_opportunities.svg" class="img"> Quality of opportunities</div>
+        <div class="selTitle"><img src="img/Quality_of_opportunities.svg" class="img"> Quality of opportunities <img src="img/info.svg" class="infoImg" id="QUALITY_OF_OPPORTUNITIES"></div>
         <form>
             <label class="radio"><input type="radio" id="Quality_of_opportunities_radio_1" name="Quality_of_opportunities_name" value="1"
                     onclick="update()" > Less important</label>
@@ -40,14 +40,14 @@
                     onclick="update()"> More important</label>
         </form>
 
-        <div class="selTitle"><img src="img/Income.svg" class="img">Income</div>
+        <div class="selTitle"><img src="img/Income.svg" class="img">Income <img src="img/info.svg" class="infoImg" id="INCOME"></div>
         <form>
             <label class="radio"><input type="radio"  id="Income_radio_1" name="Income_name" value="1" onclick="update()" > Less important</label>
             <label class="radio"><input type="radio"  id="Income_radio_2" name="Income_name" value="3" onclick="update()" checked> important</label>
             <label class="radio"><input type="radio" id="Income_radio_3" name="Income_name" value="5" onclick="update()"> More important</label>
         </form>
 
-        <div class="selTitle"><img src="img/Future_prospects.svg" class="img">Future prospects</div>
+        <div class="selTitle"><img src="img/Future_prospects.svg" class="img">Future prospects <img src="img/info.svg" class="infoImg" id="FUTURE_PROSPECTS"></div>
         <form>
             <label class="radio"><input type="radio" id="Future_prospects_radio_1" name="Future_prospects_name" value="1"
                     onclick="update()" > Less important</label>
@@ -58,7 +58,7 @@
         </form>
 
 
-        <div class="selTitle"><img src="img/Family_environment.svg" class="img">Family environment</div>
+        <div class="selTitle"><img src="img/Family_environment.svg" class="img">Family environment <img src="img/info.svg" class="infoImg" id="FAMILY_ENVIRONMENT"></div>
         <form>
             <label class="radio"><input type="radio" id="Family_environment_radio_1" name="Family_environment_name" value="1"
                     onclick="update()" > Less important</label>
@@ -69,7 +69,7 @@
         </form>
 
 
-        <div class="selTitle"><img src="img/Skills_environment.svg" class="img">Skills environment</div>
+        <div class="selTitle"><img src="img/Skills_environment.svg" class="img">Skills environment <img src="img/info.svg" class="infoImg" id="SKILLS_ENVIRONMENT"></div>
         <form>
             <label class="radio"><input type="radio" id="Skills_environment_radio_1" name="Skills_environment_name" value="1"
                     onclick="update()" > Less important</label>
@@ -80,7 +80,7 @@
         </form>
 
 
-        <div class="selTitle"><img src="img/Inclusiveness.svg" class="img">Inclusiveness</div>
+        <div class="selTitle"><img src="img/Inclusiveness.svg" class="img">Inclusiveness <img src="img/info.svg" class="infoImg" id="INCLUSIVENESS"></div>
         <form>
             <label class="radio"><input type="radio" id="Inclusiveness_radio_1" name="Inclusiveness_name" value="1"
                     onclick="update()" > Less important</label>
@@ -91,7 +91,7 @@
         </form>
 
 
-        <div class="selTitle"><img src="img/Quality_of_life.svg" class="img">Quality of life</div>
+        <div class="selTitle"><img src="img/Quality_of_life.svg" class="img">Quality of life <img src="img/info.svg" class="infoImg" id="QUALITY_OF_LIFE"></div>
         <form>
             <label class="radio"><input type="radio" id="Quality_of_life_radio_1" name="Quality_of_life_name" value="1"
                     onclick="update()" > Less important</label>
@@ -123,6 +123,7 @@
                 }
             })
         });
+        
 
 
     var width = document.getElementById("chart").offsetWidth;
@@ -160,6 +161,7 @@
             .style("font", "11")
             .style("font-family", "Quattrocento Sans")
             .style("text-anchor", "middle")
+            .style("max-width", "200px")
             .text("");
 
         var mousemove = function () {
@@ -168,6 +170,25 @@
 
         var mouseout = function () { return tooltip.style("visibility", "hidden"); } 
 
+
+    var dimInfo = [];
+    d3.tsv("data/dim.tsv", function (error, infoTot) {
+        infoTot.forEach(function (d) {
+            dimInfo.push(d)
+        })
+    });
+
+    d3.selectAll(".infoImg")
+    .on("mouseover", function () {
+        var infoID= d3.select(this).attr('id');
+        var defDim="";
+        dimInfo.forEach(function(d){
+            if(d.dim==infoID)
+                defDim=d.dimDef;
+        })
+            tooltip.html(defDim );
+            tooltip.style("visibility", "visible");
+        }) .on("mousemove", mousemove).on("mouseout", mouseout);
 </script>
 
 

@@ -14,21 +14,21 @@
 	<body>
 
      <div id="dimTab">
-        <button class="btn" id="Quality_of_opportunities_Desc"><img src="img/Quality_of_opportunities.svg" class="img"> Quality of opportunities</button>
-        <button class="btn" id="Income_Desc"><img src="img/Income.svg" class="img"> Income</button>
-        <button class="btn" id="Future_prospects_Desc" ><img src="img/Future_prospects.svg" class="img"> Future prospects</button>
-        <button class="btn" id="Family_environment_Desc"><img src="img/Family_environment.svg" class="img"> Family environment</i></button>
-        <button class="btn" id="Skills_environment_Desc"><img src="img/Skills_environment.svg" class="img"> Skills environment</button>
-        <button class="btn" id="Inclusiveness_Desc"><img src="img/Inclusiveness.svg" class="img"> Inclusiveness</button>
-        <button class="btn" id="Quality_of_life_Desc"><img src="img/Quality_of_life.svg" class="img"> Quality of life</button>
+        <button class="btn" id="Quality_of_opportunities_Desc"><img src="img/Quality_of_opportunities.svg" class="img"> Quality of opportunities<img src="img/info.svg" class="infoImg" id="QUALITY_OF_OPPORTUNITIES"></button>
+        <button class="btn" id="Income_Desc"><img src="img/Income.svg" class="img"> Income<img src="img/info.svg" class="infoImg" id="INCOME"></button>
+        <button class="btn" id="Future_prospects_Desc" ><img src="img/Future_prospects.svg" class="img"> Future prospects<img src="img/info.svg" class="infoImg" id="FUTURE_PROSPECTS"></button>
+        <button class="btn" id="Family_environment_Desc"><img src="img/Family_environment.svg" class="img"> Family environment<img src="img/info.svg" class="infoImg" id="FAMILY_ENVIRONMENT"></button>
+        <button class="btn" id="Skills_environment_Desc"><img src="img/Skills_environment.svg" class="img"> Skills environment<img src="img/info.svg" class="infoImg" id="SKILLS_ENVIRONMENT"></button>
+        <button class="btn" id="Inclusiveness_Desc"><img src="img/Inclusiveness.svg" class="img"> Inclusiveness<img src="img/info.svg" class="infoImg" id="INCLUSIVENESS"></button>
+        <button class="btn" id="Quality_of_life_Desc"><img src="img/Quality_of_life.svg" class="img"> Quality of life<img src="img/info.svg" class="infoImg" id="QUALITY_OF_LIFE"></button>
     </div>
     <Br/>
-    <div id="sortSection">Sort by:
+    <div class="sortSection">Sort by:
       <Br />
       <form>
-        <label class="radio"><input type="radio" id="WorkersButton" name="sort"  value="Workers" onclick="sortupdate()"> Highly Educated Workers</label>
-        <label class="radio"><input type="radio" id="EntrepreneursButton" name="sort" value="Entrepreneurs" onclick="sortupdate()"> Entrepreneurs</label>
-        <label class="radio"><input type="radio" id="StudentButton" name="sort" value="Student" onclick="sortupdate()"> University Students</label>
+        <span><input type="radio" id="WorkersButton" name="sort"  value="Workers" onclick="sortupdate()"><label class="labelRadio">Highly Educated Workers</label></span>
+        <span><input type="radio" id="EntrepreneursButton" name="sort" value="Entrepreneurs" onclick="sortupdate()"><label class="labelRadio">Entrepreneurs</label></span>
+        <span><input type="radio" id="StudentButton" name="sort" value="Student" onclick="sortupdate()"><label class="labelRadio">University Students</label></span>
       </form>
     </div>
     <Br/>
@@ -117,6 +117,7 @@
     .style("font", "11")
     .style("font-family", "Quattrocento Sans")
     .style("text-anchor", "middle")
+    .style("max-width", "200px")
     .text("");
 
   var mousemove = function () {
@@ -125,6 +126,25 @@
 
   var mouseout = function () { return tooltip.style("visibility", "hidden"); } 
 
+
+  var dimInfo = [];
+  d3.tsv("data/dim.tsv", function (error, infoTot) {
+    infoTot.forEach(function (d) {
+      dimInfo.push(d)
+    })
+  });
+
+  d3.selectAll(".infoImg")
+    .on("mouseover", function () {
+      var infoID = d3.select(this).attr('id');
+      var defDim = "";
+      dimInfo.forEach(function (d) {
+        if (d.dim == infoID)
+          defDim = d.dimDef;
+      })
+      tooltip.html(defDim);
+      tooltip.style("visibility", "visible");
+    }).on("mousemove", mousemove).on("mouseout", mouseout);
 </script>
 
   <script>

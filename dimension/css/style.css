@@ -11,21 +11,36 @@ body{
 /** Dropdown                **/
 /*****************************/
 
-.radio {
-    display: inline-block;
-    width: 150px;
-    height: 20px;
-    text-align: center;
-    vertical-align: top;
-    padding-top: 0px;
+.sortSection div {
+  display: block;
+  padding: 0 0 5px 5px;
+  clear: both;
+}
 
+.sortSection span {
+  
+  padding-left: 10px;
+  cursor: inherit;
+}
+
+.sortSection .labelRadio {
+  float: left;
+  width: 180px;
+  margin-top:5px;
     font-family: 'Raleway', sans-serif;
     font-weight:300;
     font-size:12px;
 }
-.checkbox+.checkbox, .radio+.radio {
-    margin-top: 10px;
+
+.sortSection input {
+  float: left;
+  width: 20px;
+  /**margin-left: -20px;**/
+  margin-top: 6px; 
+  padding: 0;
+  -webkit-appearance: radio;
 }
+
 #Country_sel{
     /**display: block;**/
     position: -webkit-sticky;
@@ -190,6 +205,13 @@ body{
 
 }
 
+.infoImg{
+    margin-left:10px;
+  height: 15px;
+  width: 15px;
+  opacity:0.8;
+  cursor: pointer;
+}
 
 h1{
 	width:100%;
@@ -479,6 +501,8 @@ svg {
 
 
 #titleDesc{
+  clear:both;
+  display: block;
   font-family: Bernini, "Bernini Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color:rgb(89, 89, 89);
   font-size:20px;
@@ -512,87 +536,102 @@ svg {
 @media (max-width: 800px)  {
   
 
-	.axis text{
-		font-size:11px;
-	}
+    .axis text{
+      font-size:11px;
+    }
 
-	.lollipopText{
-		font-size:11px;
-	}
+    .lollipopText{
+      font-size:11px;
+    }
 
-	.titles{
-		font-size:11px;
-	}
+    .titles{
+      font-size:11px;
+    }
 
-	h1{
-		font-size:24px;
-	}
+    h1{
+      font-size:24px;
+    }
 
-	h2{
-		
-		font-size:18px;
-	}
+    h2{
+      
+      font-size:18px;
+    }
 
-	.paragraph{
-			font-size:14px;
-	}
+    .paragraph{
+        font-size:14px;
+    }
 
-  ul li {
-    margin: 15px;
-    font-size:14px;
-    line-height: 1;
-  }
-  .content p{
-
+    ul li {
+      margin: 15px;
       font-size:14px;
+      line-height: 1;
+    }
+    .content p{
+
+        font-size:14px;
+    }
+    .def{
+        font-size:14px;
+    }
+    .dimDef{
+      font-size:11px;
+    }
+
+    .dimTitle{
+      font-size:15px;
+    }
+
+    .indicTitle{
+      font-size:12px;
+    }
+    .tab button {
+      font-size:14px;
+    }
+    .dropdown_text,.dropdown_text_comp{
+      font-size:12px;
+    }
+    #country_dropdown,#country_dropdown_comp {
+      font-size:12px;
+    }
+
+    .label {
+      font-size: 60%;
+    }
+
+
+  .img{
+    height: 15px;
+    width: 15px;
+    color:#fff;
+
   }
-	.def{
-	    font-size:14px;
-  }
-  .dimDef{
-    font-size:11px;
+  .headingTitle,.Name{
+    font-size:9px;
   }
 
-  .dimTitle{
-    font-size:15px;
-  }
 
-  .indicTitle{
+  #chartGuideDimDesc,#chartGuideDimDescEnd{
     font-size:12px;
   }
-  .tab button {
-    font-size:14px;
-  }
-  .dropdown_text,.dropdown_text_comp{
-    font-size:12px;
-  }
-  #country_dropdown,#country_dropdown_comp {
-    font-size:12px;
+
+  #chartGuidePearl,#chartGuidePearlEnd{
+    font-size:10px;
   }
 
-  .label {
-    font-size: 60%;
+  .sortSection span {
+   clear: both;
+    display: block;
+    padding-left: 40px;
   }
 
 
-.img{
-  height: 15px;
-  width: 15px;
-  color:#fff;
-
-}
-.headingTitle,.Name{
-  font-size:9px;
-}
+  .sortSection input {
+  clear: both;
+    margin-left: -20px;
+  }
 
 
-#chartGuideDimDesc,#chartGuideDimDescEnd{
-  font-size:12px;
-}
 
-#chartGuidePearl,#chartGuidePearlEnd{
-  font-size:10px;
-}
 }
 
 
