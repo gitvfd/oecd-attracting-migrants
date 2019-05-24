@@ -248,7 +248,9 @@ function update(dimensionName) {
 	}
 
 
-
+	if (dimensionName == "Income")
+		document.getElementById('titleDesc').innerHTML = 'Income and tax'
+	else
 	document.getElementById('titleDesc').innerHTML = dimensionName.replace(/_/g, " "); ;
 
 	selDimPlaceholder = dimensionName;
