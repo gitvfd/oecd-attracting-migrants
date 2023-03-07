@@ -1,1471 +1,1471 @@
-row	Countries	Cat	Dimension	value
-1	Australia	Student	Quality_of_opportunities	0.168
-2	Austria	Student	Quality_of_opportunities	0.036
-3	Belgium	Student	Quality_of_opportunities	0.051
-4	Canada	Student	Quality_of_opportunities	0.139
-5	Chile	Student	Quality_of_opportunities	0.007
-6	Czech Republic	Student	Quality_of_opportunities	0
-7	Denmark	Student	Quality_of_opportunities	0.036
-8	Estonia	Student	Quality_of_opportunities	0.007
-9	Finland	Student	Quality_of_opportunities	0.036
-10	France	Student	Quality_of_opportunities	0.161
-11	Germany	Student	Quality_of_opportunities	0.277
-12	Greece	Student	Quality_of_opportunities	0.015
-13	Hungary	Student	Quality_of_opportunities	0
-14	Iceland	Student	Quality_of_opportunities	0
-15	Ireland	Student	Quality_of_opportunities	0.022
-16	Israel	Student	Quality_of_opportunities	0.036
-17	Italy	Student	Quality_of_opportunities	0.139
-18	Japan	Student	Quality_of_opportunities	0.117
-19	Korea	Student	Quality_of_opportunities	0.08
-20	Latvia	Student	Quality_of_opportunities	0
-21	Luxembourg	Student	Quality_of_opportunities	0
-22	Mexico	Student	Quality_of_opportunities	0.007
-23	Netherlands	Student	Quality_of_opportunities	0.088
-24	New Zealand	Student	Quality_of_opportunities	0.029
-25	Norway	Student	Quality_of_opportunities	0.022
-26	Poland	Student	Quality_of_opportunities	0.015
-27	Portugal	Student	Quality_of_opportunities	0.036
-28	Slovak Republic	Student	Quality_of_opportunities	0
-29	Slovenia	Student	Quality_of_opportunities	0.007
-30	Spain	Student	Quality_of_opportunities	0.088
-31	Sweden	Student	Quality_of_opportunities	0.08
-32	Switzerland	Student	Quality_of_opportunities	0.058
-33	Turkey	Student	Quality_of_opportunities	0.007
-34	United Kingdom	Student	Quality_of_opportunities	0.27
-35	United States	Student	Quality_of_opportunities	1
-36	Australia	Entrepreneurs	Quality_of_opportunities	0.364
-37	Austria	Entrepreneurs	Quality_of_opportunities	0.309
-38	Belgium	Entrepreneurs	Quality_of_opportunities	0.228
-39	Canada	Entrepreneurs	Quality_of_opportunities	0.443
-40	Chile	Entrepreneurs	Quality_of_opportunities	0.311
-41	Czech Republic	Entrepreneurs	Quality_of_opportunities	0.318
-42	Denmark	Entrepreneurs	Quality_of_opportunities	0.401
-43	Estonia	Entrepreneurs	Quality_of_opportunities	0.446
-44	Finland	Entrepreneurs	Quality_of_opportunities	0.367
-45	France	Entrepreneurs	Quality_of_opportunities	0.242
-46	Germany	Entrepreneurs	Quality_of_opportunities	0.267
-47	Greece	Entrepreneurs	Quality_of_opportunities	0.229
-48	Hungary	Entrepreneurs	Quality_of_opportunities	0.347
-49	Iceland	Entrepreneurs	Quality_of_opportunities	0.36
-50	Ireland	Entrepreneurs	Quality_of_opportunities	0.493
-51	Israel	Entrepreneurs	Quality_of_opportunities	0.367
-52	Italy	Entrepreneurs	Quality_of_opportunities	0.156
-53	Japan	Entrepreneurs	Quality_of_opportunities	0.298
-54	Korea	Entrepreneurs	Quality_of_opportunities	0.524
-55	Latvia	Entrepreneurs	Quality_of_opportunities	0.34
-56	Luxembourg	Entrepreneurs	Quality_of_opportunities	0.226
-57	Mexico	Entrepreneurs	Quality_of_opportunities	0.515
-58	Netherlands	Entrepreneurs	Quality_of_opportunities	0.141
-59	New Zealand	Entrepreneurs	Quality_of_opportunities	0.642
-60	Norway	Entrepreneurs	Quality_of_opportunities	0.385
-61	Poland	Entrepreneurs	Quality_of_opportunities	0.346
-62	Portugal	Entrepreneurs	Quality_of_opportunities	0.265
-63	Slovak Republic	Entrepreneurs	Quality_of_opportunities	0.283
-64	Slovenia	Entrepreneurs	Quality_of_opportunities	0.378
-65	Spain	Entrepreneurs	Quality_of_opportunities	0.37
-66	Sweden	Entrepreneurs	Quality_of_opportunities	0.356
-67	Switzerland	Entrepreneurs	Quality_of_opportunities	0.356
-68	Turkey	Entrepreneurs	Quality_of_opportunities	0.418
-69	United Kingdom	Entrepreneurs	Quality_of_opportunities	0.394
-70	United States	Entrepreneurs	Quality_of_opportunities	0.555
-71	Australia	Workers	Quality_of_opportunities	0.673
-72	Austria	Workers	Quality_of_opportunities	0.664
-73	Belgium	Workers	Quality_of_opportunities	0.712
-74	Canada	Workers	Quality_of_opportunities	0.769
-75	Chile	Workers	Quality_of_opportunities	0.639
-76	Czech Republic	Workers	Quality_of_opportunities	0.881
-77	Denmark	Workers	Quality_of_opportunities	0.656
-78	Estonia	Workers	Quality_of_opportunities	0.828
-79	Finland	Workers	Quality_of_opportunities	0.547
-80	France	Workers	Quality_of_opportunities	0.679
-81	Germany	Workers	Quality_of_opportunities	0.593
-82	Greece	Workers	Quality_of_opportunities	0.598
-83	Hungary	Workers	Quality_of_opportunities	0.915
-84	Iceland	Workers	Quality_of_opportunities	0.767
-85	Ireland	Workers	Quality_of_opportunities	0.787
-86	Israel	Workers	Quality_of_opportunities	0.619
-87	Italy	Workers	Quality_of_opportunities	0.457
-88	Japan	Workers	Quality_of_opportunities	0.256
-89	Korea	Workers	Quality_of_opportunities	0.415
-90	Latvia	Workers	Quality_of_opportunities	0.888
-91	Luxembourg	Workers	Quality_of_opportunities	0.842
-92	Mexico	Workers	Quality_of_opportunities	0.647
-93	Netherlands	Workers	Quality_of_opportunities	0.582
-94	New Zealand	Workers	Quality_of_opportunities	0.759
-95	Norway	Workers	Quality_of_opportunities	0.676
-96	Poland	Workers	Quality_of_opportunities	0.649
-97	Portugal	Workers	Quality_of_opportunities	0.743
-98	Slovak Republic	Workers	Quality_of_opportunities	0.88
-99	Slovenia	Workers	Quality_of_opportunities	0.847
-100	Spain	Workers	Quality_of_opportunities	0.466
-101	Sweden	Workers	Quality_of_opportunities	0.65
-102	Switzerland	Workers	Quality_of_opportunities	0.633
-103	Turkey	Workers	Quality_of_opportunities	0.866
-104	United Kingdom	Workers	Quality_of_opportunities	0.766
-105	United States	Workers	Quality_of_opportunities	0.868
-106	Australia	Student	Income	0.499
-107	Austria	Student	Income	0.362
-108	Belgium	Student	Income	0.31
-109	Canada	Student	Income	0.452
-110	Chile	Student	Income	0.058
-111	Czech Republic	Student	Income	0.104
-112	Denmark	Student	Income	0.491
-113	Estonia	Student	Income	0.307
-114	Finland	Student	Income	0.722
-115	France	Student	Income	0.592
-116	Germany	Student	Income	0.629
-117	Greece	Student	Income	0.169
-118	Hungary	Student	Income	0.455
-119	Iceland	Student	Income	0.602
-120	Ireland	Student	Income	0.498
-121	Israel	Student	Income	0.466
-122	Italy	Student	Income	0.65
-123	Japan	Student	Income	0.443
-124	Korea	Student	Income	0.555
-125	Latvia	Student	Income	0.22
-126	Luxembourg	Student	Income	0.386
-127	Mexico	Student	Income	0.147
-128	Netherlands	Student	Income	0.376
-129	New Zealand	Student	Income	0.459
-130	Norway	Student	Income	0.902
-131	Poland	Student	Income	0.214
-132	Portugal	Student	Income	0.55
-133	Slovak Republic	Student	Income	0.479
-134	Slovenia	Student	Income	0.624
-135	Spain	Student	Income	0.538
-136	Sweden	Student	Income	0.551
-137	Switzerland	Student	Income	0.866
-138	Turkey	Student	Income	0.02
-139	United Kingdom	Student	Income	0.463
-140	United States	Student	Income	0.304
-141	Australia	Entrepreneurs	Income	0.41
-142	Austria	Entrepreneurs	Income	0.47
-143	Belgium	Entrepreneurs	Income	0.351
-144	Canada	Entrepreneurs	Income	0.574
-145	Chile	Entrepreneurs	Income	0.545
-146	Czech Republic	Entrepreneurs	Income	0.564
-147	Denmark	Entrepreneurs	Income	0.498
-148	Estonia	Entrepreneurs	Income	0.49
-149	Finland	Entrepreneurs	Income	0.489
-150	France	Entrepreneurs	Income	0.343
-151	Germany	Entrepreneurs	Income	0.6
-152	Greece	Entrepreneurs	Income	0.344
-153	Hungary	Entrepreneurs	Income	0.698
-154	Iceland	Entrepreneurs	Income	0.51
-155	Ireland	Entrepreneurs	Income	0.618
-156	Israel	Entrepreneurs	Income	0.415
-157	Italy	Entrepreneurs	Income	0.415
-158	Japan	Entrepreneurs	Income	0.522
-159	Korea	Entrepreneurs	Income	0.48
-160	Latvia	Entrepreneurs	Income	0.542
-161	Luxembourg	Entrepreneurs	Income	0.439
-162	Mexico	Entrepreneurs	Income	0.396
-163	Netherlands	Entrepreneurs	Income	0.453
-164	New Zealand	Entrepreneurs	Income	0.385
-165	Norway	Entrepreneurs	Income	0.467
-166	Poland	Entrepreneurs	Income	0.565
-167	Portugal	Entrepreneurs	Income	0.376
-168	Slovak Republic	Entrepreneurs	Income	0.506
-169	Slovenia	Entrepreneurs	Income	0.536
-170	Spain	Entrepreneurs	Income	0.402
-171	Sweden	Entrepreneurs	Income	0.404
-172	Switzerland	Entrepreneurs	Income	0.679
-173	Turkey	Entrepreneurs	Income	0.529
-174	United Kingdom	Entrepreneurs	Income	0.471
-175	United States	Entrepreneurs	Income	0.452
-176	Australia	Workers	Income	0.513
-177	Austria	Workers	Income	0.403
-178	Belgium	Workers	Income	0.326
-179	Canada	Workers	Income	0.497
-180	Chile	Workers	Income	0.752
-181	Czech Republic	Workers	Income	0.457
-182	Denmark	Workers	Income	0.501
-183	Estonia	Workers	Income	0.43
-184	Finland	Workers	Income	0.429
-185	France	Workers	Income	0.371
-186	Germany	Workers	Income	0.414
-187	Greece	Workers	Income	0.359
-188	Hungary	Workers	Income	0.445
-189	Iceland	Workers	Income	0.457
-190	Ireland	Workers	Income	0.475
-191	Israel	Workers	Income	0.461
-192	Italy	Workers	Income	0.314
-193	Japan	Workers	Income	0.536
-194	Korea	Workers	Income	0.544
-195	Latvia	Workers	Income	0.397
-196	Luxembourg	Workers	Income	0.348
-197	Mexico	Workers	Income	0.569
-198	Netherlands	Workers	Income	0.495
-199	New Zealand	Workers	Income	0.53
-200	Norway	Workers	Income	0.444
-201	Poland	Workers	Income	0.515
-202	Portugal	Workers	Income	0.371
-203	Slovak Republic	Workers	Income	0.435
-204	Slovenia	Workers	Income	0.423
-205	Spain	Workers	Income	0.38
-206	Sweden	Workers	Income	0.361
-207	Switzerland	Workers	Income	0.561
-208	Turkey	Workers	Income	0.456
-209	United Kingdom	Workers	Income	0.415
-210	United States	Workers	Income	0.603
-211	Australia	Student	Future_prospects	0.684
-212	Austria	Student	Future_prospects	0.679
-213	Belgium	Student	Future_prospects	0.614
-214	Canada	Student	Future_prospects	0.562
-215	Chile	Student	Future_prospects	0.636
-216	Czech Republic	Student	Future_prospects	0.533
-217	Denmark	Student	Future_prospects	0.5
-218	Estonia	Student	Future_prospects	0.527
-219	Finland	Student	Future_prospects	0.563
-220	France	Student	Future_prospects	0.786
-221	Germany	Student	Future_prospects	0.701
-222	Greece	Student	Future_prospects	0.314
-223	Hungary	Student	Future_prospects	0.404
-224	Iceland	Student	Future_prospects	0.502
-225	Ireland	Student	Future_prospects	0.514
-226	Israel	Student	Future_prospects	0.314
-227	Italy	Student	Future_prospects	0.811
-228	Japan	Student	Future_prospects	0.509
-229	Korea	Student	Future_prospects	0.587
-230	Latvia	Student	Future_prospects	0.513
-231	Luxembourg	Student	Future_prospects	0.326
-232	Mexico	Student	Future_prospects	0.408
-233	Netherlands	Student	Future_prospects	0.742
-234	New Zealand	Student	Future_prospects	0.776
-235	Norway	Student	Future_prospects	0.574
-236	Poland	Student	Future_prospects	0.49
-237	Portugal	Student	Future_prospects	0.842
-238	Slovak Republic	Student	Future_prospects	0.695
-239	Slovenia	Student	Future_prospects	0.685
-240	Spain	Student	Future_prospects	0.737
-241	Sweden	Student	Future_prospects	0.697
-242	Switzerland	Student	Future_prospects	0.529
-243	Turkey	Student	Future_prospects	0.442
-244	United Kingdom	Student	Future_prospects	0.529
-245	United States	Student	Future_prospects	0.38
-246	Australia	Entrepreneurs	Future_prospects	0.689
-247	Austria	Entrepreneurs	Future_prospects	0.572
-248	Belgium	Entrepreneurs	Future_prospects	0.652
-249	Canada	Entrepreneurs	Future_prospects	0.75
-250	Chile	Entrepreneurs	Future_prospects	0.514
-251	Czech Republic	Entrepreneurs	Future_prospects	0.543
-252	Denmark	Entrepreneurs	Future_prospects	0.389
-253	Estonia	Entrepreneurs	Future_prospects	0.536
-254	Finland	Entrepreneurs	Future_prospects	0.584
-255	France	Entrepreneurs	Future_prospects	0.604
-256	Germany	Entrepreneurs	Future_prospects	0.601
-257	Greece	Entrepreneurs	Future_prospects	0.641
-258	Hungary	Entrepreneurs	Future_prospects	0.594
-259	Iceland	Entrepreneurs	Future_prospects	0.502
-260	Ireland	Entrepreneurs	Future_prospects	0.742
-261	Israel	Entrepreneurs	Future_prospects	0.418
-262	Italy	Entrepreneurs	Future_prospects	0.637
-263	Japan	Entrepreneurs	Future_prospects	0.624
-264	Korea	Entrepreneurs	Future_prospects	0.56
-265	Latvia	Entrepreneurs	Future_prospects	0.517
-266	Luxembourg	Entrepreneurs	Future_prospects	0.434
-267	Mexico	Entrepreneurs	Future_prospects	0.544
-268	Netherlands	Entrepreneurs	Future_prospects	0.656
-269	New Zealand	Entrepreneurs	Future_prospects	0.702
-270	Norway	Entrepreneurs	Future_prospects	0.599
-271	Poland	Entrepreneurs	Future_prospects	0.432
-272	Portugal	Entrepreneurs	Future_prospects	0.789
-273	Slovak Republic	Entrepreneurs	Future_prospects	0.649
-274	Slovenia	Entrepreneurs	Future_prospects	0.746
-275	Spain	Entrepreneurs	Future_prospects	0.705
-276	Sweden	Entrepreneurs	Future_prospects	0.652
-277	Switzerland	Entrepreneurs	Future_prospects	0.428
-278	Turkey	Entrepreneurs	Future_prospects	0.145
-279	United Kingdom	Entrepreneurs	Future_prospects	0.594
-280	United States	Entrepreneurs	Future_prospects	0.507
-281	Australia	Workers	Future_prospects	0.689
-282	Austria	Workers	Future_prospects	0.572
-283	Belgium	Workers	Future_prospects	0.652
-284	Canada	Workers	Future_prospects	0.75
-285	Chile	Workers	Future_prospects	0.514
-286	Czech Republic	Workers	Future_prospects	0.543
-287	Denmark	Workers	Future_prospects	0.389
-288	Estonia	Workers	Future_prospects	0.536
-289	Finland	Workers	Future_prospects	0.584
-290	France	Workers	Future_prospects	0.604
-291	Germany	Workers	Future_prospects	0.601
-292	Greece	Workers	Future_prospects	0.641
-293	Hungary	Workers	Future_prospects	0.594
-294	Iceland	Workers	Future_prospects	0.502
-295	Ireland	Workers	Future_prospects	0.742
-296	Israel	Workers	Future_prospects	0.418
-297	Italy	Workers	Future_prospects	0.637
-298	Japan	Workers	Future_prospects	0.624
-299	Korea	Workers	Future_prospects	0.56
-300	Latvia	Workers	Future_prospects	0.517
-301	Luxembourg	Workers	Future_prospects	0.434
-302	Mexico	Workers	Future_prospects	0.544
-303	Netherlands	Workers	Future_prospects	0.656
-304	New Zealand	Workers	Future_prospects	0.702
-305	Norway	Workers	Future_prospects	0.599
-306	Poland	Workers	Future_prospects	0.432
-307	Portugal	Workers	Future_prospects	0.789
-308	Slovak Republic	Workers	Future_prospects	0.649
-309	Slovenia	Workers	Future_prospects	0.746
-310	Spain	Workers	Future_prospects	0.705
-311	Sweden	Workers	Future_prospects	0.652
-312	Switzerland	Workers	Future_prospects	0.428
-313	Turkey	Workers	Future_prospects	0.145
-314	United Kingdom	Workers	Future_prospects	0.594
-315	United States	Workers	Future_prospects	0.507
-316	Australia	Student	Family_environment	0.48
-317	Austria	Student	Family_environment	0.346
-318	Belgium	Student	Family_environment	0.453
-319	Canada	Student	Family_environment	0.656
-320	Chile	Student	Family_environment	0.518
-321	Czech Republic	Student	Family_environment	0.32
-322	Denmark	Student	Family_environment	0.497
-323	Estonia	Student	Family_environment	0.471
-324	Finland	Student	Family_environment	0.549
-325	France	Student	Family_environment	0.593
-326	Germany	Student	Family_environment	0.537
-327	Greece	Student	Family_environment	0.27
-328	Hungary	Student	Family_environment	0.293
-329	Iceland	Student	Family_environment	0.544
-330	Ireland	Student	Family_environment	0.407
-331	Israel	Student	Family_environment	0.439
-332	Italy	Student	Family_environment	0.534
-333	Japan	Student	Family_environment	0.398
-334	Korea	Student	Family_environment	0.507
-335	Latvia	Student	Family_environment	0.379
-336	Luxembourg	Student	Family_environment	0.496
-337	Mexico	Student	Family_environment	0.5
-338	Netherlands	Student	Family_environment	0.453
-339	New Zealand	Student	Family_environment	0.503
-340	Norway	Student	Family_environment	0.66
-341	Poland	Student	Family_environment	0.35
-342	Portugal	Student	Family_environment	0.613
-343	Slovak Republic	Student	Family_environment	0.632
-344	Slovenia	Student	Family_environment	0.58
-345	Spain	Student	Family_environment	0.494
-346	Sweden	Student	Family_environment	0.569
-347	Switzerland	Student	Family_environment	0.536
-348	Turkey	Student	Family_environment	0.124
-349	United Kingdom	Student	Family_environment	0.648
-350	United States	Student	Family_environment	0.45
-351	Australia	Entrepreneurs	Family_environment	0.647
-352	Austria	Entrepreneurs	Family_environment	0.68
-353	Belgium	Entrepreneurs	Family_environment	0.453
-354	Canada	Entrepreneurs	Family_environment	0.572
-355	Chile	Entrepreneurs	Family_environment	0.518
-356	Czech Republic	Entrepreneurs	Family_environment	0.487
-357	Denmark	Entrepreneurs	Family_environment	0.58
-358	Estonia	Entrepreneurs	Family_environment	0.638
-359	Finland	Entrepreneurs	Family_environment	0.549
-360	France	Entrepreneurs	Family_environment	0.676
-361	Germany	Entrepreneurs	Family_environment	0.62
-362	Greece	Entrepreneurs	Family_environment	0.603
-363	Hungary	Entrepreneurs	Family_environment	0.459
-364	Iceland	Entrepreneurs	Family_environment	0.544
-365	Ireland	Entrepreneurs	Family_environment	0.574
-366	Israel	Entrepreneurs	Family_environment	0.439
-367	Italy	Entrepreneurs	Family_environment	0.534
-368	Japan	Entrepreneurs	Family_environment	0.398
-369	Korea	Entrepreneurs	Family_environment	0.507
-370	Latvia	Entrepreneurs	Family_environment	0.379
-371	Luxembourg	Entrepreneurs	Family_environment	0.413
-372	Mexico	Entrepreneurs	Family_environment	0.5
-373	Netherlands	Entrepreneurs	Family_environment	0.703
-374	New Zealand	Entrepreneurs	Family_environment	0.67
-375	Norway	Entrepreneurs	Family_environment	0.66
-376	Poland	Entrepreneurs	Family_environment	0.433
-377	Portugal	Entrepreneurs	Family_environment	0.613
-378	Slovak Republic	Entrepreneurs	Family_environment	0.632
-379	Slovenia	Entrepreneurs	Family_environment	0.58
-380	Spain	Entrepreneurs	Family_environment	0.661
-381	Sweden	Entrepreneurs	Family_environment	0.735
-382	Switzerland	Entrepreneurs	Family_environment	0.619
-383	Turkey	Entrepreneurs	Family_environment	0.374
-384	United Kingdom	Entrepreneurs	Family_environment	0.731
-385	United States	Entrepreneurs	Family_environment	0.616
-386	Australia	Workers	Family_environment	0.647
-387	Austria	Workers	Family_environment	0.68
-388	Belgium	Workers	Family_environment	0.453
-389	Canada	Workers	Family_environment	0.572
-390	Chile	Workers	Family_environment	0.518
-391	Czech Republic	Workers	Family_environment	0.487
-392	Denmark	Workers	Family_environment	0.58
-393	Estonia	Workers	Family_environment	0.638
-394	Finland	Workers	Family_environment	0.549
-395	France	Workers	Family_environment	0.676
-396	Germany	Workers	Family_environment	0.62
-397	Greece	Workers	Family_environment	0.603
-398	Hungary	Workers	Family_environment	0.459
-399	Iceland	Workers	Family_environment	0.544
-400	Ireland	Workers	Family_environment	0.574
-401	Israel	Workers	Family_environment	0.439
-402	Italy	Workers	Family_environment	0.534
-403	Japan	Workers	Family_environment	0.398
-404	Korea	Workers	Family_environment	0.507
-405	Latvia	Workers	Family_environment	0.379
-406	Luxembourg	Workers	Family_environment	0.496
-407	Mexico	Workers	Family_environment	0.5
-408	Netherlands	Workers	Family_environment	0.703
-409	New Zealand	Workers	Family_environment	0.67
-410	Norway	Workers	Family_environment	0.66
-411	Poland	Workers	Family_environment	0.433
-412	Portugal	Workers	Family_environment	0.613
-413	Slovak Republic	Workers	Family_environment	0.632
-414	Slovenia	Workers	Family_environment	0.58
-415	Spain	Workers	Family_environment	0.661
-416	Sweden	Workers	Family_environment	0.735
-417	Switzerland	Workers	Family_environment	0.619
-418	Turkey	Workers	Family_environment	0.374
-419	United Kingdom	Workers	Family_environment	0.731
-420	United States	Workers	Family_environment	0.616
-421	Australia	Student	Skills_environment	0.791
-422	Austria	Student	Skills_environment	0.636
-423	Belgium	Student	Skills_environment	0.588
-424	Canada	Student	Skills_environment	0.911
-425	Chile	Student	Skills_environment	0.515
-426	Czech Republic	Student	Skills_environment	0.542
-427	Denmark	Student	Skills_environment	0.747
-428	Estonia	Student	Skills_environment	0.692
-429	Finland	Student	Skills_environment	0.75
-430	France	Student	Skills_environment	0.533
-431	Germany	Student	Skills_environment	0.601
-432	Greece	Student	Skills_environment	0.507
-433	Hungary	Student	Skills_environment	0.482
-434	Iceland	Student	Skills_environment	0.709
-435	Ireland	Student	Skills_environment	0.689
-436	Israel	Student	Skills_environment	0.546
-437	Italy	Student	Skills_environment	0.416
-438	Japan	Student	Skills_environment	0.394
-439	Korea	Student	Skills_environment	0.735
-440	Latvia	Student	Skills_environment	0.554
-441	Luxembourg	Student	Skills_environment	0.591
-442	Mexico	Student	Skills_environment	0.209
-443	Netherlands	Student	Skills_environment	0.774
-444	New Zealand	Student	Skills_environment	0.77
-445	Norway	Student	Skills_environment	0.769
-446	Poland	Student	Skills_environment	0.535
-447	Portugal	Student	Skills_environment	0.517
-448	Slovak Republic	Student	Skills_environment	0.521
-449	Slovenia	Student	Skills_environment	0.518
-450	Spain	Student	Skills_environment	0.48
-451	Sweden	Student	Skills_environment	0.743
-452	Switzerland	Student	Skills_environment	0.598
-453	Turkey	Student	Skills_environment	0.373
-454	United Kingdom	Student	Skills_environment	0.828
-455	United States	Student	Skills_environment	0.875
-456	Australia	Entrepreneurs	Skills_environment	0.556
-457	Austria	Entrepreneurs	Skills_environment	0.519
-458	Belgium	Entrepreneurs	Skills_environment	0.474
-459	Canada	Entrepreneurs	Skills_environment	0.538
-460	Chile	Entrepreneurs	Skills_environment	0.175
-461	Czech Republic	Entrepreneurs	Skills_environment	0.426
-462	Denmark	Entrepreneurs	Skills_environment	0.595
-463	Estonia	Entrepreneurs	Skills_environment	0.43
-464	Finland	Entrepreneurs	Skills_environment	0.586
-465	France	Entrepreneurs	Skills_environment	0.445
-466	Germany	Entrepreneurs	Skills_environment	0.627
-467	Greece	Entrepreneurs	Skills_environment	0.269
-468	Hungary	Entrepreneurs	Skills_environment	0.376
-469	Iceland	Entrepreneurs	Skills_environment	0.559
-470	Ireland	Entrepreneurs	Skills_environment	0.521
-471	Israel	Entrepreneurs	Skills_environment	0.548
-472	Italy	Entrepreneurs	Skills_environment	0.338
-473	Japan	Entrepreneurs	Skills_environment	0.628
-474	Korea	Entrepreneurs	Skills_environment	0.697
-475	Latvia	Entrepreneurs	Skills_environment	0.328
-476	Luxembourg	Entrepreneurs	Skills_environment	0.503
-477	Mexico	Entrepreneurs	Skills_environment	0.062
-478	Netherlands	Entrepreneurs	Skills_environment	0.558
-479	New Zealand	Entrepreneurs	Skills_environment	0.479
-480	Norway	Entrepreneurs	Skills_environment	0.545
-481	Poland	Entrepreneurs	Skills_environment	0.353
-482	Portugal	Entrepreneurs	Skills_environment	0.348
-483	Slovak Republic	Entrepreneurs	Skills_environment	0.377
-484	Slovenia	Entrepreneurs	Skills_environment	0.437
-485	Spain	Entrepreneurs	Skills_environment	0.332
-486	Sweden	Entrepreneurs	Skills_environment	0.617
-487	Switzerland	Entrepreneurs	Skills_environment	0.547
-488	Turkey	Entrepreneurs	Skills_environment	0.178
-489	United Kingdom	Entrepreneurs	Skills_environment	0.585
-490	United States	Entrepreneurs	Skills_environment	0.764
-491	Australia	Workers	Skills_environment	0.556
-492	Austria	Workers	Skills_environment	0.519
-493	Belgium	Workers	Skills_environment	0.474
-494	Canada	Workers	Skills_environment	0.538
-495	Chile	Workers	Skills_environment	0.175
-496	Czech Republic	Workers	Skills_environment	0.426
-497	Denmark	Workers	Skills_environment	0.595
-498	Estonia	Workers	Skills_environment	0.43
-499	Finland	Workers	Skills_environment	0.586
-500	France	Workers	Skills_environment	0.445
-501	Germany	Workers	Skills_environment	0.627
-502	Greece	Workers	Skills_environment	0.269
-503	Hungary	Workers	Skills_environment	0.376
-504	Iceland	Workers	Skills_environment	0.559
-505	Ireland	Workers	Skills_environment	0.521
-506	Israel	Workers	Skills_environment	0.548
-507	Italy	Workers	Skills_environment	0.338
-508	Japan	Workers	Skills_environment	0.628
-509	Korea	Workers	Skills_environment	0.697
-510	Latvia	Workers	Skills_environment	0.328
-511	Luxembourg	Workers	Skills_environment	0.503
-512	Mexico	Workers	Skills_environment	0.062
-513	Netherlands	Workers	Skills_environment	0.558
-514	New Zealand	Workers	Skills_environment	0.479
-515	Norway	Workers	Skills_environment	0.545
-516	Poland	Workers	Skills_environment	0.353
-517	Portugal	Workers	Skills_environment	0.348
-518	Slovak Republic	Workers	Skills_environment	0.377
-519	Slovenia	Workers	Skills_environment	0.437
-520	Spain	Workers	Skills_environment	0.332
-521	Sweden	Workers	Skills_environment	0.617
-522	Switzerland	Workers	Skills_environment	0.547
-523	Turkey	Workers	Skills_environment	0.178
-524	United Kingdom	Workers	Skills_environment	0.585
-525	United States	Workers	Skills_environment	0.764
-526	Australia	Student	Inclusiveness	0.622
-527	Austria	Student	Inclusiveness	0.567
-528	Belgium	Student	Inclusiveness	0.451
-529	Canada	Student	Inclusiveness	0.538
-530	Chile	Student	Inclusiveness	0.323
-531	Czech Republic	Student	Inclusiveness	0.355
-532	Denmark	Student	Inclusiveness	0.58
-533	Estonia	Student	Inclusiveness	0.537
-534	Finland	Student	Inclusiveness	0.553
-535	France	Student	Inclusiveness	0.435
-536	Germany	Student	Inclusiveness	0.54
-537	Greece	Student	Inclusiveness	0.138
-538	Hungary	Student	Inclusiveness	0.263
-539	Iceland	Student	Inclusiveness	0.521
-540	Ireland	Student	Inclusiveness	0.495
-541	Israel	Student	Inclusiveness	0.093
-542	Italy	Student	Inclusiveness	0.324
-543	Japan	Student	Inclusiveness	0.579
-544	Korea	Student	Inclusiveness	0.488
-545	Latvia	Student	Inclusiveness	0.409
-546	Luxembourg	Student	Inclusiveness	0.716
-547	Mexico	Student	Inclusiveness	0.122
-548	Netherlands	Student	Inclusiveness	0.493
-549	New Zealand	Student	Inclusiveness	0.632
-550	Norway	Student	Inclusiveness	0.467
-551	Poland	Student	Inclusiveness	0.438
-552	Portugal	Student	Inclusiveness	0.4
-553	Slovak Republic	Student	Inclusiveness	0.376
-554	Slovenia	Student	Inclusiveness	0.439
-555	Spain	Student	Inclusiveness	0.331
-556	Sweden	Student	Inclusiveness	0.537
-557	Switzerland	Student	Inclusiveness	0.7
-558	Turkey	Student	Inclusiveness	0.263
-559	United Kingdom	Student	Inclusiveness	0.375
-560	United States	Student	Inclusiveness	0.411
-561	Australia	Entrepreneurs	Inclusiveness	0.688
-562	Austria	Entrepreneurs	Inclusiveness	0.572
-563	Belgium	Entrepreneurs	Inclusiveness	0.465
-564	Canada	Entrepreneurs	Inclusiveness	0.612
-565	Chile	Entrepreneurs	Inclusiveness	0.347
-566	Czech Republic	Entrepreneurs	Inclusiveness	0.299
-567	Denmark	Entrepreneurs	Inclusiveness	0.582
-568	Estonia	Entrepreneurs	Inclusiveness	0.557
-569	Finland	Entrepreneurs	Inclusiveness	0.532
-570	France	Entrepreneurs	Inclusiveness	0.433
-571	Germany	Entrepreneurs	Inclusiveness	0.589
-572	Greece	Entrepreneurs	Inclusiveness	0.17
-573	Hungary	Entrepreneurs	Inclusiveness	0.225
-574	Iceland	Entrepreneurs	Inclusiveness	0.526
-575	Ireland	Entrepreneurs	Inclusiveness	0.582
-576	Israel	Entrepreneurs	Inclusiveness	0.221
-577	Italy	Entrepreneurs	Inclusiveness	0.374
-578	Japan	Entrepreneurs	Inclusiveness	0.561
-579	Korea	Entrepreneurs	Inclusiveness	0.495
-580	Latvia	Entrepreneurs	Inclusiveness	0.417
-581	Luxembourg	Entrepreneurs	Inclusiveness	0.716
-582	Mexico	Entrepreneurs	Inclusiveness	0.122
-583	Netherlands	Entrepreneurs	Inclusiveness	0.485
-584	New Zealand	Entrepreneurs	Inclusiveness	0.659
-585	Norway	Entrepreneurs	Inclusiveness	0.532
-586	Poland	Entrepreneurs	Inclusiveness	0.421
-587	Portugal	Entrepreneurs	Inclusiveness	0.426
-588	Slovak Republic	Entrepreneurs	Inclusiveness	0.337
-589	Slovenia	Entrepreneurs	Inclusiveness	0.481
-590	Spain	Entrepreneurs	Inclusiveness	0.4
-591	Sweden	Entrepreneurs	Inclusiveness	0.604
-592	Switzerland	Entrepreneurs	Inclusiveness	0.771
-593	Turkey	Entrepreneurs	Inclusiveness	0.27
-594	United Kingdom	Entrepreneurs	Inclusiveness	0.35
-595	United States	Entrepreneurs	Inclusiveness	0.489
-596	Australia	Workers	Inclusiveness	0.695
-597	Austria	Workers	Inclusiveness	0.579
-598	Belgium	Workers	Inclusiveness	0.487
-599	Canada	Workers	Inclusiveness	0.604
-600	Chile	Workers	Inclusiveness	0.357
-601	Czech Republic	Workers	Inclusiveness	0.304
-602	Denmark	Workers	Inclusiveness	0.588
-603	Estonia	Workers	Inclusiveness	0.56
-604	Finland	Workers	Inclusiveness	0.526
-605	France	Workers	Inclusiveness	0.436
-606	Germany	Workers	Inclusiveness	0.562
-607	Greece	Workers	Inclusiveness	0.129
-608	Hungary	Workers	Inclusiveness	0.226
-609	Iceland	Workers	Inclusiveness	0.516
-610	Ireland	Workers	Inclusiveness	0.587
-611	Israel	Workers	Inclusiveness	0.207
-612	Italy	Workers	Inclusiveness	0.333
-613	Japan	Workers	Inclusiveness	0.556
-614	Korea	Workers	Inclusiveness	0.484
-615	Latvia	Workers	Inclusiveness	0.413
-616	Luxembourg	Workers	Inclusiveness	0.716
-617	Mexico	Workers	Inclusiveness	0.128
-618	Netherlands	Workers	Inclusiveness	0.491
-619	New Zealand	Workers	Inclusiveness	0.668
-620	Norway	Workers	Inclusiveness	0.543
-621	Poland	Workers	Inclusiveness	0.421
-622	Portugal	Workers	Inclusiveness	0.424
-623	Slovak Republic	Workers	Inclusiveness	0.336
-624	Slovenia	Workers	Inclusiveness	0.451
-625	Spain	Workers	Inclusiveness	0.374
-626	Sweden	Workers	Inclusiveness	0.627
-627	Switzerland	Workers	Inclusiveness	0.773
-628	Turkey	Workers	Inclusiveness	0.281
-629	United Kingdom	Workers	Inclusiveness	0.384
-630	United States	Workers	Inclusiveness	0.48
-631	Australia	Student	Quality_of_life	0.764
-632	Austria	Student	Quality_of_life	0.661
-633	Belgium	Student	Quality_of_life	0.689
-634	Canada	Student	Quality_of_life	0.756
-635	Chile	Student	Quality_of_life	0.417
-636	Czech Republic	Student	Quality_of_life	0.562
-637	Denmark	Student	Quality_of_life	0.758
-638	Estonia	Student	Quality_of_life	0.547
-639	Finland	Student	Quality_of_life	0.727
-640	France	Student	Quality_of_life	0.631
-641	Germany	Student	Quality_of_life	0.709
-642	Greece	Student	Quality_of_life	0.364
-643	Hungary	Student	Quality_of_life	0.431
-644	Iceland	Student	Quality_of_life	0.742
-645	Ireland	Student	Quality_of_life	0.674
-646	Israel	Student	Quality_of_life	0.535
-647	Italy	Student	Quality_of_life	0.5
-648	Japan	Student	Quality_of_life	0.577
-649	Korea	Student	Quality_of_life	0.517
-650	Latvia	Student	Quality_of_life	0.41
-651	Luxembourg	Student	Quality_of_life	0.699
-652	Mexico	Student	Quality_of_life	0.281
-653	Netherlands	Student	Quality_of_life	0.739
-654	New Zealand	Student	Quality_of_life	0.689
-655	Norway	Student	Quality_of_life	0.788
-656	Poland	Student	Quality_of_life	0.494
-657	Portugal	Student	Quality_of_life	0.479
-658	Slovak Republic	Student	Quality_of_life	0.476
-659	Slovenia	Student	Quality_of_life	0.607
-660	Spain	Student	Quality_of_life	0.563
-661	Sweden	Student	Quality_of_life	0.752
-662	Switzerland	Student	Quality_of_life	0.762
-663	Turkey	Student	Quality_of_life	0.314
-664	United Kingdom	Student	Quality_of_life	0.667
-665	United States	Student	Quality_of_life	0.746
-666	Australia	Entrepreneurs	Quality_of_life	0.764
-667	Austria	Entrepreneurs	Quality_of_life	0.661
-668	Belgium	Entrepreneurs	Quality_of_life	0.689
-669	Canada	Entrepreneurs	Quality_of_life	0.756
-670	Chile	Entrepreneurs	Quality_of_life	0.417
-671	Czech Republic	Entrepreneurs	Quality_of_life	0.562
-672	Denmark	Entrepreneurs	Quality_of_life	0.758
-673	Estonia	Entrepreneurs	Quality_of_life	0.547
-674	Finland	Entrepreneurs	Quality_of_life	0.727
-675	France	Entrepreneurs	Quality_of_life	0.631
-676	Germany	Entrepreneurs	Quality_of_life	0.709
-677	Greece	Entrepreneurs	Quality_of_life	0.364
-678	Hungary	Entrepreneurs	Quality_of_life	0.431
-679	Iceland	Entrepreneurs	Quality_of_life	0.742
-680	Ireland	Entrepreneurs	Quality_of_life	0.674
-681	Israel	Entrepreneurs	Quality_of_life	0.535
-682	Italy	Entrepreneurs	Quality_of_life	0.5
-683	Japan	Entrepreneurs	Quality_of_life	0.577
-684	Korea	Entrepreneurs	Quality_of_life	0.517
-685	Latvia	Entrepreneurs	Quality_of_life	0.41
-686	Luxembourg	Entrepreneurs	Quality_of_life	0.699
-687	Mexico	Entrepreneurs	Quality_of_life	0.281
-688	Netherlands	Entrepreneurs	Quality_of_life	0.739
-689	New Zealand	Entrepreneurs	Quality_of_life	0.689
-690	Norway	Entrepreneurs	Quality_of_life	0.788
-691	Poland	Entrepreneurs	Quality_of_life	0.494
-692	Portugal	Entrepreneurs	Quality_of_life	0.479
-693	Slovak Republic	Entrepreneurs	Quality_of_life	0.476
-694	Slovenia	Entrepreneurs	Quality_of_life	0.607
-695	Spain	Entrepreneurs	Quality_of_life	0.563
-696	Sweden	Entrepreneurs	Quality_of_life	0.752
-697	Switzerland	Entrepreneurs	Quality_of_life	0.762
-698	Turkey	Entrepreneurs	Quality_of_life	0.314
-699	United Kingdom	Entrepreneurs	Quality_of_life	0.667
-700	United States	Entrepreneurs	Quality_of_life	0.746
-701	Australia	Workers	Quality_of_life	0.764
-702	Austria	Workers	Quality_of_life	0.661
-703	Belgium	Workers	Quality_of_life	0.689
-704	Canada	Workers	Quality_of_life	0.756
-705	Chile	Workers	Quality_of_life	0.417
-706	Czech Republic	Workers	Quality_of_life	0.562
-707	Denmark	Workers	Quality_of_life	0.758
-708	Estonia	Workers	Quality_of_life	0.547
-709	Finland	Workers	Quality_of_life	0.727
-710	France	Workers	Quality_of_life	0.631
-711	Germany	Workers	Quality_of_life	0.709
-712	Greece	Workers	Quality_of_life	0.364
-713	Hungary	Workers	Quality_of_life	0.431
-714	Iceland	Workers	Quality_of_life	0.742
-715	Ireland	Workers	Quality_of_life	0.674
-716	Israel	Workers	Quality_of_life	0.535
-717	Italy	Workers	Quality_of_life	0.5
-718	Japan	Workers	Quality_of_life	0.577
-719	Korea	Workers	Quality_of_life	0.517
-720	Latvia	Workers	Quality_of_life	0.41
-721	Luxembourg	Workers	Quality_of_life	0.699
-722	Mexico	Workers	Quality_of_life	0.281
-723	Netherlands	Workers	Quality_of_life	0.739
-724	New Zealand	Workers	Quality_of_life	0.689
-725	Norway	Workers	Quality_of_life	0.788
-726	Poland	Workers	Quality_of_life	0.494
-727	Portugal	Workers	Quality_of_life	0.479
-728	Slovak Republic	Workers	Quality_of_life	0.476
-729	Slovenia	Workers	Quality_of_life	0.607
-730	Spain	Workers	Quality_of_life	0.563
-731	Sweden	Workers	Quality_of_life	0.752
-732	Switzerland	Workers	Quality_of_life	0.762
-733	Turkey	Workers	Quality_of_life	0.314
-734	United Kingdom	Workers	Quality_of_life	0.667
-735	United States	Workers	Quality_of_life	0.746
-736	Australia	Student	Quality_of_opportunities_Quartiles	4
-737	Austria	Student	Quality_of_opportunities_Quartiles	2
-738	Belgium	Student	Quality_of_opportunities_Quartiles	3
-739	Canada	Student	Quality_of_opportunities_Quartiles	4
-740	Chile	Student	Quality_of_opportunities_Quartiles	1
-741	Czech Republic	Student	Quality_of_opportunities_Quartiles	1
-742	Denmark	Student	Quality_of_opportunities_Quartiles	2
-743	Estonia	Student	Quality_of_opportunities_Quartiles	1
-744	Finland	Student	Quality_of_opportunities_Quartiles	2
-745	France	Student	Quality_of_opportunities_Quartiles	4
-746	Germany	Student	Quality_of_opportunities_Quartiles	4
-747	Greece	Student	Quality_of_opportunities_Quartiles	2
-748	Hungary	Student	Quality_of_opportunities_Quartiles	1
-749	Iceland	Student	Quality_of_opportunities_Quartiles	1
-750	Ireland	Student	Quality_of_opportunities_Quartiles	2
-751	Israel	Student	Quality_of_opportunities_Quartiles	2
-752	Italy	Student	Quality_of_opportunities_Quartiles	4
-753	Japan	Student	Quality_of_opportunities_Quartiles	4
-754	Korea	Student	Quality_of_opportunities_Quartiles	3
-755	Latvia	Student	Quality_of_opportunities_Quartiles	1
-756	Luxembourg	Student	Quality_of_opportunities_Quartiles	1
-757	Mexico	Student	Quality_of_opportunities_Quartiles	1
-758	Netherlands	Student	Quality_of_opportunities_Quartiles	3
-759	New Zealand	Student	Quality_of_opportunities_Quartiles	2
-760	Norway	Student	Quality_of_opportunities_Quartiles	2
-761	Poland	Student	Quality_of_opportunities_Quartiles	2
-762	Portugal	Student	Quality_of_opportunities_Quartiles	2
-763	Slovak Republic	Student	Quality_of_opportunities_Quartiles	1
-764	Slovenia	Student	Quality_of_opportunities_Quartiles	1
-765	Spain	Student	Quality_of_opportunities_Quartiles	3
-766	Sweden	Student	Quality_of_opportunities_Quartiles	3
-767	Switzerland	Student	Quality_of_opportunities_Quartiles	3
-768	Turkey	Student	Quality_of_opportunities_Quartiles	1
-769	United Kingdom	Student	Quality_of_opportunities_Quartiles	4
-770	United States	Student	Quality_of_opportunities_Quartiles	4
-771	Australia	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-772	Austria	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-773	Belgium	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-774	Canada	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-775	Chile	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-776	Czech Republic	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-777	Denmark	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-778	Estonia	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-779	Finland	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-780	France	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-781	Germany	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-782	Greece	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-783	Hungary	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-784	Iceland	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-785	Ireland	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-786	Israel	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-787	Italy	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-788	Japan	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-789	Korea	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-790	Latvia	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-791	Luxembourg	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-792	Mexico	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-793	Netherlands	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-794	New Zealand	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-795	Norway	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-796	Poland	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-797	Portugal	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-798	Slovak Republic	Entrepreneurs	Quality_of_opportunities_Quartiles	1
-799	Slovenia	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-800	Spain	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-801	Sweden	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-802	Switzerland	Entrepreneurs	Quality_of_opportunities_Quartiles	2
-803	Turkey	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-804	United Kingdom	Entrepreneurs	Quality_of_opportunities_Quartiles	3
-805	United States	Entrepreneurs	Quality_of_opportunities_Quartiles	4
-806	Australia	Workers	Quality_of_opportunities_Quartiles	2
-807	Austria	Workers	Quality_of_opportunities_Quartiles	2
-808	Belgium	Workers	Quality_of_opportunities_Quartiles	3
-809	Canada	Workers	Quality_of_opportunities_Quartiles	3
-810	Chile	Workers	Quality_of_opportunities_Quartiles	2
-811	Czech Republic	Workers	Quality_of_opportunities_Quartiles	4
-812	Denmark	Workers	Quality_of_opportunities_Quartiles	2
-813	Estonia	Workers	Quality_of_opportunities_Quartiles	3
-814	Finland	Workers	Quality_of_opportunities_Quartiles	1
-815	France	Workers	Quality_of_opportunities_Quartiles	3
-816	Germany	Workers	Quality_of_opportunities_Quartiles	1
-817	Greece	Workers	Quality_of_opportunities_Quartiles	1
-818	Hungary	Workers	Quality_of_opportunities_Quartiles	4
-819	Iceland	Workers	Quality_of_opportunities_Quartiles	3
-820	Ireland	Workers	Quality_of_opportunities_Quartiles	3
-821	Israel	Workers	Quality_of_opportunities_Quartiles	1
-822	Italy	Workers	Quality_of_opportunities_Quartiles	1
-823	Japan	Workers	Quality_of_opportunities_Quartiles	1
-824	Korea	Workers	Quality_of_opportunities_Quartiles	1
-825	Latvia	Workers	Quality_of_opportunities_Quartiles	4
-826	Luxembourg	Workers	Quality_of_opportunities_Quartiles	4
-827	Mexico	Workers	Quality_of_opportunities_Quartiles	2
-828	Netherlands	Workers	Quality_of_opportunities_Quartiles	1
-829	New Zealand	Workers	Quality_of_opportunities_Quartiles	3
-830	Norway	Workers	Quality_of_opportunities_Quartiles	2
-831	Poland	Workers	Quality_of_opportunities_Quartiles	2
-832	Portugal	Workers	Quality_of_opportunities_Quartiles	3
-833	Slovak Republic	Workers	Quality_of_opportunities_Quartiles	4
-834	Slovenia	Workers	Quality_of_opportunities_Quartiles	4
-835	Spain	Workers	Quality_of_opportunities_Quartiles	1
-836	Sweden	Workers	Quality_of_opportunities_Quartiles	2
-837	Switzerland	Workers	Quality_of_opportunities_Quartiles	2
-838	Turkey	Workers	Quality_of_opportunities_Quartiles	4
-839	United Kingdom	Workers	Quality_of_opportunities_Quartiles	3
-840	United States	Workers	Quality_of_opportunities_Quartiles	4
-841	Australia	Student	Income_Quartiles	3
-842	Austria	Student	Income_Quartiles	2
-843	Belgium	Student	Income_Quartiles	1
-844	Canada	Student	Income_Quartiles	2
-845	Chile	Student	Income_Quartiles	1
-846	Czech Republic	Student	Income_Quartiles	1
-847	Denmark	Student	Income_Quartiles	3
-848	Estonia	Student	Income_Quartiles	1
-849	Finland	Student	Income_Quartiles	4
-850	France	Student	Income_Quartiles	4
-851	Germany	Student	Income_Quartiles	4
-852	Greece	Student	Income_Quartiles	1
-853	Hungary	Student	Income_Quartiles	3
-854	Iceland	Student	Income_Quartiles	4
-855	Ireland	Student	Income_Quartiles	3
-856	Israel	Student	Income_Quartiles	2
-857	Italy	Student	Income_Quartiles	4
-858	Japan	Student	Income_Quartiles	2
-859	Korea	Student	Income_Quartiles	3
-860	Latvia	Student	Income_Quartiles	1
-861	Luxembourg	Student	Income_Quartiles	2
-862	Mexico	Student	Income_Quartiles	1
-863	Netherlands	Student	Income_Quartiles	2
-864	New Zealand	Student	Income_Quartiles	2
-865	Norway	Student	Income_Quartiles	4
-866	Poland	Student	Income_Quartiles	1
-867	Portugal	Student	Income_Quartiles	3
-868	Slovak Republic	Student	Income_Quartiles	3
-869	Slovenia	Student	Income_Quartiles	4
-870	Spain	Student	Income_Quartiles	3
-871	Sweden	Student	Income_Quartiles	3
-872	Switzerland	Student	Income_Quartiles	4
-873	Turkey	Student	Income_Quartiles	1
-874	United Kingdom	Student	Income_Quartiles	2
-875	United States	Student	Income_Quartiles	2
-876	Australia	Entrepreneurs	Income_Quartiles	1
-877	Austria	Entrepreneurs	Income_Quartiles	3
-878	Belgium	Entrepreneurs	Income_Quartiles	1
-879	Canada	Entrepreneurs	Income_Quartiles	3
-880	Chile	Entrepreneurs	Income_Quartiles	4
-881	Czech Republic	Entrepreneurs	Income_Quartiles	4
-882	Denmark	Entrepreneurs	Income_Quartiles	2
-883	Estonia	Entrepreneurs	Income_Quartiles	3
-884	Finland	Entrepreneurs	Income_Quartiles	2
-885	France	Entrepreneurs	Income_Quartiles	1
-886	Germany	Entrepreneurs	Income_Quartiles	4
-887	Greece	Entrepreneurs	Income_Quartiles	1
-888	Hungary	Entrepreneurs	Income_Quartiles	4
-889	Iceland	Entrepreneurs	Income_Quartiles	3
-890	Ireland	Entrepreneurs	Income_Quartiles	4
-891	Israel	Entrepreneurs	Income_Quartiles	2
-892	Italy	Entrepreneurs	Income_Quartiles	2
-893	Japan	Entrepreneurs	Income_Quartiles	2
-894	Korea	Entrepreneurs	Income_Quartiles	3
-895	Latvia	Entrepreneurs	Income_Quartiles	3
-896	Luxembourg	Entrepreneurs	Income_Quartiles	2
-897	Mexico	Entrepreneurs	Income_Quartiles	2
-898	Netherlands	Entrepreneurs	Income_Quartiles	2
-899	New Zealand	Entrepreneurs	Income_Quartiles	1
-900	Norway	Entrepreneurs	Income_Quartiles	1
-901	Poland	Entrepreneurs	Income_Quartiles	4
-902	Portugal	Entrepreneurs	Income_Quartiles	1
-903	Slovak Republic	Entrepreneurs	Income_Quartiles	3
-904	Slovenia	Entrepreneurs	Income_Quartiles	4
-905	Spain	Entrepreneurs	Income_Quartiles	1
-906	Sweden	Entrepreneurs	Income_Quartiles	1
-907	Switzerland	Entrepreneurs	Income_Quartiles	4
-908	Turkey	Entrepreneurs	Income_Quartiles	3
-909	United Kingdom	Entrepreneurs	Income_Quartiles	2
-910	United States	Entrepreneurs	Income_Quartiles	3
-911	Australia	Workers	Income_Quartiles	2
-912	Austria	Workers	Income_Quartiles	2
-913	Belgium	Workers	Income_Quartiles	1
-914	Canada	Workers	Income_Quartiles	3
-915	Chile	Workers	Income_Quartiles	4
-916	Czech Republic	Workers	Income_Quartiles	3
-917	Denmark	Workers	Income_Quartiles	2
-918	Estonia	Workers	Income_Quartiles	2
-919	Finland	Workers	Income_Quartiles	2
-920	France	Workers	Income_Quartiles	1
-921	Germany	Workers	Income_Quartiles	2
-922	Greece	Workers	Income_Quartiles	1
-923	Hungary	Workers	Income_Quartiles	4
-924	Iceland	Workers	Income_Quartiles	3
-925	Ireland	Workers	Income_Quartiles	3
-926	Israel	Workers	Income_Quartiles	3
-927	Italy	Workers	Income_Quartiles	1
-928	Japan	Workers	Income_Quartiles	3
-929	Korea	Workers	Income_Quartiles	4
-930	Latvia	Workers	Income_Quartiles	2
-931	Luxembourg	Workers	Income_Quartiles	1
-932	Mexico	Workers	Income_Quartiles	4
-933	Netherlands	Workers	Income_Quartiles	4
-934	New Zealand	Workers	Income_Quartiles	4
-935	Norway	Workers	Income_Quartiles	1
-936	Poland	Workers	Income_Quartiles	4
-937	Portugal	Workers	Income_Quartiles	1
-938	Slovak Republic	Workers	Income_Quartiles	2
-939	Slovenia	Workers	Income_Quartiles	3
-940	Spain	Workers	Income_Quartiles	1
-941	Sweden	Workers	Income_Quartiles	1
-942	Switzerland	Workers	Income_Quartiles	3
-943	Turkey	Workers	Income_Quartiles	3
-944	United Kingdom	Workers	Income_Quartiles	2
-945	United States	Workers	Income_Quartiles	4
-946	Australia	Student	Future_prospects_Quartiles	3
-947	Austria	Student	Future_prospects_Quartiles	3
-948	Belgium	Student	Future_prospects_Quartiles	2
-949	Canada	Student	Future_prospects_Quartiles	2
-950	Chile	Student	Future_prospects_Quartiles	3
-951	Czech Republic	Student	Future_prospects_Quartiles	3
-952	Denmark	Student	Future_prospects_Quartiles	2
-953	Estonia	Student	Future_prospects_Quartiles	2
-954	Finland	Student	Future_prospects_Quartiles	2
-955	France	Student	Future_prospects_Quartiles	4
-956	Germany	Student	Future_prospects_Quartiles	3
-957	Greece	Student	Future_prospects_Quartiles	1
-958	Hungary	Student	Future_prospects_Quartiles	1
-959	Iceland	Student	Future_prospects_Quartiles	2
-960	Ireland	Student	Future_prospects_Quartiles	1
-961	Israel	Student	Future_prospects_Quartiles	1
-962	Italy	Student	Future_prospects_Quartiles	4
-963	Japan	Student	Future_prospects_Quartiles	3
-964	Korea	Student	Future_prospects_Quartiles	3
-965	Latvia	Student	Future_prospects_Quartiles	3
-966	Luxembourg	Student	Future_prospects_Quartiles	1
-967	Mexico	Student	Future_prospects_Quartiles	1
-968	Netherlands	Student	Future_prospects_Quartiles	4
-969	New Zealand	Student	Future_prospects_Quartiles	4
-970	Norway	Student	Future_prospects_Quartiles	2
-971	Poland	Student	Future_prospects_Quartiles	1
-972	Portugal	Student	Future_prospects_Quartiles	4
-973	Slovak Republic	Student	Future_prospects_Quartiles	4
-974	Slovenia	Student	Future_prospects_Quartiles	4
-975	Spain	Student	Future_prospects_Quartiles	4
-976	Sweden	Student	Future_prospects_Quartiles	3
-977	Switzerland	Student	Future_prospects_Quartiles	2
-978	Turkey	Student	Future_prospects_Quartiles	1
-979	United Kingdom	Student	Future_prospects_Quartiles	2
-980	United States	Student	Future_prospects_Quartiles	1
-981	Australia	Entrepreneurs	Future_prospects_Quartiles	4
-982	Austria	Entrepreneurs	Future_prospects_Quartiles	2
-983	Belgium	Entrepreneurs	Future_prospects_Quartiles	2
-984	Canada	Entrepreneurs	Future_prospects_Quartiles	4
-985	Chile	Entrepreneurs	Future_prospects_Quartiles	1
-986	Czech Republic	Entrepreneurs	Future_prospects_Quartiles	3
-987	Denmark	Entrepreneurs	Future_prospects_Quartiles	1
-988	Estonia	Entrepreneurs	Future_prospects_Quartiles	2
-989	Finland	Entrepreneurs	Future_prospects_Quartiles	2
-990	France	Entrepreneurs	Future_prospects_Quartiles	2
-991	Germany	Entrepreneurs	Future_prospects_Quartiles	2
-992	Greece	Entrepreneurs	Future_prospects_Quartiles	3
-993	Hungary	Entrepreneurs	Future_prospects_Quartiles	3
-994	Iceland	Entrepreneurs	Future_prospects_Quartiles	2
-995	Ireland	Entrepreneurs	Future_prospects_Quartiles	3
-996	Israel	Entrepreneurs	Future_prospects_Quartiles	1
-997	Italy	Entrepreneurs	Future_prospects_Quartiles	3
-998	Japan	Entrepreneurs	Future_prospects_Quartiles	4
-999	Korea	Entrepreneurs	Future_prospects_Quartiles	4
-1000	Latvia	Entrepreneurs	Future_prospects_Quartiles	4
-1001	Luxembourg	Entrepreneurs	Future_prospects_Quartiles	1
-1002	Mexico	Entrepreneurs	Future_prospects_Quartiles	1
-1003	Netherlands	Entrepreneurs	Future_prospects_Quartiles	3
-1004	New Zealand	Entrepreneurs	Future_prospects_Quartiles	3
-1005	Norway	Entrepreneurs	Future_prospects_Quartiles	2
-1006	Poland	Entrepreneurs	Future_prospects_Quartiles	1
-1007	Portugal	Entrepreneurs	Future_prospects_Quartiles	4
-1008	Slovak Republic	Entrepreneurs	Future_prospects_Quartiles	4
-1009	Slovenia	Entrepreneurs	Future_prospects_Quartiles	4
-1010	Spain	Entrepreneurs	Future_prospects_Quartiles	3
-1011	Sweden	Entrepreneurs	Future_prospects_Quartiles	3
-1012	Switzerland	Entrepreneurs	Future_prospects_Quartiles	1
-1013	Turkey	Entrepreneurs	Future_prospects_Quartiles	1
-1014	United Kingdom	Entrepreneurs	Future_prospects_Quartiles	2
-1015	United States	Entrepreneurs	Future_prospects_Quartiles	1
-1016	Australia	Workers	Future_prospects_Quartiles	4
-1017	Austria	Workers	Future_prospects_Quartiles	2
-1018	Belgium	Workers	Future_prospects_Quartiles	2
-1019	Canada	Workers	Future_prospects_Quartiles	4
-1020	Chile	Workers	Future_prospects_Quartiles	1
-1021	Czech Republic	Workers	Future_prospects_Quartiles	3
-1022	Denmark	Workers	Future_prospects_Quartiles	1
-1023	Estonia	Workers	Future_prospects_Quartiles	2
-1024	Finland	Workers	Future_prospects_Quartiles	2
-1025	France	Workers	Future_prospects_Quartiles	2
-1026	Germany	Workers	Future_prospects_Quartiles	2
-1027	Greece	Workers	Future_prospects_Quartiles	3
-1028	Hungary	Workers	Future_prospects_Quartiles	3
-1029	Iceland	Workers	Future_prospects_Quartiles	2
-1030	Ireland	Workers	Future_prospects_Quartiles	3
-1031	Israel	Workers	Future_prospects_Quartiles	1
-1032	Italy	Workers	Future_prospects_Quartiles	3
-1033	Japan	Workers	Future_prospects_Quartiles	4
-1034	Korea	Workers	Future_prospects_Quartiles	4
-1035	Latvia	Workers	Future_prospects_Quartiles	4
-1036	Luxembourg	Workers	Future_prospects_Quartiles	1
-1037	Mexico	Workers	Future_prospects_Quartiles	1
-1038	Netherlands	Workers	Future_prospects_Quartiles	3
-1039	New Zealand	Workers	Future_prospects_Quartiles	3
-1040	Norway	Workers	Future_prospects_Quartiles	2
-1041	Poland	Workers	Future_prospects_Quartiles	1
-1042	Portugal	Workers	Future_prospects_Quartiles	4
-1043	Slovak Republic	Workers	Future_prospects_Quartiles	4
-1044	Slovenia	Workers	Future_prospects_Quartiles	4
-1045	Spain	Workers	Future_prospects_Quartiles	3
-1046	Sweden	Workers	Future_prospects_Quartiles	3
-1047	Switzerland	Workers	Future_prospects_Quartiles	1
-1048	Turkey	Workers	Future_prospects_Quartiles	1
-1049	United Kingdom	Workers	Future_prospects_Quartiles	2
-1050	United States	Workers	Future_prospects_Quartiles	1
-1051	Australia	Student	Family_environment_Quartiles	2
-1052	Austria	Student	Family_environment_Quartiles	1
-1053	Belgium	Student	Family_environment_Quartiles	2
-1054	Canada	Student	Family_environment_Quartiles	4
-1055	Chile	Student	Family_environment_Quartiles	3
-1056	Czech Republic	Student	Family_environment_Quartiles	1
-1057	Denmark	Student	Family_environment_Quartiles	3
-1058	Estonia	Student	Family_environment_Quartiles	2
-1059	Finland	Student	Family_environment_Quartiles	4
-1060	France	Student	Family_environment_Quartiles	4
-1061	Germany	Student	Family_environment_Quartiles	3
-1062	Greece	Student	Family_environment_Quartiles	1
-1063	Hungary	Student	Family_environment_Quartiles	1
-1064	Iceland	Student	Family_environment_Quartiles	3
-1065	Ireland	Student	Family_environment_Quartiles	1
-1066	Israel	Student	Family_environment_Quartiles	2
-1067	Italy	Student	Family_environment_Quartiles	3
-1068	Japan	Student	Family_environment_Quartiles	1
-1069	Korea	Student	Family_environment_Quartiles	3
-1070	Latvia	Student	Family_environment_Quartiles	1
-1071	Luxembourg	Student	Family_environment_Quartiles	2
-1072	Mexico	Student	Family_environment_Quartiles	3
-1073	Netherlands	Student	Family_environment_Quartiles	2
-1074	New Zealand	Student	Family_environment_Quartiles	3
-1075	Norway	Student	Family_environment_Quartiles	4
-1076	Poland	Student	Family_environment_Quartiles	1
-1077	Portugal	Student	Family_environment_Quartiles	4
-1078	Slovak Republic	Student	Family_environment_Quartiles	4
-1079	Slovenia	Student	Family_environment_Quartiles	4
-1080	Spain	Student	Family_environment_Quartiles	2
-1081	Sweden	Student	Family_environment_Quartiles	2
-1082	Switzerland	Student	Family_environment_Quartiles	3
-1083	Turkey	Student	Family_environment_Quartiles	1
-1084	United Kingdom	Student	Family_environment_Quartiles	4
-1085	United States	Student	Family_environment_Quartiles	2
-1086	Australia	Entrepreneurs	Family_environment_Quartiles	3
-1087	Austria	Entrepreneurs	Family_environment_Quartiles	4
-1088	Belgium	Entrepreneurs	Family_environment_Quartiles	1
-1089	Canada	Entrepreneurs	Family_environment_Quartiles	2
-1090	Chile	Entrepreneurs	Family_environment_Quartiles	2
-1091	Czech Republic	Entrepreneurs	Family_environment_Quartiles	1
-1092	Denmark	Entrepreneurs	Family_environment_Quartiles	3
-1093	Estonia	Entrepreneurs	Family_environment_Quartiles	3
-1094	Finland	Entrepreneurs	Family_environment_Quartiles	2
-1095	France	Entrepreneurs	Family_environment_Quartiles	4
-1096	Germany	Entrepreneurs	Family_environment_Quartiles	3
-1097	Greece	Entrepreneurs	Family_environment_Quartiles	3
-1098	Hungary	Entrepreneurs	Family_environment_Quartiles	1
-1099	Iceland	Entrepreneurs	Family_environment_Quartiles	2
-1100	Ireland	Entrepreneurs	Family_environment_Quartiles	2
-1101	Israel	Entrepreneurs	Family_environment_Quartiles	1
-1102	Italy	Entrepreneurs	Family_environment_Quartiles	2
-1103	Japan	Entrepreneurs	Family_environment_Quartiles	1
-1104	Korea	Entrepreneurs	Family_environment_Quartiles	2
-1105	Latvia	Entrepreneurs	Family_environment_Quartiles	1
-1106	Luxembourg	Entrepreneurs	Family_environment_Quartiles	1
-1107	Mexico	Entrepreneurs	Family_environment_Quartiles	2
-1108	Netherlands	Entrepreneurs	Family_environment_Quartiles	4
-1109	New Zealand	Entrepreneurs	Family_environment_Quartiles	4
-1110	Norway	Entrepreneurs	Family_environment_Quartiles	4
-1111	Poland	Entrepreneurs	Family_environment_Quartiles	1
-1112	Portugal	Entrepreneurs	Family_environment_Quartiles	3
-1113	Slovak Republic	Entrepreneurs	Family_environment_Quartiles	3
-1114	Slovenia	Entrepreneurs	Family_environment_Quartiles	2
-1115	Spain	Entrepreneurs	Family_environment_Quartiles	4
-1116	Sweden	Entrepreneurs	Family_environment_Quartiles	4
-1117	Switzerland	Entrepreneurs	Family_environment_Quartiles	3
-1118	Turkey	Entrepreneurs	Family_environment_Quartiles	1
-1119	United Kingdom	Entrepreneurs	Family_environment_Quartiles	4
-1120	United States	Entrepreneurs	Family_environment_Quartiles	3
-1121	Australia	Workers	Family_environment_Quartiles	3
-1122	Austria	Workers	Family_environment_Quartiles	4
-1123	Belgium	Workers	Family_environment_Quartiles	1
-1124	Canada	Workers	Family_environment_Quartiles	2
-1125	Chile	Workers	Family_environment_Quartiles	2
-1126	Czech Republic	Workers	Family_environment_Quartiles	1
-1127	Denmark	Workers	Family_environment_Quartiles	3
-1128	Estonia	Workers	Family_environment_Quartiles	3
-1129	Finland	Workers	Family_environment_Quartiles	2
-1130	France	Workers	Family_environment_Quartiles	4
-1131	Germany	Workers	Family_environment_Quartiles	3
-1132	Greece	Workers	Family_environment_Quartiles	3
-1133	Hungary	Workers	Family_environment_Quartiles	1
-1134	Iceland	Workers	Family_environment_Quartiles	2
-1135	Ireland	Workers	Family_environment_Quartiles	2
-1136	Israel	Workers	Family_environment_Quartiles	1
-1137	Italy	Workers	Family_environment_Quartiles	2
-1138	Japan	Workers	Family_environment_Quartiles	1
-1139	Korea	Workers	Family_environment_Quartiles	2
-1140	Latvia	Workers	Family_environment_Quartiles	1
-1141	Luxembourg	Workers	Family_environment_Quartiles	1
-1142	Mexico	Workers	Family_environment_Quartiles	2
-1143	Netherlands	Workers	Family_environment_Quartiles	4
-1144	New Zealand	Workers	Family_environment_Quartiles	4
-1145	Norway	Workers	Family_environment_Quartiles	4
-1146	Poland	Workers	Family_environment_Quartiles	1
-1147	Portugal	Workers	Family_environment_Quartiles	3
-1148	Slovak Republic	Workers	Family_environment_Quartiles	3
-1149	Slovenia	Workers	Family_environment_Quartiles	2
-1150	Spain	Workers	Family_environment_Quartiles	4
-1151	Sweden	Workers	Family_environment_Quartiles	4
-1152	Switzerland	Workers	Family_environment_Quartiles	3
-1153	Turkey	Workers	Family_environment_Quartiles	1
-1154	United Kingdom	Workers	Family_environment_Quartiles	4
-1155	United States	Workers	Family_environment_Quartiles	3
-1156	Australia	Student	Skills_environment_Quartiles	4
-1157	Austria	Student	Skills_environment_Quartiles	3
-1158	Belgium	Student	Skills_environment_Quartiles	2
-1159	Canada	Student	Skills_environment_Quartiles	4
-1160	Chile	Student	Skills_environment_Quartiles	1
-1161	Czech Republic	Student	Skills_environment_Quartiles	2
-1162	Denmark	Student	Skills_environment_Quartiles	3
-1163	Estonia	Student	Skills_environment_Quartiles	3
-1164	Finland	Student	Skills_environment_Quartiles	4
-1165	France	Student	Skills_environment_Quartiles	2
-1166	Germany	Student	Skills_environment_Quartiles	3
-1167	Greece	Student	Skills_environment_Quartiles	1
-1168	Hungary	Student	Skills_environment_Quartiles	1
-1169	Iceland	Student	Skills_environment_Quartiles	3
-1170	Ireland	Student	Skills_environment_Quartiles	3
-1171	Israel	Student	Skills_environment_Quartiles	2
-1172	Italy	Student	Skills_environment_Quartiles	1
-1173	Japan	Student	Skills_environment_Quartiles	1
-1174	Korea	Student	Skills_environment_Quartiles	3
-1175	Latvia	Student	Skills_environment_Quartiles	2
-1176	Luxembourg	Student	Skills_environment_Quartiles	2
-1177	Mexico	Student	Skills_environment_Quartiles	1
-1178	Netherlands	Student	Skills_environment_Quartiles	4
-1179	New Zealand	Student	Skills_environment_Quartiles	4
-1180	Norway	Student	Skills_environment_Quartiles	4
-1181	Poland	Student	Skills_environment_Quartiles	2
-1182	Portugal	Student	Skills_environment_Quartiles	1
-1183	Slovak Republic	Student	Skills_environment_Quartiles	2
-1184	Slovenia	Student	Skills_environment_Quartiles	2
-1185	Spain	Student	Skills_environment_Quartiles	1
-1186	Sweden	Student	Skills_environment_Quartiles	3
-1187	Switzerland	Student	Skills_environment_Quartiles	3
-1188	Turkey	Student	Skills_environment_Quartiles	1
-1189	United Kingdom	Student	Skills_environment_Quartiles	4
-1190	United States	Student	Skills_environment_Quartiles	4
-1191	Australia	Entrepreneurs	Skills_environment_Quartiles	3
-1192	Austria	Entrepreneurs	Skills_environment_Quartiles	3
-1193	Belgium	Entrepreneurs	Skills_environment_Quartiles	2
-1194	Canada	Entrepreneurs	Skills_environment_Quartiles	3
-1195	Chile	Entrepreneurs	Skills_environment_Quartiles	1
-1196	Czech Republic	Entrepreneurs	Skills_environment_Quartiles	2
-1197	Denmark	Entrepreneurs	Skills_environment_Quartiles	4
-1198	Estonia	Entrepreneurs	Skills_environment_Quartiles	2
-1199	Finland	Entrepreneurs	Skills_environment_Quartiles	4
-1200	France	Entrepreneurs	Skills_environment_Quartiles	2
-1201	Germany	Entrepreneurs	Skills_environment_Quartiles	4
-1202	Greece	Entrepreneurs	Skills_environment_Quartiles	1
-1203	Hungary	Entrepreneurs	Skills_environment_Quartiles	2
-1204	Iceland	Entrepreneurs	Skills_environment_Quartiles	3
-1205	Ireland	Entrepreneurs	Skills_environment_Quartiles	3
-1206	Israel	Entrepreneurs	Skills_environment_Quartiles	3
-1207	Italy	Entrepreneurs	Skills_environment_Quartiles	1
-1208	Japan	Entrepreneurs	Skills_environment_Quartiles	4
-1209	Korea	Entrepreneurs	Skills_environment_Quartiles	4
-1210	Latvia	Entrepreneurs	Skills_environment_Quartiles	1
-1211	Luxembourg	Entrepreneurs	Skills_environment_Quartiles	2
-1212	Mexico	Entrepreneurs	Skills_environment_Quartiles	1
-1213	Netherlands	Entrepreneurs	Skills_environment_Quartiles	3
-1214	New Zealand	Entrepreneurs	Skills_environment_Quartiles	2
-1215	Norway	Entrepreneurs	Skills_environment_Quartiles	3
-1216	Poland	Entrepreneurs	Skills_environment_Quartiles	1
-1217	Portugal	Entrepreneurs	Skills_environment_Quartiles	1
-1218	Slovak Republic	Entrepreneurs	Skills_environment_Quartiles	2
-1219	Slovenia	Entrepreneurs	Skills_environment_Quartiles	2
-1220	Spain	Entrepreneurs	Skills_environment_Quartiles	1
-1221	Sweden	Entrepreneurs	Skills_environment_Quartiles	4
-1222	Switzerland	Entrepreneurs	Skills_environment_Quartiles	3
-1223	Turkey	Entrepreneurs	Skills_environment_Quartiles	1
-1224	United Kingdom	Entrepreneurs	Skills_environment_Quartiles	4
-1225	United States	Entrepreneurs	Skills_environment_Quartiles	4
-1226	Australia	Workers	Skills_environment_Quartiles	3
-1227	Austria	Workers	Skills_environment_Quartiles	3
-1228	Belgium	Workers	Skills_environment_Quartiles	2
-1229	Canada	Workers	Skills_environment_Quartiles	3
-1230	Chile	Workers	Skills_environment_Quartiles	1
-1231	Czech Republic	Workers	Skills_environment_Quartiles	2
-1232	Denmark	Workers	Skills_environment_Quartiles	4
-1233	Estonia	Workers	Skills_environment_Quartiles	2
-1234	Finland	Workers	Skills_environment_Quartiles	4
-1235	France	Workers	Skills_environment_Quartiles	2
-1236	Germany	Workers	Skills_environment_Quartiles	4
-1237	Greece	Workers	Skills_environment_Quartiles	1
-1238	Hungary	Workers	Skills_environment_Quartiles	2
-1239	Iceland	Workers	Skills_environment_Quartiles	3
-1240	Ireland	Workers	Skills_environment_Quartiles	3
-1241	Israel	Workers	Skills_environment_Quartiles	3
-1242	Italy	Workers	Skills_environment_Quartiles	1
-1243	Japan	Workers	Skills_environment_Quartiles	4
-1244	Korea	Workers	Skills_environment_Quartiles	4
-1245	Latvia	Workers	Skills_environment_Quartiles	1
-1246	Luxembourg	Workers	Skills_environment_Quartiles	2
-1247	Mexico	Workers	Skills_environment_Quartiles	1
-1248	Netherlands	Workers	Skills_environment_Quartiles	3
-1249	New Zealand	Workers	Skills_environment_Quartiles	2
-1250	Norway	Workers	Skills_environment_Quartiles	3
-1251	Poland	Workers	Skills_environment_Quartiles	1
-1252	Portugal	Workers	Skills_environment_Quartiles	1
-1253	Slovak Republic	Workers	Skills_environment_Quartiles	2
-1254	Slovenia	Workers	Skills_environment_Quartiles	2
-1255	Spain	Workers	Skills_environment_Quartiles	1
-1256	Sweden	Workers	Skills_environment_Quartiles	4
-1257	Switzerland	Workers	Skills_environment_Quartiles	3
-1258	Turkey	Workers	Skills_environment_Quartiles	1
-1259	United Kingdom	Workers	Skills_environment_Quartiles	4
-1260	United States	Workers	Skills_environment_Quartiles	4
-1261	Australia	Student	Inclusiveness_Quartiles	4
-1262	Austria	Student	Inclusiveness_Quartiles	4
-1263	Belgium	Student	Inclusiveness_Quartiles	2
-1264	Canada	Student	Inclusiveness_Quartiles	3
-1265	Chile	Student	Inclusiveness_Quartiles	1
-1266	Czech Republic	Student	Inclusiveness_Quartiles	1
-1267	Denmark	Student	Inclusiveness_Quartiles	4
-1268	Estonia	Student	Inclusiveness_Quartiles	3
-1269	Finland	Student	Inclusiveness_Quartiles	4
-1270	France	Student	Inclusiveness_Quartiles	2
-1271	Germany	Student	Inclusiveness_Quartiles	3
-1272	Greece	Student	Inclusiveness_Quartiles	1
-1273	Hungary	Student	Inclusiveness_Quartiles	1
-1274	Iceland	Student	Inclusiveness_Quartiles	3
-1275	Ireland	Student	Inclusiveness_Quartiles	3
-1276	Israel	Student	Inclusiveness_Quartiles	1
-1277	Italy	Student	Inclusiveness_Quartiles	1
-1278	Japan	Student	Inclusiveness_Quartiles	4
-1279	Korea	Student	Inclusiveness_Quartiles	3
-1280	Latvia	Student	Inclusiveness_Quartiles	2
-1281	Luxembourg	Student	Inclusiveness_Quartiles	4
-1282	Mexico	Student	Inclusiveness_Quartiles	1
-1283	Netherlands	Student	Inclusiveness_Quartiles	3
-1284	New Zealand	Student	Inclusiveness_Quartiles	4
-1285	Norway	Student	Inclusiveness_Quartiles	3
-1286	Poland	Student	Inclusiveness_Quartiles	2
-1287	Portugal	Student	Inclusiveness_Quartiles	2
-1288	Slovak Republic	Student	Inclusiveness_Quartiles	2
-1289	Slovenia	Student	Inclusiveness_Quartiles	2
-1290	Spain	Student	Inclusiveness_Quartiles	1
-1291	Sweden	Student	Inclusiveness_Quartiles	3
-1292	Switzerland	Student	Inclusiveness_Quartiles	4
-1293	Turkey	Student	Inclusiveness_Quartiles	1
-1294	United Kingdom	Student	Inclusiveness_Quartiles	2
-1295	United States	Student	Inclusiveness_Quartiles	2
-1296	Australia	Entrepreneurs	Inclusiveness_Quartiles	4
-1297	Austria	Entrepreneurs	Inclusiveness_Quartiles	3
-1298	Belgium	Entrepreneurs	Inclusiveness_Quartiles	2
-1299	Canada	Entrepreneurs	Inclusiveness_Quartiles	4
-1300	Chile	Entrepreneurs	Inclusiveness_Quartiles	1
-1301	Czech Republic	Entrepreneurs	Inclusiveness_Quartiles	1
-1302	Denmark	Entrepreneurs	Inclusiveness_Quartiles	4
-1303	Estonia	Entrepreneurs	Inclusiveness_Quartiles	3
-1304	Finland	Entrepreneurs	Inclusiveness_Quartiles	3
-1305	France	Entrepreneurs	Inclusiveness_Quartiles	2
-1306	Germany	Entrepreneurs	Inclusiveness_Quartiles	4
-1307	Greece	Entrepreneurs	Inclusiveness_Quartiles	1
-1308	Hungary	Entrepreneurs	Inclusiveness_Quartiles	1
-1309	Iceland	Entrepreneurs	Inclusiveness_Quartiles	3
-1310	Ireland	Entrepreneurs	Inclusiveness_Quartiles	3
-1311	Israel	Entrepreneurs	Inclusiveness_Quartiles	1
-1312	Italy	Entrepreneurs	Inclusiveness_Quartiles	2
-1313	Japan	Entrepreneurs	Inclusiveness_Quartiles	3
-1314	Korea	Entrepreneurs	Inclusiveness_Quartiles	3
-1315	Latvia	Entrepreneurs	Inclusiveness_Quartiles	2
-1316	Luxembourg	Entrepreneurs	Inclusiveness_Quartiles	4
-1317	Mexico	Entrepreneurs	Inclusiveness_Quartiles	1
-1318	Netherlands	Entrepreneurs	Inclusiveness_Quartiles	2
-1319	New Zealand	Entrepreneurs	Inclusiveness_Quartiles	4
-1320	Norway	Entrepreneurs	Inclusiveness_Quartiles	3
-1321	Poland	Entrepreneurs	Inclusiveness_Quartiles	2
-1322	Portugal	Entrepreneurs	Inclusiveness_Quartiles	2
-1323	Slovak Republic	Entrepreneurs	Inclusiveness_Quartiles	1
-1324	Slovenia	Entrepreneurs	Inclusiveness_Quartiles	2
-1325	Spain	Entrepreneurs	Inclusiveness_Quartiles	2
-1326	Sweden	Entrepreneurs	Inclusiveness_Quartiles	4
-1327	Switzerland	Entrepreneurs	Inclusiveness_Quartiles	4
-1328	Turkey	Entrepreneurs	Inclusiveness_Quartiles	1
-1329	United Kingdom	Entrepreneurs	Inclusiveness_Quartiles	1
-1330	United States	Entrepreneurs	Inclusiveness_Quartiles	3
-1331	Australia	Workers	Inclusiveness_Quartiles	4
-1332	Austria	Workers	Inclusiveness_Quartiles	3
-1333	Belgium	Workers	Inclusiveness_Quartiles	3
-1334	Canada	Workers	Inclusiveness_Quartiles	4
-1335	Chile	Workers	Inclusiveness_Quartiles	1
-1336	Czech Republic	Workers	Inclusiveness_Quartiles	1
-1337	Denmark	Workers	Inclusiveness_Quartiles	4
-1338	Estonia	Workers	Inclusiveness_Quartiles	3
-1339	Finland	Workers	Inclusiveness_Quartiles	3
-1340	France	Workers	Inclusiveness_Quartiles	2
-1341	Germany	Workers	Inclusiveness_Quartiles	3
-1342	Greece	Workers	Inclusiveness_Quartiles	1
-1343	Hungary	Workers	Inclusiveness_Quartiles	1
-1344	Iceland	Workers	Inclusiveness_Quartiles	3
-1345	Ireland	Workers	Inclusiveness_Quartiles	4
-1346	Israel	Workers	Inclusiveness_Quartiles	1
-1347	Italy	Workers	Inclusiveness_Quartiles	1
-1348	Japan	Workers	Inclusiveness_Quartiles	3
-1349	Korea	Workers	Inclusiveness_Quartiles	2
-1350	Latvia	Workers	Inclusiveness_Quartiles	2
-1351	Luxembourg	Workers	Inclusiveness_Quartiles	4
-1352	Mexico	Workers	Inclusiveness_Quartiles	1
-1353	Netherlands	Workers	Inclusiveness_Quartiles	3
-1354	New Zealand	Workers	Inclusiveness_Quartiles	4
-1355	Norway	Workers	Inclusiveness_Quartiles	3
-1356	Poland	Workers	Inclusiveness_Quartiles	2
-1357	Portugal	Workers	Inclusiveness_Quartiles	2
-1358	Slovak Republic	Workers	Inclusiveness_Quartiles	1
-1359	Slovenia	Workers	Inclusiveness_Quartiles	2
-1360	Spain	Workers	Inclusiveness_Quartiles	2
-1361	Sweden	Workers	Inclusiveness_Quartiles	4
-1362	Switzerland	Workers	Inclusiveness_Quartiles	4
-1363	Turkey	Workers	Inclusiveness_Quartiles	1
-1364	United Kingdom	Workers	Inclusiveness_Quartiles	2
-1365	United States	Workers	Inclusiveness_Quartiles	2
-1366	Australia	Student	Quality_of_life_Quartiles	4
-1367	Austria	Student	Quality_of_life_Quartiles	3
-1368	Belgium	Student	Quality_of_life_Quartiles	3
-1369	Canada	Student	Quality_of_life_Quartiles	4
-1370	Chile	Student	Quality_of_life_Quartiles	1
-1371	Czech Republic	Student	Quality_of_life_Quartiles	2
-1372	Denmark	Student	Quality_of_life_Quartiles	4
-1373	Estonia	Student	Quality_of_life_Quartiles	2
-1374	Finland	Student	Quality_of_life_Quartiles	3
-1375	France	Student	Quality_of_life_Quartiles	2
-1376	Germany	Student	Quality_of_life_Quartiles	3
-1377	Greece	Student	Quality_of_life_Quartiles	1
-1378	Hungary	Student	Quality_of_life_Quartiles	1
-1379	Iceland	Student	Quality_of_life_Quartiles	4
-1380	Ireland	Student	Quality_of_life_Quartiles	3
-1381	Israel	Student	Quality_of_life_Quartiles	2
-1382	Italy	Student	Quality_of_life_Quartiles	2
-1383	Japan	Student	Quality_of_life_Quartiles	2
-1384	Korea	Student	Quality_of_life_Quartiles	2
-1385	Latvia	Student	Quality_of_life_Quartiles	1
-1386	Luxembourg	Student	Quality_of_life_Quartiles	3
-1387	Mexico	Student	Quality_of_life_Quartiles	1
-1388	Netherlands	Student	Quality_of_life_Quartiles	3
-1389	New Zealand	Student	Quality_of_life_Quartiles	3
-1390	Norway	Student	Quality_of_life_Quartiles	4
-1391	Poland	Student	Quality_of_life_Quartiles	1
-1392	Portugal	Student	Quality_of_life_Quartiles	1
-1393	Slovak Republic	Student	Quality_of_life_Quartiles	1
-1394	Slovenia	Student	Quality_of_life_Quartiles	2
-1395	Spain	Student	Quality_of_life_Quartiles	2
-1396	Sweden	Student	Quality_of_life_Quartiles	4
-1397	Switzerland	Student	Quality_of_life_Quartiles	4
-1398	Turkey	Student	Quality_of_life_Quartiles	1
-1399	United Kingdom	Student	Quality_of_life_Quartiles	3
-1400	United States	Student	Quality_of_life_Quartiles	4
-1401	Australia	Entrepreneurs	Quality_of_life_Quartiles	4
-1402	Austria	Entrepreneurs	Quality_of_life_Quartiles	3
-1403	Belgium	Entrepreneurs	Quality_of_life_Quartiles	3
-1404	Canada	Entrepreneurs	Quality_of_life_Quartiles	4
-1405	Chile	Entrepreneurs	Quality_of_life_Quartiles	1
-1406	Czech Republic	Entrepreneurs	Quality_of_life_Quartiles	2
-1407	Denmark	Entrepreneurs	Quality_of_life_Quartiles	4
-1408	Estonia	Entrepreneurs	Quality_of_life_Quartiles	2
-1409	Finland	Entrepreneurs	Quality_of_life_Quartiles	3
-1410	France	Entrepreneurs	Quality_of_life_Quartiles	2
-1411	Germany	Entrepreneurs	Quality_of_life_Quartiles	3
-1412	Greece	Entrepreneurs	Quality_of_life_Quartiles	1
-1413	Hungary	Entrepreneurs	Quality_of_life_Quartiles	1
-1414	Iceland	Entrepreneurs	Quality_of_life_Quartiles	4
-1415	Ireland	Entrepreneurs	Quality_of_life_Quartiles	3
-1416	Israel	Entrepreneurs	Quality_of_life_Quartiles	2
-1417	Italy	Entrepreneurs	Quality_of_life_Quartiles	2
-1418	Japan	Entrepreneurs	Quality_of_life_Quartiles	2
-1419	Korea	Entrepreneurs	Quality_of_life_Quartiles	2
-1420	Latvia	Entrepreneurs	Quality_of_life_Quartiles	1
-1421	Luxembourg	Entrepreneurs	Quality_of_life_Quartiles	3
-1422	Mexico	Entrepreneurs	Quality_of_life_Quartiles	1
-1423	Netherlands	Entrepreneurs	Quality_of_life_Quartiles	3
-1424	New Zealand	Entrepreneurs	Quality_of_life_Quartiles	3
-1425	Norway	Entrepreneurs	Quality_of_life_Quartiles	4
-1426	Poland	Entrepreneurs	Quality_of_life_Quartiles	1
-1427	Portugal	Entrepreneurs	Quality_of_life_Quartiles	1
-1428	Slovak Republic	Entrepreneurs	Quality_of_life_Quartiles	1
-1429	Slovenia	Entrepreneurs	Quality_of_life_Quartiles	2
-1430	Spain	Entrepreneurs	Quality_of_life_Quartiles	2
-1431	Sweden	Entrepreneurs	Quality_of_life_Quartiles	4
-1432	Switzerland	Entrepreneurs	Quality_of_life_Quartiles	4
-1433	Turkey	Entrepreneurs	Quality_of_life_Quartiles	1
-1434	United Kingdom	Entrepreneurs	Quality_of_life_Quartiles	3
-1435	United States	Entrepreneurs	Quality_of_life_Quartiles	4
-1436	Australia	Workers	Quality_of_life_Quartiles	4
-1437	Austria	Workers	Quality_of_life_Quartiles	3
-1438	Belgium	Workers	Quality_of_life_Quartiles	3
-1439	Canada	Workers	Quality_of_life_Quartiles	4
-1440	Chile	Workers	Quality_of_life_Quartiles	1
-1441	Czech Republic	Workers	Quality_of_life_Quartiles	2
-1442	Denmark	Workers	Quality_of_life_Quartiles	4
-1443	Estonia	Workers	Quality_of_life_Quartiles	2
-1444	Finland	Workers	Quality_of_life_Quartiles	3
-1445	France	Workers	Quality_of_life_Quartiles	2
-1446	Germany	Workers	Quality_of_life_Quartiles	3
-1447	Greece	Workers	Quality_of_life_Quartiles	1
-1448	Hungary	Workers	Quality_of_life_Quartiles	1
-1449	Iceland	Workers	Quality_of_life_Quartiles	4
-1450	Ireland	Workers	Quality_of_life_Quartiles	3
-1451	Israel	Workers	Quality_of_life_Quartiles	2
-1452	Italy	Workers	Quality_of_life_Quartiles	2
-1453	Japan	Workers	Quality_of_life_Quartiles	2
-1454	Korea	Workers	Quality_of_life_Quartiles	2
-1455	Latvia	Workers	Quality_of_life_Quartiles	1
-1456	Luxembourg	Workers	Quality_of_life_Quartiles	3
-1457	Mexico	Workers	Quality_of_life_Quartiles	1
-1458	Netherlands	Workers	Quality_of_life_Quartiles	3
-1459	New Zealand	Workers	Quality_of_life_Quartiles	3
-1460	Norway	Workers	Quality_of_life_Quartiles	4
-1461	Poland	Workers	Quality_of_life_Quartiles	1
-1462	Portugal	Workers	Quality_of_life_Quartiles	1
-1463	Slovak Republic	Workers	Quality_of_life_Quartiles	1
-1464	Slovenia	Workers	Quality_of_life_Quartiles	2
-1465	Spain	Workers	Quality_of_life_Quartiles	2
-1466	Sweden	Workers	Quality_of_life_Quartiles	4
-1467	Switzerland	Workers	Quality_of_life_Quartiles	4
-1468	Turkey	Workers	Quality_of_life_Quartiles	1
-1469	United Kingdom	Workers	Quality_of_life_Quartiles	3
-1470	United States	Workers	Quality_of_life_Quartiles	4
+Cat	Countries	Dimension	value
+Workers	Australia	Quality_of_opportunities	0.673
+Workers	Austria	Quality_of_opportunities	0.664
+Workers	Belgium	Quality_of_opportunities	0.712
+Workers	Canada	Quality_of_opportunities	0.769
+Workers	Switzerland	Quality_of_opportunities	0.633
+Workers	Chile	Quality_of_opportunities	0.639
+Workers	Czech Republic	Quality_of_opportunities	0.881
+Workers	Germany	Quality_of_opportunities	0.593
+Workers	Denmark	Quality_of_opportunities	0.656
+Workers	Spain	Quality_of_opportunities	0.466
+Workers	Estonia	Quality_of_opportunities	0.828
+Workers	Finland	Quality_of_opportunities	0.547
+Workers	France	Quality_of_opportunities	0.679
+Workers	United Kingdom	Quality_of_opportunities	0.766
+Workers	Greece	Quality_of_opportunities	0.598
+Workers	Hungary	Quality_of_opportunities	0.915
+Workers	Ireland	Quality_of_opportunities	0.787
+Workers	Iceland	Quality_of_opportunities	0.767
+Workers	Israel	Quality_of_opportunities	0.619
+Workers	Italy	Quality_of_opportunities	0.457
+Workers	Japan	Quality_of_opportunities	0.256
+Workers	Korea	Quality_of_opportunities	0.415
+Workers	Luxembourg	Quality_of_opportunities	0.842
+Workers	Latvia	Quality_of_opportunities	0.888
+Workers	Mexico	Quality_of_opportunities	0.647
+Workers	Netherlands	Quality_of_opportunities	0.582
+Workers	Norway	Quality_of_opportunities	0.676
+Workers	New Zealand	Quality_of_opportunities	0.759
+Workers	Poland	Quality_of_opportunities	0.649
+Workers	Portugal	Quality_of_opportunities	0.743
+Workers	Slovak Republic	Quality_of_opportunities	0.880
+Workers	Slovenia	Quality_of_opportunities	0.847
+Workers	Sweden	Quality_of_opportunities	0.650
+Workers	Türkiye	Quality_of_opportunities	0.866
+Workers	United States	Quality_of_opportunities	0.868
+Workers	Australia	Income	0.513
+Workers	Austria	Income	0.403
+Workers	Belgium	Income	0.326
+Workers	Canada	Income	0.497
+Workers	Switzerland	Income	0.561
+Workers	Chile	Income	0.752
+Workers	Czech Republic	Income	0.457
+Workers	Germany	Income	0.414
+Workers	Denmark	Income	0.501
+Workers	Spain	Income	0.380
+Workers	Estonia	Income	0.430
+Workers	Finland	Income	0.429
+Workers	France	Income	0.371
+Workers	United Kingdom	Income	0.415
+Workers	Greece	Income	0.359
+Workers	Hungary	Income	0.445
+Workers	Ireland	Income	0.475
+Workers	Iceland	Income	0.457
+Workers	Israel	Income	0.461
+Workers	Italy	Income	0.314
+Workers	Japan	Income	0.536
+Workers	Korea	Income	0.544
+Workers	Luxembourg	Income	0.348
+Workers	Latvia	Income	0.397
+Workers	Mexico	Income	0.569
+Workers	Netherlands	Income	0.495
+Workers	Norway	Income	0.444
+Workers	New Zealand	Income	0.530
+Workers	Poland	Income	0.515
+Workers	Portugal	Income	0.371
+Workers	Slovak Republic	Income	0.435
+Workers	Slovenia	Income	0.423
+Workers	Sweden	Income	0.361
+Workers	Türkiye	Income	0.456
+Workers	United States	Income	0.603
+Workers	Australia	Future_prospects	0.689
+Workers	Austria	Future_prospects	0.572
+Workers	Belgium	Future_prospects	0.652
+Workers	Canada	Future_prospects	0.750
+Workers	Switzerland	Future_prospects	0.428
+Workers	Chile	Future_prospects	0.514
+Workers	Czech Republic	Future_prospects	0.543
+Workers	Germany	Future_prospects	0.601
+Workers	Denmark	Future_prospects	0.389
+Workers	Spain	Future_prospects	0.705
+Workers	Estonia	Future_prospects	0.536
+Workers	Finland	Future_prospects	0.584
+Workers	France	Future_prospects	0.604
+Workers	United Kingdom	Future_prospects	0.594
+Workers	Greece	Future_prospects	0.641
+Workers	Hungary	Future_prospects	0.594
+Workers	Ireland	Future_prospects	0.742
+Workers	Iceland	Future_prospects	0.502
+Workers	Israel	Future_prospects	0.418
+Workers	Italy	Future_prospects	0.637
+Workers	Japan	Future_prospects	0.624
+Workers	Korea	Future_prospects	0.560
+Workers	Luxembourg	Future_prospects	0.434
+Workers	Latvia	Future_prospects	0.517
+Workers	Mexico	Future_prospects	0.544
+Workers	Netherlands	Future_prospects	0.656
+Workers	Norway	Future_prospects	0.599
+Workers	New Zealand	Future_prospects	0.702
+Workers	Poland	Future_prospects	0.432
+Workers	Portugal	Future_prospects	0.789
+Workers	Slovak Republic	Future_prospects	0.649
+Workers	Slovenia	Future_prospects	0.746
+Workers	Sweden	Future_prospects	0.652
+Workers	Türkiye	Future_prospects	0.145
+Workers	United States	Future_prospects	0.507
+Workers	Australia	Family_environment	0.647
+Workers	Austria	Family_environment	0.680
+Workers	Belgium	Family_environment	0.453
+Workers	Canada	Family_environment	0.572
+Workers	Switzerland	Family_environment	0.619
+Workers	Chile	Family_environment	0.518
+Workers	Czech Republic	Family_environment	0.487
+Workers	Germany	Family_environment	0.620
+Workers	Denmark	Family_environment	0.580
+Workers	Spain	Family_environment	0.661
+Workers	Estonia	Family_environment	0.638
+Workers	Finland	Family_environment	0.549
+Workers	France	Family_environment	0.676
+Workers	United Kingdom	Family_environment	0.731
+Workers	Greece	Family_environment	0.603
+Workers	Hungary	Family_environment	0.459
+Workers	Ireland	Family_environment	0.574
+Workers	Iceland	Family_environment	0.544
+Workers	Israel	Family_environment	0.439
+Workers	Italy	Family_environment	0.534
+Workers	Japan	Family_environment	0.398
+Workers	Korea	Family_environment	0.507
+Workers	Luxembourg	Family_environment	0.496
+Workers	Latvia	Family_environment	0.379
+Workers	Mexico	Family_environment	0.500
+Workers	Netherlands	Family_environment	0.703
+Workers	Norway	Family_environment	0.660
+Workers	New Zealand	Family_environment	0.670
+Workers	Poland	Family_environment	0.433
+Workers	Portugal	Family_environment	0.613
+Workers	Slovak Republic	Family_environment	0.632
+Workers	Slovenia	Family_environment	0.580
+Workers	Sweden	Family_environment	0.735
+Workers	Türkiye	Family_environment	0.374
+Workers	United States	Family_environment	0.616
+Workers	Australia	Skills_environment	0.556
+Workers	Austria	Skills_environment	0.519
+Workers	Belgium	Skills_environment	0.474
+Workers	Canada	Skills_environment	0.538
+Workers	Switzerland	Skills_environment	0.547
+Workers	Chile	Skills_environment	0.175
+Workers	Czech Republic	Skills_environment	0.426
+Workers	Germany	Skills_environment	0.627
+Workers	Denmark	Skills_environment	0.595
+Workers	Spain	Skills_environment	0.332
+Workers	Estonia	Skills_environment	0.430
+Workers	Finland	Skills_environment	0.586
+Workers	France	Skills_environment	0.445
+Workers	United Kingdom	Skills_environment	0.585
+Workers	Greece	Skills_environment	0.269
+Workers	Hungary	Skills_environment	0.376
+Workers	Ireland	Skills_environment	0.521
+Workers	Iceland	Skills_environment	0.559
+Workers	Israel	Skills_environment	0.548
+Workers	Italy	Skills_environment	0.338
+Workers	Japan	Skills_environment	0.628
+Workers	Korea	Skills_environment	0.697
+Workers	Luxembourg	Skills_environment	0.503
+Workers	Latvia	Skills_environment	0.328
+Workers	Mexico	Skills_environment	0.062
+Workers	Netherlands	Skills_environment	0.558
+Workers	Norway	Skills_environment	0.545
+Workers	New Zealand	Skills_environment	0.479
+Workers	Poland	Skills_environment	0.353
+Workers	Portugal	Skills_environment	0.348
+Workers	Slovak Republic	Skills_environment	0.377
+Workers	Slovenia	Skills_environment	0.437
+Workers	Sweden	Skills_environment	0.617
+Workers	Türkiye	Skills_environment	0.178
+Workers	United States	Skills_environment	0.764
+Workers	Australia	Inclusiveness	0.695
+Workers	Austria	Inclusiveness	0.579
+Workers	Belgium	Inclusiveness	0.487
+Workers	Canada	Inclusiveness	0.604
+Workers	Switzerland	Inclusiveness	0.773
+Workers	Chile	Inclusiveness	0.357
+Workers	Czech Republic	Inclusiveness	0.304
+Workers	Germany	Inclusiveness	0.562
+Workers	Denmark	Inclusiveness	0.588
+Workers	Spain	Inclusiveness	0.374
+Workers	Estonia	Inclusiveness	0.560
+Workers	Finland	Inclusiveness	0.526
+Workers	France	Inclusiveness	0.436
+Workers	United Kingdom	Inclusiveness	0.384
+Workers	Greece	Inclusiveness	0.129
+Workers	Hungary	Inclusiveness	0.226
+Workers	Ireland	Inclusiveness	0.587
+Workers	Iceland	Inclusiveness	0.516
+Workers	Israel	Inclusiveness	0.207
+Workers	Italy	Inclusiveness	0.333
+Workers	Japan	Inclusiveness	0.556
+Workers	Korea	Inclusiveness	0.484
+Workers	Luxembourg	Inclusiveness	0.716
+Workers	Latvia	Inclusiveness	0.413
+Workers	Mexico	Inclusiveness	0.128
+Workers	Netherlands	Inclusiveness	0.491
+Workers	Norway	Inclusiveness	0.543
+Workers	New Zealand	Inclusiveness	0.668
+Workers	Poland	Inclusiveness	0.421
+Workers	Portugal	Inclusiveness	0.424
+Workers	Slovak Republic	Inclusiveness	0.336
+Workers	Slovenia	Inclusiveness	0.451
+Workers	Sweden	Inclusiveness	0.627
+Workers	Türkiye	Inclusiveness	0.281
+Workers	United States	Inclusiveness	0.480
+Workers	Australia	Quality_of_life	0.764
+Workers	Austria	Quality_of_life	0.661
+Workers	Belgium	Quality_of_life	0.689
+Workers	Canada	Quality_of_life	0.756
+Workers	Switzerland	Quality_of_life	0.762
+Workers	Chile	Quality_of_life	0.417
+Workers	Czech Republic	Quality_of_life	0.562
+Workers	Germany	Quality_of_life	0.709
+Workers	Denmark	Quality_of_life	0.758
+Workers	Spain	Quality_of_life	0.563
+Workers	Estonia	Quality_of_life	0.547
+Workers	Finland	Quality_of_life	0.727
+Workers	France	Quality_of_life	0.631
+Workers	United Kingdom	Quality_of_life	0.667
+Workers	Greece	Quality_of_life	0.364
+Workers	Hungary	Quality_of_life	0.431
+Workers	Ireland	Quality_of_life	0.674
+Workers	Iceland	Quality_of_life	0.742
+Workers	Israel	Quality_of_life	0.535
+Workers	Italy	Quality_of_life	0.500
+Workers	Japan	Quality_of_life	0.577
+Workers	Korea	Quality_of_life	0.517
+Workers	Luxembourg	Quality_of_life	0.699
+Workers	Latvia	Quality_of_life	0.410
+Workers	Mexico	Quality_of_life	0.281
+Workers	Netherlands	Quality_of_life	0.739
+Workers	Norway	Quality_of_life	0.788
+Workers	New Zealand	Quality_of_life	0.689
+Workers	Poland	Quality_of_life	0.494
+Workers	Portugal	Quality_of_life	0.479
+Workers	Slovak Republic	Quality_of_life	0.476
+Workers	Slovenia	Quality_of_life	0.607
+Workers	Sweden	Quality_of_life	0.752
+Workers	Türkiye	Quality_of_life	0.314
+Workers	United States	Quality_of_life	0.746
+Workers	Australia	Quality_of_opportunities_Quartiles	2
+Workers	Austria	Quality_of_opportunities_Quartiles	2
+Workers	Belgium	Quality_of_opportunities_Quartiles	3
+Workers	Canada	Quality_of_opportunities_Quartiles	3
+Workers	Switzerland	Quality_of_opportunities_Quartiles	2
+Workers	Chile	Quality_of_opportunities_Quartiles	4
+Workers	Czech Republic	Quality_of_opportunities_Quartiles	2
+Workers	Germany	Quality_of_opportunities_Quartiles	3
+Workers	Denmark	Quality_of_opportunities_Quartiles	1
+Workers	Spain	Quality_of_opportunities_Quartiles	3
+Workers	Estonia	Quality_of_opportunities_Quartiles	1
+Workers	Finland	Quality_of_opportunities_Quartiles	1
+Workers	France	Quality_of_opportunities_Quartiles	4
+Workers	United Kingdom	Quality_of_opportunities_Quartiles	3
+Workers	Greece	Quality_of_opportunities_Quartiles	3
+Workers	Hungary	Quality_of_opportunities_Quartiles	1
+Workers	Ireland	Quality_of_opportunities_Quartiles	1
+Workers	Iceland	Quality_of_opportunities_Quartiles	1
+Workers	Israel	Quality_of_opportunities_Quartiles	1
+Workers	Italy	Quality_of_opportunities_Quartiles	4
+Workers	Japan	Quality_of_opportunities_Quartiles	4
+Workers	Korea	Quality_of_opportunities_Quartiles	2
+Workers	Luxembourg	Quality_of_opportunities_Quartiles	1
+Workers	Latvia	Quality_of_opportunities_Quartiles	3
+Workers	Mexico	Quality_of_opportunities_Quartiles	2
+Workers	Netherlands	Quality_of_opportunities_Quartiles	2
+Workers	Norway	Quality_of_opportunities_Quartiles	3
+Workers	New Zealand	Quality_of_opportunities_Quartiles	4
+Workers	Poland	Quality_of_opportunities_Quartiles	4
+Workers	Portugal	Quality_of_opportunities_Quartiles	1
+Workers	Slovak Republic	Quality_of_opportunities_Quartiles	2
+Workers	Slovenia	Quality_of_opportunities_Quartiles	2
+Workers	Sweden	Quality_of_opportunities_Quartiles	4
+Workers	Türkiye	Quality_of_opportunities_Quartiles	3
+Workers	United States	Quality_of_opportunities_Quartiles	4
+Workers	Australia	Income_Quartiles	3
+Workers	Austria	Income_Quartiles	2
+Workers	Belgium	Income_Quartiles	1
+Workers	Canada	Income_Quartiles	3
+Workers	Switzerland	Income_Quartiles	4
+Workers	Chile	Income_Quartiles	3
+Workers	Czech Republic	Income_Quartiles	3
+Workers	Germany	Income_Quartiles	2
+Workers	Denmark	Income_Quartiles	2
+Workers	Spain	Income_Quartiles	1
+Workers	Estonia	Income_Quartiles	2
+Workers	Finland	Income_Quartiles	1
+Workers	France	Income_Quartiles	2
+Workers	United Kingdom	Income_Quartiles	3
+Workers	Greece	Income_Quartiles	3
+Workers	Hungary	Income_Quartiles	3
+Workers	Ireland	Income_Quartiles	1
+Workers	Iceland	Income_Quartiles	4
+Workers	Israel	Income_Quartiles	4
+Workers	Italy	Income_Quartiles	1
+Workers	Japan	Income_Quartiles	1
+Workers	Korea	Income_Quartiles	4
+Workers	Luxembourg	Income_Quartiles	3
+Workers	Latvia	Income_Quartiles	4
+Workers	Mexico	Income_Quartiles	2
+Workers	Netherlands	Income_Quartiles	4
+Workers	Norway	Income_Quartiles	1
+Workers	New Zealand	Income_Quartiles	2
+Workers	Poland	Income_Quartiles	2
+Workers	Portugal	Income_Quartiles	1
+Workers	Slovak Republic	Income_Quartiles	1
+Workers	Slovenia	Income_Quartiles	4
+Workers	Sweden	Income_Quartiles	3
+Workers	Türkiye	Income_Quartiles	2
+Workers	United States	Income_Quartiles	4
+Workers	Australia	Future_prospects_Quartiles	4
+Workers	Austria	Future_prospects_Quartiles	2
+Workers	Belgium	Future_prospects_Quartiles	3
+Workers	Canada	Future_prospects_Quartiles	4
+Workers	Switzerland	Future_prospects_Quartiles	1
+Workers	Chile	Future_prospects_Quartiles	2
+Workers	Czech Republic	Future_prospects_Quartiles	1
+Workers	Germany	Future_prospects_Quartiles	2
+Workers	Denmark	Future_prospects_Quartiles	2
+Workers	Spain	Future_prospects_Quartiles	3
+Workers	Estonia	Future_prospects_Quartiles	3
+Workers	Finland	Future_prospects_Quartiles	3
+Workers	France	Future_prospects_Quartiles	2
+Workers	United Kingdom	Future_prospects_Quartiles	1
+Workers	Greece	Future_prospects_Quartiles	4
+Workers	Hungary	Future_prospects_Quartiles	1
+Workers	Ireland	Future_prospects_Quartiles	3
+Workers	Iceland	Future_prospects_Quartiles	3
+Workers	Israel	Future_prospects_Quartiles	2
+Workers	Italy	Future_prospects_Quartiles	2
+Workers	Japan	Future_prospects_Quartiles	1
+Workers	Korea	Future_prospects_Quartiles	2
+Workers	Luxembourg	Future_prospects_Quartiles	4
+Workers	Latvia	Future_prospects_Quartiles	4
+Workers	Mexico	Future_prospects_Quartiles	3
+Workers	Netherlands	Future_prospects_Quartiles	1
+Workers	Norway	Future_prospects_Quartiles	4
+Workers	New Zealand	Future_prospects_Quartiles	3
+Workers	Poland	Future_prospects_Quartiles	4
+Workers	Portugal	Future_prospects_Quartiles	4
+Workers	Slovak Republic	Future_prospects_Quartiles	3
+Workers	Slovenia	Future_prospects_Quartiles	1
+Workers	Sweden	Future_prospects_Quartiles	1
+Workers	Türkiye	Future_prospects_Quartiles	2
+Workers	United States	Future_prospects_Quartiles	1
+Workers	Australia	Family_environment_Quartiles	3
+Workers	Austria	Family_environment_Quartiles	4
+Workers	Belgium	Family_environment_Quartiles	1
+Workers	Canada	Family_environment_Quartiles	2
+Workers	Switzerland	Family_environment_Quartiles	2
+Workers	Chile	Family_environment_Quartiles	1
+Workers	Czech Republic	Family_environment_Quartiles	3
+Workers	Germany	Family_environment_Quartiles	3
+Workers	Denmark	Family_environment_Quartiles	2
+Workers	Spain	Family_environment_Quartiles	4
+Workers	Estonia	Family_environment_Quartiles	3
+Workers	Finland	Family_environment_Quartiles	3
+Workers	France	Family_environment_Quartiles	1
+Workers	United Kingdom	Family_environment_Quartiles	2
+Workers	Greece	Family_environment_Quartiles	2
+Workers	Hungary	Family_environment_Quartiles	1
+Workers	Ireland	Family_environment_Quartiles	2
+Workers	Iceland	Family_environment_Quartiles	1
+Workers	Israel	Family_environment_Quartiles	2
+Workers	Italy	Family_environment_Quartiles	1
+Workers	Japan	Family_environment_Quartiles	1
+Workers	Korea	Family_environment_Quartiles	2
+Workers	Luxembourg	Family_environment_Quartiles	4
+Workers	Latvia	Family_environment_Quartiles	4
+Workers	Mexico	Family_environment_Quartiles	4
+Workers	Netherlands	Family_environment_Quartiles	1
+Workers	Norway	Family_environment_Quartiles	3
+Workers	New Zealand	Family_environment_Quartiles	3
+Workers	Poland	Family_environment_Quartiles	2
+Workers	Portugal	Family_environment_Quartiles	4
+Workers	Slovak Republic	Family_environment_Quartiles	4
+Workers	Slovenia	Family_environment_Quartiles	3
+Workers	Sweden	Family_environment_Quartiles	1
+Workers	Türkiye	Family_environment_Quartiles	4
+Workers	United States	Family_environment_Quartiles	3
+Workers	Australia	Skills_environment_Quartiles	3
+Workers	Austria	Skills_environment_Quartiles	3
+Workers	Belgium	Skills_environment_Quartiles	2
+Workers	Canada	Skills_environment_Quartiles	3
+Workers	Switzerland	Skills_environment_Quartiles	1
+Workers	Chile	Skills_environment_Quartiles	2
+Workers	Czech Republic	Skills_environment_Quartiles	4
+Workers	Germany	Skills_environment_Quartiles	2
+Workers	Denmark	Skills_environment_Quartiles	4
+Workers	Spain	Skills_environment_Quartiles	2
+Workers	Estonia	Skills_environment_Quartiles	4
+Workers	Finland	Skills_environment_Quartiles	1
+Workers	France	Skills_environment_Quartiles	2
+Workers	United Kingdom	Skills_environment_Quartiles	3
+Workers	Greece	Skills_environment_Quartiles	3
+Workers	Hungary	Skills_environment_Quartiles	3
+Workers	Ireland	Skills_environment_Quartiles	1
+Workers	Iceland	Skills_environment_Quartiles	4
+Workers	Israel	Skills_environment_Quartiles	4
+Workers	Italy	Skills_environment_Quartiles	1
+Workers	Japan	Skills_environment_Quartiles	2
+Workers	Korea	Skills_environment_Quartiles	1
+Workers	Luxembourg	Skills_environment_Quartiles	3
+Workers	Latvia	Skills_environment_Quartiles	2
+Workers	Mexico	Skills_environment_Quartiles	3
+Workers	Netherlands	Skills_environment_Quartiles	1
+Workers	Norway	Skills_environment_Quartiles	1
+Workers	New Zealand	Skills_environment_Quartiles	2
+Workers	Poland	Skills_environment_Quartiles	2
+Workers	Portugal	Skills_environment_Quartiles	1
+Workers	Slovak Republic	Skills_environment_Quartiles	4
+Workers	Slovenia	Skills_environment_Quartiles	3
+Workers	Sweden	Skills_environment_Quartiles	1
+Workers	Türkiye	Skills_environment_Quartiles	4
+Workers	United States	Skills_environment_Quartiles	4
+Workers	Australia	Inclusiveness_Quartiles	4
+Workers	Austria	Inclusiveness_Quartiles	3
+Workers	Belgium	Inclusiveness_Quartiles	3
+Workers	Canada	Inclusiveness_Quartiles	4
+Workers	Switzerland	Inclusiveness_Quartiles	1
+Workers	Chile	Inclusiveness_Quartiles	1
+Workers	Czech Republic	Inclusiveness_Quartiles	4
+Workers	Germany	Inclusiveness_Quartiles	3
+Workers	Denmark	Inclusiveness_Quartiles	3
+Workers	Spain	Inclusiveness_Quartiles	2
+Workers	Estonia	Inclusiveness_Quartiles	3
+Workers	Finland	Inclusiveness_Quartiles	1
+Workers	France	Inclusiveness_Quartiles	1
+Workers	United Kingdom	Inclusiveness_Quartiles	3
+Workers	Greece	Inclusiveness_Quartiles	4
+Workers	Hungary	Inclusiveness_Quartiles	1
+Workers	Ireland	Inclusiveness_Quartiles	1
+Workers	Iceland	Inclusiveness_Quartiles	3
+Workers	Israel	Inclusiveness_Quartiles	2
+Workers	Italy	Inclusiveness_Quartiles	2
+Workers	Japan	Inclusiveness_Quartiles	4
+Workers	Korea	Inclusiveness_Quartiles	1
+Workers	Luxembourg	Inclusiveness_Quartiles	3
+Workers	Latvia	Inclusiveness_Quartiles	4
+Workers	Mexico	Inclusiveness_Quartiles	3
+Workers	Netherlands	Inclusiveness_Quartiles	2
+Workers	Norway	Inclusiveness_Quartiles	2
+Workers	New Zealand	Inclusiveness_Quartiles	1
+Workers	Poland	Inclusiveness_Quartiles	2
+Workers	Portugal	Inclusiveness_Quartiles	2
+Workers	Slovak Republic	Inclusiveness_Quartiles	4
+Workers	Slovenia	Inclusiveness_Quartiles	4
+Workers	Sweden	Inclusiveness_Quartiles	1
+Workers	Türkiye	Inclusiveness_Quartiles	2
+Workers	United States	Inclusiveness_Quartiles	2
+Workers	Australia	Quality_of_life_Quartiles	4
+Workers	Austria	Quality_of_life_Quartiles	3
+Workers	Belgium	Quality_of_life_Quartiles	3
+Workers	Canada	Quality_of_life_Quartiles	4
+Workers	Switzerland	Quality_of_life_Quartiles	1
+Workers	Chile	Quality_of_life_Quartiles	2
+Workers	Czech Republic	Quality_of_life_Quartiles	4
+Workers	Germany	Quality_of_life_Quartiles	2
+Workers	Denmark	Quality_of_life_Quartiles	3
+Workers	Spain	Quality_of_life_Quartiles	2
+Workers	Estonia	Quality_of_life_Quartiles	3
+Workers	Finland	Quality_of_life_Quartiles	1
+Workers	France	Quality_of_life_Quartiles	1
+Workers	United Kingdom	Quality_of_life_Quartiles	4
+Workers	Greece	Quality_of_life_Quartiles	3
+Workers	Hungary	Quality_of_life_Quartiles	2
+Workers	Ireland	Quality_of_life_Quartiles	2
+Workers	Iceland	Quality_of_life_Quartiles	2
+Workers	Israel	Quality_of_life_Quartiles	2
+Workers	Italy	Quality_of_life_Quartiles	1
+Workers	Japan	Quality_of_life_Quartiles	3
+Workers	Korea	Quality_of_life_Quartiles	1
+Workers	Luxembourg	Quality_of_life_Quartiles	3
+Workers	Latvia	Quality_of_life_Quartiles	3
+Workers	Mexico	Quality_of_life_Quartiles	4
+Workers	Netherlands	Quality_of_life_Quartiles	1
+Workers	Norway	Quality_of_life_Quartiles	1
+Workers	New Zealand	Quality_of_life_Quartiles	1
+Workers	Poland	Quality_of_life_Quartiles	2
+Workers	Portugal	Quality_of_life_Quartiles	2
+Workers	Slovak Republic	Quality_of_life_Quartiles	4
+Workers	Slovenia	Quality_of_life_Quartiles	4
+Workers	Sweden	Quality_of_life_Quartiles	1
+Workers	Türkiye	Quality_of_life_Quartiles	3
+Workers	United States	Quality_of_life_Quartiles	4
+Entrepreneurs	Australia	Quality_of_opportunities	0.364
+Entrepreneurs	Austria	Quality_of_opportunities	0.309
+Entrepreneurs	Belgium	Quality_of_opportunities	0.228
+Entrepreneurs	Canada	Quality_of_opportunities	0.443
+Entrepreneurs	Switzerland	Quality_of_opportunities	0.311
+Entrepreneurs	Chile	Quality_of_opportunities	0.318
+Entrepreneurs	Czech Republic	Quality_of_opportunities	0.401
+Entrepreneurs	Germany	Quality_of_opportunities	0.446
+Entrepreneurs	Denmark	Quality_of_opportunities	0.367
+Entrepreneurs	Spain	Quality_of_opportunities	0.242
+Entrepreneurs	Estonia	Quality_of_opportunities	0.267
+Entrepreneurs	Finland	Quality_of_opportunities	0.229
+Entrepreneurs	France	Quality_of_opportunities	0.347
+Entrepreneurs	United Kingdom	Quality_of_opportunities	0.360
+Entrepreneurs	Greece	Quality_of_opportunities	0.493
+Entrepreneurs	Hungary	Quality_of_opportunities	0.367
+Entrepreneurs	Ireland	Quality_of_opportunities	0.156
+Entrepreneurs	Iceland	Quality_of_opportunities	0.298
+Entrepreneurs	Israel	Quality_of_opportunities	0.524
+Entrepreneurs	Italy	Quality_of_opportunities	0.340
+Entrepreneurs	Japan	Quality_of_opportunities	0.226
+Entrepreneurs	Korea	Quality_of_opportunities	0.515
+Entrepreneurs	Luxembourg	Quality_of_opportunities	0.141
+Entrepreneurs	Latvia	Quality_of_opportunities	0.642
+Entrepreneurs	Mexico	Quality_of_opportunities	0.385
+Entrepreneurs	Netherlands	Quality_of_opportunities	0.346
+Entrepreneurs	Norway	Quality_of_opportunities	0.265
+Entrepreneurs	New Zealand	Quality_of_opportunities	0.283
+Entrepreneurs	Poland	Quality_of_opportunities	0.378
+Entrepreneurs	Portugal	Quality_of_opportunities	0.370
+Entrepreneurs	Slovak Republic	Quality_of_opportunities	0.356
+Entrepreneurs	Slovenia	Quality_of_opportunities	0.356
+Entrepreneurs	Sweden	Quality_of_opportunities	0.418
+Entrepreneurs	Türkiye	Quality_of_opportunities	0.394
+Entrepreneurs	United States	Quality_of_opportunities	0.555
+Entrepreneurs	Australia	Income	0.410
+Entrepreneurs	Austria	Income	0.470
+Entrepreneurs	Belgium	Income	0.351
+Entrepreneurs	Canada	Income	0.574
+Entrepreneurs	Switzerland	Income	0.545
+Entrepreneurs	Chile	Income	0.564
+Entrepreneurs	Czech Republic	Income	0.498
+Entrepreneurs	Germany	Income	0.490
+Entrepreneurs	Denmark	Income	0.489
+Entrepreneurs	Spain	Income	0.343
+Entrepreneurs	Estonia	Income	0.600
+Entrepreneurs	Finland	Income	0.344
+Entrepreneurs	France	Income	0.698
+Entrepreneurs	United Kingdom	Income	0.510
+Entrepreneurs	Greece	Income	0.618
+Entrepreneurs	Hungary	Income	0.415
+Entrepreneurs	Ireland	Income	0.415
+Entrepreneurs	Iceland	Income	0.522
+Entrepreneurs	Israel	Income	0.480
+Entrepreneurs	Italy	Income	0.542
+Entrepreneurs	Japan	Income	0.439
+Entrepreneurs	Korea	Income	0.396
+Entrepreneurs	Luxembourg	Income	0.453
+Entrepreneurs	Latvia	Income	0.385
+Entrepreneurs	Mexico	Income	0.467
+Entrepreneurs	Netherlands	Income	0.565
+Entrepreneurs	Norway	Income	0.376
+Entrepreneurs	New Zealand	Income	0.506
+Entrepreneurs	Poland	Income	0.536
+Entrepreneurs	Portugal	Income	0.402
+Entrepreneurs	Slovak Republic	Income	0.404
+Entrepreneurs	Slovenia	Income	0.679
+Entrepreneurs	Sweden	Income	0.529
+Entrepreneurs	Türkiye	Income	0.471
+Entrepreneurs	United States	Income	0.452
+Entrepreneurs	Australia	Future_prospects	0.689
+Entrepreneurs	Austria	Future_prospects	0.572
+Entrepreneurs	Belgium	Future_prospects	0.652
+Entrepreneurs	Canada	Future_prospects	0.750
+Entrepreneurs	Switzerland	Future_prospects	0.514
+Entrepreneurs	Chile	Future_prospects	0.543
+Entrepreneurs	Czech Republic	Future_prospects	0.389
+Entrepreneurs	Germany	Future_prospects	0.536
+Entrepreneurs	Denmark	Future_prospects	0.584
+Entrepreneurs	Spain	Future_prospects	0.604
+Entrepreneurs	Estonia	Future_prospects	0.601
+Entrepreneurs	Finland	Future_prospects	0.641
+Entrepreneurs	France	Future_prospects	0.594
+Entrepreneurs	United Kingdom	Future_prospects	0.502
+Entrepreneurs	Greece	Future_prospects	0.742
+Entrepreneurs	Hungary	Future_prospects	0.418
+Entrepreneurs	Ireland	Future_prospects	0.637
+Entrepreneurs	Iceland	Future_prospects	0.624
+Entrepreneurs	Israel	Future_prospects	0.560
+Entrepreneurs	Italy	Future_prospects	0.517
+Entrepreneurs	Japan	Future_prospects	0.434
+Entrepreneurs	Korea	Future_prospects	0.544
+Entrepreneurs	Luxembourg	Future_prospects	0.656
+Entrepreneurs	Latvia	Future_prospects	0.702
+Entrepreneurs	Mexico	Future_prospects	0.599
+Entrepreneurs	Netherlands	Future_prospects	0.432
+Entrepreneurs	Norway	Future_prospects	0.789
+Entrepreneurs	New Zealand	Future_prospects	0.649
+Entrepreneurs	Poland	Future_prospects	0.746
+Entrepreneurs	Portugal	Future_prospects	0.705
+Entrepreneurs	Slovak Republic	Future_prospects	0.652
+Entrepreneurs	Slovenia	Future_prospects	0.428
+Entrepreneurs	Sweden	Future_prospects	0.145
+Entrepreneurs	Türkiye	Future_prospects	0.594
+Entrepreneurs	United States	Future_prospects	0.507
+Entrepreneurs	Australia	Family_environment	0.647
+Entrepreneurs	Austria	Family_environment	0.680
+Entrepreneurs	Belgium	Family_environment	0.453
+Entrepreneurs	Canada	Family_environment	0.572
+Entrepreneurs	Switzerland	Family_environment	0.518
+Entrepreneurs	Chile	Family_environment	0.487
+Entrepreneurs	Czech Republic	Family_environment	0.580
+Entrepreneurs	Germany	Family_environment	0.638
+Entrepreneurs	Denmark	Family_environment	0.549
+Entrepreneurs	Spain	Family_environment	0.676
+Entrepreneurs	Estonia	Family_environment	0.620
+Entrepreneurs	Finland	Family_environment	0.603
+Entrepreneurs	France	Family_environment	0.459
+Entrepreneurs	United Kingdom	Family_environment	0.544
+Entrepreneurs	Greece	Family_environment	0.574
+Entrepreneurs	Hungary	Family_environment	0.439
+Entrepreneurs	Ireland	Family_environment	0.534
+Entrepreneurs	Iceland	Family_environment	0.398
+Entrepreneurs	Israel	Family_environment	0.507
+Entrepreneurs	Italy	Family_environment	0.379
+Entrepreneurs	Japan	Family_environment	0.413
+Entrepreneurs	Korea	Family_environment	0.500
+Entrepreneurs	Luxembourg	Family_environment	0.703
+Entrepreneurs	Latvia	Family_environment	0.670
+Entrepreneurs	Mexico	Family_environment	0.660
+Entrepreneurs	Netherlands	Family_environment	0.433
+Entrepreneurs	Norway	Family_environment	0.613
+Entrepreneurs	New Zealand	Family_environment	0.632
+Entrepreneurs	Poland	Family_environment	0.580
+Entrepreneurs	Portugal	Family_environment	0.661
+Entrepreneurs	Slovak Republic	Family_environment	0.735
+Entrepreneurs	Slovenia	Family_environment	0.619
+Entrepreneurs	Sweden	Family_environment	0.374
+Entrepreneurs	Türkiye	Family_environment	0.731
+Entrepreneurs	United States	Family_environment	0.616
+Entrepreneurs	Australia	Skills_environment	0.556
+Entrepreneurs	Austria	Skills_environment	0.519
+Entrepreneurs	Belgium	Skills_environment	0.474
+Entrepreneurs	Canada	Skills_environment	0.538
+Entrepreneurs	Switzerland	Skills_environment	0.175
+Entrepreneurs	Chile	Skills_environment	0.426
+Entrepreneurs	Czech Republic	Skills_environment	0.595
+Entrepreneurs	Germany	Skills_environment	0.430
+Entrepreneurs	Denmark	Skills_environment	0.586
+Entrepreneurs	Spain	Skills_environment	0.445
+Entrepreneurs	Estonia	Skills_environment	0.627
+Entrepreneurs	Finland	Skills_environment	0.269
+Entrepreneurs	France	Skills_environment	0.376
+Entrepreneurs	United Kingdom	Skills_environment	0.559
+Entrepreneurs	Greece	Skills_environment	0.521
+Entrepreneurs	Hungary	Skills_environment	0.548
+Entrepreneurs	Ireland	Skills_environment	0.338
+Entrepreneurs	Iceland	Skills_environment	0.628
+Entrepreneurs	Israel	Skills_environment	0.697
+Entrepreneurs	Italy	Skills_environment	0.328
+Entrepreneurs	Japan	Skills_environment	0.503
+Entrepreneurs	Korea	Skills_environment	0.062
+Entrepreneurs	Luxembourg	Skills_environment	0.558
+Entrepreneurs	Latvia	Skills_environment	0.479
+Entrepreneurs	Mexico	Skills_environment	0.545
+Entrepreneurs	Netherlands	Skills_environment	0.353
+Entrepreneurs	Norway	Skills_environment	0.348
+Entrepreneurs	New Zealand	Skills_environment	0.377
+Entrepreneurs	Poland	Skills_environment	0.437
+Entrepreneurs	Portugal	Skills_environment	0.332
+Entrepreneurs	Slovak Republic	Skills_environment	0.617
+Entrepreneurs	Slovenia	Skills_environment	0.547
+Entrepreneurs	Sweden	Skills_environment	0.178
+Entrepreneurs	Türkiye	Skills_environment	0.585
+Entrepreneurs	United States	Skills_environment	0.764
+Entrepreneurs	Australia	Inclusiveness	0.688
+Entrepreneurs	Austria	Inclusiveness	0.572
+Entrepreneurs	Belgium	Inclusiveness	0.465
+Entrepreneurs	Canada	Inclusiveness	0.612
+Entrepreneurs	Switzerland	Inclusiveness	0.347
+Entrepreneurs	Chile	Inclusiveness	0.299
+Entrepreneurs	Czech Republic	Inclusiveness	0.582
+Entrepreneurs	Germany	Inclusiveness	0.557
+Entrepreneurs	Denmark	Inclusiveness	0.532
+Entrepreneurs	Spain	Inclusiveness	0.433
+Entrepreneurs	Estonia	Inclusiveness	0.589
+Entrepreneurs	Finland	Inclusiveness	0.170
+Entrepreneurs	France	Inclusiveness	0.225
+Entrepreneurs	United Kingdom	Inclusiveness	0.526
+Entrepreneurs	Greece	Inclusiveness	0.582
+Entrepreneurs	Hungary	Inclusiveness	0.221
+Entrepreneurs	Ireland	Inclusiveness	0.374
+Entrepreneurs	Iceland	Inclusiveness	0.561
+Entrepreneurs	Israel	Inclusiveness	0.495
+Entrepreneurs	Italy	Inclusiveness	0.417
+Entrepreneurs	Japan	Inclusiveness	0.716
+Entrepreneurs	Korea	Inclusiveness	0.122
+Entrepreneurs	Luxembourg	Inclusiveness	0.485
+Entrepreneurs	Latvia	Inclusiveness	0.659
+Entrepreneurs	Mexico	Inclusiveness	0.532
+Entrepreneurs	Netherlands	Inclusiveness	0.421
+Entrepreneurs	Norway	Inclusiveness	0.426
+Entrepreneurs	New Zealand	Inclusiveness	0.337
+Entrepreneurs	Poland	Inclusiveness	0.481
+Entrepreneurs	Portugal	Inclusiveness	0.400
+Entrepreneurs	Slovak Republic	Inclusiveness	0.604
+Entrepreneurs	Slovenia	Inclusiveness	0.771
+Entrepreneurs	Sweden	Inclusiveness	0.270
+Entrepreneurs	Türkiye	Inclusiveness	0.350
+Entrepreneurs	United States	Inclusiveness	0.489
+Entrepreneurs	Australia	Quality_of_life	0.764
+Entrepreneurs	Austria	Quality_of_life	0.661
+Entrepreneurs	Belgium	Quality_of_life	0.689
+Entrepreneurs	Canada	Quality_of_life	0.756
+Entrepreneurs	Switzerland	Quality_of_life	0.417
+Entrepreneurs	Chile	Quality_of_life	0.562
+Entrepreneurs	Czech Republic	Quality_of_life	0.758
+Entrepreneurs	Germany	Quality_of_life	0.547
+Entrepreneurs	Denmark	Quality_of_life	0.727
+Entrepreneurs	Spain	Quality_of_life	0.631
+Entrepreneurs	Estonia	Quality_of_life	0.709
+Entrepreneurs	Finland	Quality_of_life	0.364
+Entrepreneurs	France	Quality_of_life	0.431
+Entrepreneurs	United Kingdom	Quality_of_life	0.742
+Entrepreneurs	Greece	Quality_of_life	0.674
+Entrepreneurs	Hungary	Quality_of_life	0.535
+Entrepreneurs	Ireland	Quality_of_life	0.500
+Entrepreneurs	Iceland	Quality_of_life	0.577
+Entrepreneurs	Israel	Quality_of_life	0.517
+Entrepreneurs	Italy	Quality_of_life	0.410
+Entrepreneurs	Japan	Quality_of_life	0.699
+Entrepreneurs	Korea	Quality_of_life	0.281
+Entrepreneurs	Luxembourg	Quality_of_life	0.739
+Entrepreneurs	Latvia	Quality_of_life	0.689
+Entrepreneurs	Mexico	Quality_of_life	0.788
+Entrepreneurs	Netherlands	Quality_of_life	0.494
+Entrepreneurs	Norway	Quality_of_life	0.479
+Entrepreneurs	New Zealand	Quality_of_life	0.476
+Entrepreneurs	Poland	Quality_of_life	0.607
+Entrepreneurs	Portugal	Quality_of_life	0.563
+Entrepreneurs	Slovak Republic	Quality_of_life	0.752
+Entrepreneurs	Slovenia	Quality_of_life	0.762
+Entrepreneurs	Sweden	Quality_of_life	0.314
+Entrepreneurs	Türkiye	Quality_of_life	0.667
+Entrepreneurs	United States	Quality_of_life	0.746
+Entrepreneurs	Australia	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Austria	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Belgium	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Canada	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Switzerland	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Chile	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Czech Republic	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Germany	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Denmark	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Spain	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Estonia	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Finland	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	France	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	United Kingdom	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Greece	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Hungary	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Ireland	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Iceland	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Israel	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Italy	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Japan	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Korea	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Luxembourg	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Latvia	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Mexico	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Netherlands	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Norway	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	New Zealand	Quality_of_opportunities_Quartiles	1
+Entrepreneurs	Poland	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Portugal	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Slovak Republic	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Slovenia	Quality_of_opportunities_Quartiles	2
+Entrepreneurs	Sweden	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Türkiye	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	United States	Quality_of_opportunities_Quartiles	4
+Entrepreneurs	Australia	Income_Quartiles	1
+Entrepreneurs	Austria	Income_Quartiles	2
+Entrepreneurs	Belgium	Income_Quartiles	1
+Entrepreneurs	Canada	Income_Quartiles	4
+Entrepreneurs	Switzerland	Income_Quartiles	4
+Entrepreneurs	Chile	Income_Quartiles	4
+Entrepreneurs	Czech Republic	Income_Quartiles	3
+Entrepreneurs	Germany	Income_Quartiles	3
+Entrepreneurs	Denmark	Income_Quartiles	3
+Entrepreneurs	Spain	Income_Quartiles	1
+Entrepreneurs	Estonia	Income_Quartiles	4
+Entrepreneurs	Finland	Income_Quartiles	1
+Entrepreneurs	France	Income_Quartiles	4
+Entrepreneurs	United Kingdom	Income_Quartiles	3
+Entrepreneurs	Greece	Income_Quartiles	4
+Entrepreneurs	Hungary	Income_Quartiles	2
+Entrepreneurs	Ireland	Income_Quartiles	2
+Entrepreneurs	Iceland	Income_Quartiles	3
+Entrepreneurs	Israel	Income_Quartiles	2
+Entrepreneurs	Italy	Income_Quartiles	3
+Entrepreneurs	Japan	Income_Quartiles	2
+Entrepreneurs	Korea	Income_Quartiles	1
+Entrepreneurs	Luxembourg	Income_Quartiles	2
+Entrepreneurs	Latvia	Income_Quartiles	1
+Entrepreneurs	Mexico	Income_Quartiles	2
+Entrepreneurs	Netherlands	Income_Quartiles	4
+Entrepreneurs	Norway	Income_Quartiles	1
+Entrepreneurs	New Zealand	Income_Quartiles	3
+Entrepreneurs	Poland	Income_Quartiles	3
+Entrepreneurs	Portugal	Income_Quartiles	1
+Entrepreneurs	Slovak Republic	Income_Quartiles	1
+Entrepreneurs	Slovenia	Income_Quartiles	4
+Entrepreneurs	Sweden	Income_Quartiles	3
+Entrepreneurs	Türkiye	Income_Quartiles	2
+Entrepreneurs	United States	Income_Quartiles	2
+Entrepreneurs	Australia	Future_prospects_Quartiles	4
+Entrepreneurs	Austria	Future_prospects_Quartiles	2
+Entrepreneurs	Belgium	Future_prospects_Quartiles	3
+Entrepreneurs	Canada	Future_prospects_Quartiles	4
+Entrepreneurs	Switzerland	Future_prospects_Quartiles	1
+Entrepreneurs	Chile	Future_prospects_Quartiles	2
+Entrepreneurs	Czech Republic	Future_prospects_Quartiles	1
+Entrepreneurs	Germany	Future_prospects_Quartiles	2
+Entrepreneurs	Denmark	Future_prospects_Quartiles	2
+Entrepreneurs	Spain	Future_prospects_Quartiles	3
+Entrepreneurs	Estonia	Future_prospects_Quartiles	3
+Entrepreneurs	Finland	Future_prospects_Quartiles	3
+Entrepreneurs	France	Future_prospects_Quartiles	2
+Entrepreneurs	United Kingdom	Future_prospects_Quartiles	1
+Entrepreneurs	Greece	Future_prospects_Quartiles	4
+Entrepreneurs	Hungary	Future_prospects_Quartiles	1
+Entrepreneurs	Ireland	Future_prospects_Quartiles	3
+Entrepreneurs	Iceland	Future_prospects_Quartiles	3
+Entrepreneurs	Israel	Future_prospects_Quartiles	2
+Entrepreneurs	Italy	Future_prospects_Quartiles	2
+Entrepreneurs	Japan	Future_prospects_Quartiles	1
+Entrepreneurs	Korea	Future_prospects_Quartiles	2
+Entrepreneurs	Luxembourg	Future_prospects_Quartiles	4
+Entrepreneurs	Latvia	Future_prospects_Quartiles	4
+Entrepreneurs	Mexico	Future_prospects_Quartiles	3
+Entrepreneurs	Netherlands	Future_prospects_Quartiles	1
+Entrepreneurs	Norway	Future_prospects_Quartiles	4
+Entrepreneurs	New Zealand	Future_prospects_Quartiles	3
+Entrepreneurs	Poland	Future_prospects_Quartiles	4
+Entrepreneurs	Portugal	Future_prospects_Quartiles	4
+Entrepreneurs	Slovak Republic	Future_prospects_Quartiles	3
+Entrepreneurs	Slovenia	Future_prospects_Quartiles	1
+Entrepreneurs	Sweden	Future_prospects_Quartiles	1
+Entrepreneurs	Türkiye	Future_prospects_Quartiles	2
+Entrepreneurs	United States	Future_prospects_Quartiles	1
+Entrepreneurs	Australia	Family_environment_Quartiles	3
+Entrepreneurs	Austria	Family_environment_Quartiles	4
+Entrepreneurs	Belgium	Family_environment_Quartiles	1
+Entrepreneurs	Canada	Family_environment_Quartiles	2
+Entrepreneurs	Switzerland	Family_environment_Quartiles	2
+Entrepreneurs	Chile	Family_environment_Quartiles	1
+Entrepreneurs	Czech Republic	Family_environment_Quartiles	3
+Entrepreneurs	Germany	Family_environment_Quartiles	3
+Entrepreneurs	Denmark	Family_environment_Quartiles	2
+Entrepreneurs	Spain	Family_environment_Quartiles	4
+Entrepreneurs	Estonia	Family_environment_Quartiles	3
+Entrepreneurs	Finland	Family_environment_Quartiles	3
+Entrepreneurs	France	Family_environment_Quartiles	1
+Entrepreneurs	United Kingdom	Family_environment_Quartiles	2
+Entrepreneurs	Greece	Family_environment_Quartiles	2
+Entrepreneurs	Hungary	Family_environment_Quartiles	1
+Entrepreneurs	Ireland	Family_environment_Quartiles	2
+Entrepreneurs	Iceland	Family_environment_Quartiles	1
+Entrepreneurs	Israel	Family_environment_Quartiles	2
+Entrepreneurs	Italy	Family_environment_Quartiles	1
+Entrepreneurs	Japan	Family_environment_Quartiles	1
+Entrepreneurs	Korea	Family_environment_Quartiles	2
+Entrepreneurs	Luxembourg	Family_environment_Quartiles	4
+Entrepreneurs	Latvia	Family_environment_Quartiles	4
+Entrepreneurs	Mexico	Family_environment_Quartiles	4
+Entrepreneurs	Netherlands	Family_environment_Quartiles	1
+Entrepreneurs	Norway	Family_environment_Quartiles	3
+Entrepreneurs	New Zealand	Family_environment_Quartiles	3
+Entrepreneurs	Poland	Family_environment_Quartiles	2
+Entrepreneurs	Portugal	Family_environment_Quartiles	4
+Entrepreneurs	Slovak Republic	Family_environment_Quartiles	4
+Entrepreneurs	Slovenia	Family_environment_Quartiles	3
+Entrepreneurs	Sweden	Family_environment_Quartiles	1
+Entrepreneurs	Türkiye	Family_environment_Quartiles	4
+Entrepreneurs	United States	Family_environment_Quartiles	3
+Entrepreneurs	Australia	Skills_environment_Quartiles	3
+Entrepreneurs	Austria	Skills_environment_Quartiles	3
+Entrepreneurs	Belgium	Skills_environment_Quartiles	2
+Entrepreneurs	Canada	Skills_environment_Quartiles	3
+Entrepreneurs	Switzerland	Skills_environment_Quartiles	1
+Entrepreneurs	Chile	Skills_environment_Quartiles	2
+Entrepreneurs	Czech Republic	Skills_environment_Quartiles	4
+Entrepreneurs	Germany	Skills_environment_Quartiles	2
+Entrepreneurs	Denmark	Skills_environment_Quartiles	4
+Entrepreneurs	Spain	Skills_environment_Quartiles	2
+Entrepreneurs	Estonia	Skills_environment_Quartiles	4
+Entrepreneurs	Finland	Skills_environment_Quartiles	1
+Entrepreneurs	France	Skills_environment_Quartiles	2
+Entrepreneurs	United Kingdom	Skills_environment_Quartiles	3
+Entrepreneurs	Greece	Skills_environment_Quartiles	3
+Entrepreneurs	Hungary	Skills_environment_Quartiles	3
+Entrepreneurs	Ireland	Skills_environment_Quartiles	1
+Entrepreneurs	Iceland	Skills_environment_Quartiles	4
+Entrepreneurs	Israel	Skills_environment_Quartiles	4
+Entrepreneurs	Italy	Skills_environment_Quartiles	1
+Entrepreneurs	Japan	Skills_environment_Quartiles	2
+Entrepreneurs	Korea	Skills_environment_Quartiles	1
+Entrepreneurs	Luxembourg	Skills_environment_Quartiles	3
+Entrepreneurs	Latvia	Skills_environment_Quartiles	2
+Entrepreneurs	Mexico	Skills_environment_Quartiles	3
+Entrepreneurs	Netherlands	Skills_environment_Quartiles	1
+Entrepreneurs	Norway	Skills_environment_Quartiles	1
+Entrepreneurs	New Zealand	Skills_environment_Quartiles	2
+Entrepreneurs	Poland	Skills_environment_Quartiles	2
+Entrepreneurs	Portugal	Skills_environment_Quartiles	1
+Entrepreneurs	Slovak Republic	Skills_environment_Quartiles	4
+Entrepreneurs	Slovenia	Skills_environment_Quartiles	3
+Entrepreneurs	Sweden	Skills_environment_Quartiles	1
+Entrepreneurs	Türkiye	Skills_environment_Quartiles	4
+Entrepreneurs	United States	Skills_environment_Quartiles	4
+Entrepreneurs	Australia	Inclusiveness_Quartiles	4
+Entrepreneurs	Austria	Inclusiveness_Quartiles	3
+Entrepreneurs	Belgium	Inclusiveness_Quartiles	2
+Entrepreneurs	Canada	Inclusiveness_Quartiles	4
+Entrepreneurs	Switzerland	Inclusiveness_Quartiles	1
+Entrepreneurs	Chile	Inclusiveness_Quartiles	1
+Entrepreneurs	Czech Republic	Inclusiveness_Quartiles	4
+Entrepreneurs	Germany	Inclusiveness_Quartiles	3
+Entrepreneurs	Denmark	Inclusiveness_Quartiles	3
+Entrepreneurs	Spain	Inclusiveness_Quartiles	2
+Entrepreneurs	Estonia	Inclusiveness_Quartiles	4
+Entrepreneurs	Finland	Inclusiveness_Quartiles	1
+Entrepreneurs	France	Inclusiveness_Quartiles	1
+Entrepreneurs	United Kingdom	Inclusiveness_Quartiles	3
+Entrepreneurs	Greece	Inclusiveness_Quartiles	3
+Entrepreneurs	Hungary	Inclusiveness_Quartiles	1
+Entrepreneurs	Ireland	Inclusiveness_Quartiles	2
+Entrepreneurs	Iceland	Inclusiveness_Quartiles	3
+Entrepreneurs	Israel	Inclusiveness_Quartiles	3
+Entrepreneurs	Italy	Inclusiveness_Quartiles	2
+Entrepreneurs	Japan	Inclusiveness_Quartiles	4
+Entrepreneurs	Korea	Inclusiveness_Quartiles	1
+Entrepreneurs	Luxembourg	Inclusiveness_Quartiles	2
+Entrepreneurs	Latvia	Inclusiveness_Quartiles	4
+Entrepreneurs	Mexico	Inclusiveness_Quartiles	3
+Entrepreneurs	Netherlands	Inclusiveness_Quartiles	2
+Entrepreneurs	Norway	Inclusiveness_Quartiles	2
+Entrepreneurs	New Zealand	Inclusiveness_Quartiles	1
+Entrepreneurs	Poland	Inclusiveness_Quartiles	2
+Entrepreneurs	Portugal	Inclusiveness_Quartiles	2
+Entrepreneurs	Slovak Republic	Inclusiveness_Quartiles	4
+Entrepreneurs	Slovenia	Inclusiveness_Quartiles	4
+Entrepreneurs	Sweden	Inclusiveness_Quartiles	1
+Entrepreneurs	Türkiye	Inclusiveness_Quartiles	1
+Entrepreneurs	United States	Inclusiveness_Quartiles	3
+Entrepreneurs	Australia	Quality_of_life_Quartiles	4
+Entrepreneurs	Austria	Quality_of_life_Quartiles	3
+Entrepreneurs	Belgium	Quality_of_life_Quartiles	3
+Entrepreneurs	Canada	Quality_of_life_Quartiles	4
+Entrepreneurs	Switzerland	Quality_of_life_Quartiles	1
+Entrepreneurs	Chile	Quality_of_life_Quartiles	2
+Entrepreneurs	Czech Republic	Quality_of_life_Quartiles	4
+Entrepreneurs	Germany	Quality_of_life_Quartiles	2
+Entrepreneurs	Denmark	Quality_of_life_Quartiles	3
+Entrepreneurs	Spain	Quality_of_life_Quartiles	2
+Entrepreneurs	Estonia	Quality_of_life_Quartiles	3
+Entrepreneurs	Finland	Quality_of_life_Quartiles	1
+Entrepreneurs	France	Quality_of_life_Quartiles	1
+Entrepreneurs	United Kingdom	Quality_of_life_Quartiles	4
+Entrepreneurs	Greece	Quality_of_life_Quartiles	3
+Entrepreneurs	Hungary	Quality_of_life_Quartiles	2
+Entrepreneurs	Ireland	Quality_of_life_Quartiles	2
+Entrepreneurs	Iceland	Quality_of_life_Quartiles	2
+Entrepreneurs	Israel	Quality_of_life_Quartiles	2
+Entrepreneurs	Italy	Quality_of_life_Quartiles	1
+Entrepreneurs	Japan	Quality_of_life_Quartiles	3
+Entrepreneurs	Korea	Quality_of_life_Quartiles	1
+Entrepreneurs	Luxembourg	Quality_of_life_Quartiles	3
+Entrepreneurs	Latvia	Quality_of_life_Quartiles	3
+Entrepreneurs	Mexico	Quality_of_life_Quartiles	4
+Entrepreneurs	Netherlands	Quality_of_life_Quartiles	1
+Entrepreneurs	Norway	Quality_of_life_Quartiles	1
+Entrepreneurs	New Zealand	Quality_of_life_Quartiles	1
+Entrepreneurs	Poland	Quality_of_life_Quartiles	2
+Entrepreneurs	Portugal	Quality_of_life_Quartiles	2
+Entrepreneurs	Slovak Republic	Quality_of_life_Quartiles	4
+Entrepreneurs	Slovenia	Quality_of_life_Quartiles	4
+Entrepreneurs	Sweden	Quality_of_life_Quartiles	1
+Entrepreneurs	Türkiye	Quality_of_life_Quartiles	3
+Entrepreneurs	United States	Quality_of_life_Quartiles	4
+Student	Australia	Quality_of_opportunities	0.168
+Student	Austria	Quality_of_opportunities	0.036
+Student	Belgium	Quality_of_opportunities	0.051
+Student	Canada	Quality_of_opportunities	0.139
+Student	Switzerland	Quality_of_opportunities	0.007
+Student	Chile	Quality_of_opportunities	0.000
+Student	Czech Republic	Quality_of_opportunities	0.036
+Student	Germany	Quality_of_opportunities	0.007
+Student	Denmark	Quality_of_opportunities	0.036
+Student	Spain	Quality_of_opportunities	0.161
+Student	Estonia	Quality_of_opportunities	0.277
+Student	Finland	Quality_of_opportunities	0.015
+Student	France	Quality_of_opportunities	0.000
+Student	United Kingdom	Quality_of_opportunities	0.000
+Student	Greece	Quality_of_opportunities	0.022
+Student	Hungary	Quality_of_opportunities	0.036
+Student	Ireland	Quality_of_opportunities	0.139
+Student	Iceland	Quality_of_opportunities	0.117
+Student	Israel	Quality_of_opportunities	0.080
+Student	Italy	Quality_of_opportunities	0.000
+Student	Japan	Quality_of_opportunities	0.000
+Student	Korea	Quality_of_opportunities	0.007
+Student	Luxembourg	Quality_of_opportunities	0.088
+Student	Latvia	Quality_of_opportunities	0.029
+Student	Mexico	Quality_of_opportunities	0.022
+Student	Netherlands	Quality_of_opportunities	0.015
+Student	Norway	Quality_of_opportunities	0.036
+Student	New Zealand	Quality_of_opportunities	0.000
+Student	Poland	Quality_of_opportunities	0.007
+Student	Portugal	Quality_of_opportunities	0.088
+Student	Slovak Republic	Quality_of_opportunities	0.080
+Student	Slovenia	Quality_of_opportunities	0.058
+Student	Sweden	Quality_of_opportunities	0.007
+Student	Türkiye	Quality_of_opportunities	0.270
+Student	United States	Quality_of_opportunities	1.000
+Student	Australia	Income	0.499
+Student	Austria	Income	0.362
+Student	Belgium	Income	0.310
+Student	Canada	Income	0.452
+Student	Switzerland	Income	0.058
+Student	Chile	Income	0.104
+Student	Czech Republic	Income	0.491
+Student	Germany	Income	0.307
+Student	Denmark	Income	0.722
+Student	Spain	Income	0.592
+Student	Estonia	Income	0.629
+Student	Finland	Income	0.169
+Student	France	Income	0.455
+Student	United Kingdom	Income	0.602
+Student	Greece	Income	0.498
+Student	Hungary	Income	0.466
+Student	Ireland	Income	0.650
+Student	Iceland	Income	0.443
+Student	Israel	Income	0.555
+Student	Italy	Income	0.220
+Student	Japan	Income	0.386
+Student	Korea	Income	0.147
+Student	Luxembourg	Income	0.376
+Student	Latvia	Income	0.459
+Student	Mexico	Income	0.902
+Student	Netherlands	Income	0.214
+Student	Norway	Income	0.550
+Student	New Zealand	Income	0.479
+Student	Poland	Income	0.624
+Student	Portugal	Income	0.538
+Student	Slovak Republic	Income	0.551
+Student	Slovenia	Income	0.866
+Student	Sweden	Income	0.020
+Student	Türkiye	Income	0.463
+Student	United States	Income	0.304
+Student	Australia	Future_prospects	0.684
+Student	Austria	Future_prospects	0.679
+Student	Belgium	Future_prospects	0.614
+Student	Canada	Future_prospects	0.562
+Student	Switzerland	Future_prospects	0.636
+Student	Chile	Future_prospects	0.533
+Student	Czech Republic	Future_prospects	0.500
+Student	Germany	Future_prospects	0.527
+Student	Denmark	Future_prospects	0.563
+Student	Spain	Future_prospects	0.786
+Student	Estonia	Future_prospects	0.701
+Student	Finland	Future_prospects	0.314
+Student	France	Future_prospects	0.404
+Student	United Kingdom	Future_prospects	0.502
+Student	Greece	Future_prospects	0.514
+Student	Hungary	Future_prospects	0.314
+Student	Ireland	Future_prospects	0.811
+Student	Iceland	Future_prospects	0.509
+Student	Israel	Future_prospects	0.587
+Student	Italy	Future_prospects	0.513
+Student	Japan	Future_prospects	0.326
+Student	Korea	Future_prospects	0.408
+Student	Luxembourg	Future_prospects	0.742
+Student	Latvia	Future_prospects	0.776
+Student	Mexico	Future_prospects	0.574
+Student	Netherlands	Future_prospects	0.490
+Student	Norway	Future_prospects	0.842
+Student	New Zealand	Future_prospects	0.695
+Student	Poland	Future_prospects	0.685
+Student	Portugal	Future_prospects	0.737
+Student	Slovak Republic	Future_prospects	0.697
+Student	Slovenia	Future_prospects	0.529
+Student	Sweden	Future_prospects	0.442
+Student	Türkiye	Future_prospects	0.529
+Student	United States	Future_prospects	0.380
+Student	Australia	Family_environment	0.480
+Student	Austria	Family_environment	0.346
+Student	Belgium	Family_environment	0.453
+Student	Canada	Family_environment	0.656
+Student	Switzerland	Family_environment	0.518
+Student	Chile	Family_environment	0.320
+Student	Czech Republic	Family_environment	0.497
+Student	Germany	Family_environment	0.471
+Student	Denmark	Family_environment	0.549
+Student	Spain	Family_environment	0.593
+Student	Estonia	Family_environment	0.537
+Student	Finland	Family_environment	0.270
+Student	France	Family_environment	0.293
+Student	United Kingdom	Family_environment	0.544
+Student	Greece	Family_environment	0.407
+Student	Hungary	Family_environment	0.439
+Student	Ireland	Family_environment	0.534
+Student	Iceland	Family_environment	0.398
+Student	Israel	Family_environment	0.507
+Student	Italy	Family_environment	0.379
+Student	Japan	Family_environment	0.496
+Student	Korea	Family_environment	0.500
+Student	Luxembourg	Family_environment	0.453
+Student	Latvia	Family_environment	0.503
+Student	Mexico	Family_environment	0.660
+Student	Netherlands	Family_environment	0.350
+Student	Norway	Family_environment	0.613
+Student	New Zealand	Family_environment	0.632
+Student	Poland	Family_environment	0.580
+Student	Portugal	Family_environment	0.494
+Student	Slovak Republic	Family_environment	0.569
+Student	Slovenia	Family_environment	0.536
+Student	Sweden	Family_environment	0.124
+Student	Türkiye	Family_environment	0.648
+Student	United States	Family_environment	0.450
+Student	Australia	Skills_environment	0.791
+Student	Austria	Skills_environment	0.636
+Student	Belgium	Skills_environment	0.588
+Student	Canada	Skills_environment	0.911
+Student	Switzerland	Skills_environment	0.515
+Student	Chile	Skills_environment	0.542
+Student	Czech Republic	Skills_environment	0.747
+Student	Germany	Skills_environment	0.692
+Student	Denmark	Skills_environment	0.750
+Student	Spain	Skills_environment	0.533
+Student	Estonia	Skills_environment	0.601
+Student	Finland	Skills_environment	0.507
+Student	France	Skills_environment	0.482
+Student	United Kingdom	Skills_environment	0.709
+Student	Greece	Skills_environment	0.689
+Student	Hungary	Skills_environment	0.546
+Student	Ireland	Skills_environment	0.416
+Student	Iceland	Skills_environment	0.394
+Student	Israel	Skills_environment	0.735
+Student	Italy	Skills_environment	0.554
+Student	Japan	Skills_environment	0.591
+Student	Korea	Skills_environment	0.209
+Student	Luxembourg	Skills_environment	0.774
+Student	Latvia	Skills_environment	0.770
+Student	Mexico	Skills_environment	0.769
+Student	Netherlands	Skills_environment	0.535
+Student	Norway	Skills_environment	0.517
+Student	New Zealand	Skills_environment	0.521
+Student	Poland	Skills_environment	0.518
+Student	Portugal	Skills_environment	0.480
+Student	Slovak Republic	Skills_environment	0.743
+Student	Slovenia	Skills_environment	0.598
+Student	Sweden	Skills_environment	0.373
+Student	Türkiye	Skills_environment	0.828
+Student	United States	Skills_environment	0.875
+Student	Australia	Inclusiveness	0.622
+Student	Austria	Inclusiveness	0.567
+Student	Belgium	Inclusiveness	0.451
+Student	Canada	Inclusiveness	0.538
+Student	Switzerland	Inclusiveness	0.323
+Student	Chile	Inclusiveness	0.355
+Student	Czech Republic	Inclusiveness	0.580
+Student	Germany	Inclusiveness	0.537
+Student	Denmark	Inclusiveness	0.553
+Student	Spain	Inclusiveness	0.435
+Student	Estonia	Inclusiveness	0.540
+Student	Finland	Inclusiveness	0.138
+Student	France	Inclusiveness	0.263
+Student	United Kingdom	Inclusiveness	0.521
+Student	Greece	Inclusiveness	0.495
+Student	Hungary	Inclusiveness	0.093
+Student	Ireland	Inclusiveness	0.324
+Student	Iceland	Inclusiveness	0.579
+Student	Israel	Inclusiveness	0.488
+Student	Italy	Inclusiveness	0.409
+Student	Japan	Inclusiveness	0.716
+Student	Korea	Inclusiveness	0.122
+Student	Luxembourg	Inclusiveness	0.493
+Student	Latvia	Inclusiveness	0.632
+Student	Mexico	Inclusiveness	0.467
+Student	Netherlands	Inclusiveness	0.438
+Student	Norway	Inclusiveness	0.400
+Student	New Zealand	Inclusiveness	0.376
+Student	Poland	Inclusiveness	0.439
+Student	Portugal	Inclusiveness	0.331
+Student	Slovak Republic	Inclusiveness	0.537
+Student	Slovenia	Inclusiveness	0.700
+Student	Sweden	Inclusiveness	0.263
+Student	Türkiye	Inclusiveness	0.375
+Student	United States	Inclusiveness	0.411
+Student	Australia	Quality_of_life	0.764
+Student	Austria	Quality_of_life	0.661
+Student	Belgium	Quality_of_life	0.689
+Student	Canada	Quality_of_life	0.756
+Student	Switzerland	Quality_of_life	0.417
+Student	Chile	Quality_of_life	0.562
+Student	Czech Republic	Quality_of_life	0.758
+Student	Germany	Quality_of_life	0.547
+Student	Denmark	Quality_of_life	0.727
+Student	Spain	Quality_of_life	0.631
+Student	Estonia	Quality_of_life	0.709
+Student	Finland	Quality_of_life	0.364
+Student	France	Quality_of_life	0.431
+Student	United Kingdom	Quality_of_life	0.742
+Student	Greece	Quality_of_life	0.674
+Student	Hungary	Quality_of_life	0.535
+Student	Ireland	Quality_of_life	0.500
+Student	Iceland	Quality_of_life	0.577
+Student	Israel	Quality_of_life	0.517
+Student	Italy	Quality_of_life	0.410
+Student	Japan	Quality_of_life	0.699
+Student	Korea	Quality_of_life	0.281
+Student	Luxembourg	Quality_of_life	0.739
+Student	Latvia	Quality_of_life	0.689
+Student	Mexico	Quality_of_life	0.788
+Student	Netherlands	Quality_of_life	0.494
+Student	Norway	Quality_of_life	0.479
+Student	New Zealand	Quality_of_life	0.476
+Student	Poland	Quality_of_life	0.607
+Student	Portugal	Quality_of_life	0.563
+Student	Slovak Republic	Quality_of_life	0.752
+Student	Slovenia	Quality_of_life	0.762
+Student	Sweden	Quality_of_life	0.314
+Student	Türkiye	Quality_of_life	0.667
+Student	United States	Quality_of_life	0.746
+Student	Australia	Quality_of_opportunities_Quartiles	4
+Student	Austria	Quality_of_opportunities_Quartiles	2
+Student	Belgium	Quality_of_opportunities_Quartiles	3
+Student	Canada	Quality_of_opportunities_Quartiles	4
+Student	Switzerland	Quality_of_opportunities_Quartiles	1
+Student	Chile	Quality_of_opportunities_Quartiles	1
+Student	Czech Republic	Quality_of_opportunities_Quartiles	2
+Student	Germany	Quality_of_opportunities_Quartiles	1
+Student	Denmark	Quality_of_opportunities_Quartiles	2
+Student	Spain	Quality_of_opportunities_Quartiles	4
+Student	Estonia	Quality_of_opportunities_Quartiles	4
+Student	Finland	Quality_of_opportunities_Quartiles	2
+Student	France	Quality_of_opportunities_Quartiles	1
+Student	United Kingdom	Quality_of_opportunities_Quartiles	1
+Student	Greece	Quality_of_opportunities_Quartiles	2
+Student	Hungary	Quality_of_opportunities_Quartiles	2
+Student	Ireland	Quality_of_opportunities_Quartiles	4
+Student	Iceland	Quality_of_opportunities_Quartiles	4
+Student	Israel	Quality_of_opportunities_Quartiles	3
+Student	Italy	Quality_of_opportunities_Quartiles	1
+Student	Japan	Quality_of_opportunities_Quartiles	1
+Student	Korea	Quality_of_opportunities_Quartiles	1
+Student	Luxembourg	Quality_of_opportunities_Quartiles	3
+Student	Latvia	Quality_of_opportunities_Quartiles	2
+Student	Mexico	Quality_of_opportunities_Quartiles	2
+Student	Netherlands	Quality_of_opportunities_Quartiles	2
+Student	Norway	Quality_of_opportunities_Quartiles	2
+Student	New Zealand	Quality_of_opportunities_Quartiles	1
+Student	Poland	Quality_of_opportunities_Quartiles	1
+Student	Portugal	Quality_of_opportunities_Quartiles	3
+Student	Slovak Republic	Quality_of_opportunities_Quartiles	3
+Student	Slovenia	Quality_of_opportunities_Quartiles	3
+Student	Sweden	Quality_of_opportunities_Quartiles	1
+Student	Türkiye	Quality_of_opportunities_Quartiles	4
+Student	United States	Quality_of_opportunities_Quartiles	4
+Student	Australia	Income_Quartiles	3
+Student	Austria	Income_Quartiles	2
+Student	Belgium	Income_Quartiles	2
+Student	Canada	Income_Quartiles	2
+Student	Switzerland	Income_Quartiles	1
+Student	Chile	Income_Quartiles	1
+Student	Czech Republic	Income_Quartiles	3
+Student	Germany	Income_Quartiles	1
+Student	Denmark	Income_Quartiles	4
+Student	Spain	Income_Quartiles	4
+Student	Estonia	Income_Quartiles	4
+Student	Finland	Income_Quartiles	1
+Student	France	Income_Quartiles	2
+Student	United Kingdom	Income_Quartiles	4
+Student	Greece	Income_Quartiles	3
+Student	Hungary	Income_Quartiles	3
+Student	Ireland	Income_Quartiles	4
+Student	Iceland	Income_Quartiles	2
+Student	Israel	Income_Quartiles	3
+Student	Italy	Income_Quartiles	1
+Student	Japan	Income_Quartiles	2
+Student	Korea	Income_Quartiles	1
+Student	Luxembourg	Income_Quartiles	2
+Student	Latvia	Income_Quartiles	2
+Student	Mexico	Income_Quartiles	4
+Student	Netherlands	Income_Quartiles	1
+Student	Norway	Income_Quartiles	3
+Student	New Zealand	Income_Quartiles	3
+Student	Poland	Income_Quartiles	4
+Student	Portugal	Income_Quartiles	3
+Student	Slovak Republic	Income_Quartiles	3
+Student	Slovenia	Income_Quartiles	4
+Student	Sweden	Income_Quartiles	1
+Student	Türkiye	Income_Quartiles	2
+Student	United States	Income_Quartiles	1
+Student	Australia	Future_prospects_Quartiles	3
+Student	Austria	Future_prospects_Quartiles	3
+Student	Belgium	Future_prospects_Quartiles	3
+Student	Canada	Future_prospects_Quartiles	2
+Student	Switzerland	Future_prospects_Quartiles	3
+Student	Chile	Future_prospects_Quartiles	2
+Student	Czech Republic	Future_prospects_Quartiles	1
+Student	Germany	Future_prospects_Quartiles	2
+Student	Denmark	Future_prospects_Quartiles	3
+Student	Spain	Future_prospects_Quartiles	4
+Student	Estonia	Future_prospects_Quartiles	4
+Student	Finland	Future_prospects_Quartiles	1
+Student	France	Future_prospects_Quartiles	1
+Student	United Kingdom	Future_prospects_Quartiles	2
+Student	Greece	Future_prospects_Quartiles	2
+Student	Hungary	Future_prospects_Quartiles	1
+Student	Ireland	Future_prospects_Quartiles	4
+Student	Iceland	Future_prospects_Quartiles	2
+Student	Israel	Future_prospects_Quartiles	3
+Student	Italy	Future_prospects_Quartiles	2
+Student	Japan	Future_prospects_Quartiles	1
+Student	Korea	Future_prospects_Quartiles	1
+Student	Luxembourg	Future_prospects_Quartiles	4
+Student	Latvia	Future_prospects_Quartiles	4
+Student	Mexico	Future_prospects_Quartiles	3
+Student	Netherlands	Future_prospects_Quartiles	1
+Student	Norway	Future_prospects_Quartiles	4
+Student	New Zealand	Future_prospects_Quartiles	3
+Student	Poland	Future_prospects_Quartiles	3
+Student	Portugal	Future_prospects_Quartiles	4
+Student	Slovak Republic	Future_prospects_Quartiles	4
+Student	Slovenia	Future_prospects_Quartiles	2
+Student	Sweden	Future_prospects_Quartiles	1
+Student	Türkiye	Future_prospects_Quartiles	2
+Student	United States	Future_prospects_Quartiles	1
+Student	Australia	Family_environment_Quartiles	2
+Student	Austria	Family_environment_Quartiles	1
+Student	Belgium	Family_environment_Quartiles	2
+Student	Canada	Family_environment_Quartiles	4
+Student	Switzerland	Family_environment_Quartiles	3
+Student	Chile	Family_environment_Quartiles	1
+Student	Czech Republic	Family_environment_Quartiles	2
+Student	Germany	Family_environment_Quartiles	2
+Student	Denmark	Family_environment_Quartiles	3
+Student	Spain	Family_environment_Quartiles	4
+Student	Estonia	Family_environment_Quartiles	3
+Student	Finland	Family_environment_Quartiles	1
+Student	France	Family_environment_Quartiles	1
+Student	United Kingdom	Family_environment_Quartiles	3
+Student	Greece	Family_environment_Quartiles	1
+Student	Hungary	Family_environment_Quartiles	2
+Student	Ireland	Family_environment_Quartiles	3
+Student	Iceland	Family_environment_Quartiles	1
+Student	Israel	Family_environment_Quartiles	3
+Student	Italy	Family_environment_Quartiles	1
+Student	Japan	Family_environment_Quartiles	2
+Student	Korea	Family_environment_Quartiles	3
+Student	Luxembourg	Family_environment_Quartiles	2
+Student	Latvia	Family_environment_Quartiles	3
+Student	Mexico	Family_environment_Quartiles	4
+Student	Netherlands	Family_environment_Quartiles	1
+Student	Norway	Family_environment_Quartiles	4
+Student	New Zealand	Family_environment_Quartiles	4
+Student	Poland	Family_environment_Quartiles	4
+Student	Portugal	Family_environment_Quartiles	2
+Student	Slovak Republic	Family_environment_Quartiles	4
+Student	Slovenia	Family_environment_Quartiles	3
+Student	Sweden	Family_environment_Quartiles	1
+Student	Türkiye	Family_environment_Quartiles	4
+Student	United States	Family_environment_Quartiles	2
+Student	Australia	Skills_environment_Quartiles	4
+Student	Austria	Skills_environment_Quartiles	3
+Student	Belgium	Skills_environment_Quartiles	2
+Student	Canada	Skills_environment_Quartiles	4
+Student	Switzerland	Skills_environment_Quartiles	1
+Student	Chile	Skills_environment_Quartiles	2
+Student	Czech Republic	Skills_environment_Quartiles	3
+Student	Germany	Skills_environment_Quartiles	3
+Student	Denmark	Skills_environment_Quartiles	4
+Student	Spain	Skills_environment_Quartiles	2
+Student	Estonia	Skills_environment_Quartiles	3
+Student	Finland	Skills_environment_Quartiles	1
+Student	France	Skills_environment_Quartiles	1
+Student	United Kingdom	Skills_environment_Quartiles	3
+Student	Greece	Skills_environment_Quartiles	3
+Student	Hungary	Skills_environment_Quartiles	2
+Student	Ireland	Skills_environment_Quartiles	1
+Student	Iceland	Skills_environment_Quartiles	1
+Student	Israel	Skills_environment_Quartiles	3
+Student	Italy	Skills_environment_Quartiles	2
+Student	Japan	Skills_environment_Quartiles	2
+Student	Korea	Skills_environment_Quartiles	1
+Student	Luxembourg	Skills_environment_Quartiles	4
+Student	Latvia	Skills_environment_Quartiles	4
+Student	Mexico	Skills_environment_Quartiles	4
+Student	Netherlands	Skills_environment_Quartiles	2
+Student	Norway	Skills_environment_Quartiles	1
+Student	New Zealand	Skills_environment_Quartiles	2
+Student	Poland	Skills_environment_Quartiles	2
+Student	Portugal	Skills_environment_Quartiles	1
+Student	Slovak Republic	Skills_environment_Quartiles	3
+Student	Slovenia	Skills_environment_Quartiles	3
+Student	Sweden	Skills_environment_Quartiles	1
+Student	Türkiye	Skills_environment_Quartiles	4
+Student	United States	Skills_environment_Quartiles	4
+Student	Australia	Inclusiveness_Quartiles	4
+Student	Austria	Inclusiveness_Quartiles	4
+Student	Belgium	Inclusiveness_Quartiles	2
+Student	Canada	Inclusiveness_Quartiles	3
+Student	Switzerland	Inclusiveness_Quartiles	1
+Student	Chile	Inclusiveness_Quartiles	1
+Student	Czech Republic	Inclusiveness_Quartiles	4
+Student	Germany	Inclusiveness_Quartiles	3
+Student	Denmark	Inclusiveness_Quartiles	4
+Student	Spain	Inclusiveness_Quartiles	2
+Student	Estonia	Inclusiveness_Quartiles	3
+Student	Finland	Inclusiveness_Quartiles	1
+Student	France	Inclusiveness_Quartiles	1
+Student	United Kingdom	Inclusiveness_Quartiles	3
+Student	Greece	Inclusiveness_Quartiles	3
+Student	Hungary	Inclusiveness_Quartiles	1
+Student	Ireland	Inclusiveness_Quartiles	1
+Student	Iceland	Inclusiveness_Quartiles	4
+Student	Israel	Inclusiveness_Quartiles	3
+Student	Italy	Inclusiveness_Quartiles	2
+Student	Japan	Inclusiveness_Quartiles	4
+Student	Korea	Inclusiveness_Quartiles	1
+Student	Luxembourg	Inclusiveness_Quartiles	3
+Student	Latvia	Inclusiveness_Quartiles	4
+Student	Mexico	Inclusiveness_Quartiles	3
+Student	Netherlands	Inclusiveness_Quartiles	2
+Student	Norway	Inclusiveness_Quartiles	2
+Student	New Zealand	Inclusiveness_Quartiles	2
+Student	Poland	Inclusiveness_Quartiles	2
+Student	Portugal	Inclusiveness_Quartiles	1
+Student	Slovak Republic	Inclusiveness_Quartiles	3
+Student	Slovenia	Inclusiveness_Quartiles	4
+Student	Sweden	Inclusiveness_Quartiles	1
+Student	Türkiye	Inclusiveness_Quartiles	2
+Student	United States	Inclusiveness_Quartiles	2
+Student	Australia	Quality_of_life_Quartiles	4
+Student	Austria	Quality_of_life_Quartiles	3
+Student	Belgium	Quality_of_life_Quartiles	3
+Student	Canada	Quality_of_life_Quartiles	4
+Student	Switzerland	Quality_of_life_Quartiles	1
+Student	Chile	Quality_of_life_Quartiles	2
+Student	Czech Republic	Quality_of_life_Quartiles	4
+Student	Germany	Quality_of_life_Quartiles	2
+Student	Denmark	Quality_of_life_Quartiles	3
+Student	Spain	Quality_of_life_Quartiles	2
+Student	Estonia	Quality_of_life_Quartiles	3
+Student	Finland	Quality_of_life_Quartiles	1
+Student	France	Quality_of_life_Quartiles	1
+Student	United Kingdom	Quality_of_life_Quartiles	4
+Student	Greece	Quality_of_life_Quartiles	3
+Student	Hungary	Quality_of_life_Quartiles	2
+Student	Ireland	Quality_of_life_Quartiles	2
+Student	Iceland	Quality_of_life_Quartiles	2
+Student	Israel	Quality_of_life_Quartiles	2
+Student	Italy	Quality_of_life_Quartiles	1
+Student	Japan	Quality_of_life_Quartiles	3
+Student	Korea	Quality_of_life_Quartiles	1
+Student	Luxembourg	Quality_of_life_Quartiles	3
+Student	Latvia	Quality_of_life_Quartiles	3
+Student	Mexico	Quality_of_life_Quartiles	4
+Student	Netherlands	Quality_of_life_Quartiles	1
+Student	Norway	Quality_of_life_Quartiles	1
+Student	New Zealand	Quality_of_life_Quartiles	1
+Student	Poland	Quality_of_life_Quartiles	2
+Student	Portugal	Quality_of_life_Quartiles	2
+Student	Slovak Republic	Quality_of_life_Quartiles	4
+Student	Slovenia	Quality_of_life_Quartiles	4
+Student	Sweden	Quality_of_life_Quartiles	1
+Student	Türkiye	Quality_of_life_Quartiles	3
+Student	United States	Quality_of_life_Quartiles	4
