@@ -32,7 +32,7 @@ Workers	Portugal	Quality_of_opportunities	0.743
 Workers	Slovak Republic	Quality_of_opportunities	0.880
 Workers	Slovenia	Quality_of_opportunities	0.847
 Workers	Sweden	Quality_of_opportunities	0.650
-Workers	Turkey	Quality_of_opportunities	0.866
+Workers	Türkiye	Quality_of_opportunities	0.866
 Workers	United States	Quality_of_opportunities	0.868
 Workers	Australia	Income	0.513
 Workers	Austria	Income	0.403
@@ -67,7 +67,7 @@ Workers	Portugal	Income	0.371
 Workers	Slovak Republic	Income	0.435
 Workers	Slovenia	Income	0.423
 Workers	Sweden	Income	0.361
-Workers	Turkey	Income	0.456
+Workers	Türkiye	Income	0.456
 Workers	United States	Income	0.603
 Workers	Australia	Future_prospects	0.689
 Workers	Austria	Future_prospects	0.572
@@ -102,7 +102,7 @@ Workers	Portugal	Future_prospects	0.789
 Workers	Slovak Republic	Future_prospects	0.649
 Workers	Slovenia	Future_prospects	0.746
 Workers	Sweden	Future_prospects	0.652
-Workers	Turkey	Future_prospects	0.145
+Workers	Türkiye	Future_prospects	0.145
 Workers	United States	Future_prospects	0.507
 Workers	Australia	Family_environment	0.647
 Workers	Austria	Family_environment	0.680
@@ -137,7 +137,7 @@ Workers	Portugal	Family_environment	0.613
 Workers	Slovak Republic	Family_environment	0.632
 Workers	Slovenia	Family_environment	0.580
 Workers	Sweden	Family_environment	0.735
-Workers	Turkey	Family_environment	0.374
+Workers	Türkiye	Family_environment	0.374
 Workers	United States	Family_environment	0.616
 Workers	Australia	Skills_environment	0.556
 Workers	Austria	Skills_environment	0.519
@@ -172,7 +172,7 @@ Workers	Portugal	Skills_environment	0.348
 Workers	Slovak Republic	Skills_environment	0.377
 Workers	Slovenia	Skills_environment	0.437
 Workers	Sweden	Skills_environment	0.617
-Workers	Turkey	Skills_environment	0.178
+Workers	Türkiye	Skills_environment	0.178
 Workers	United States	Skills_environment	0.764
 Workers	Australia	Inclusiveness	0.695
 Workers	Austria	Inclusiveness	0.579
@@ -207,7 +207,7 @@ Workers	Portugal	Inclusiveness	0.424
 Workers	Slovak Republic	Inclusiveness	0.336
 Workers	Slovenia	Inclusiveness	0.451
 Workers	Sweden	Inclusiveness	0.627
-Workers	Turkey	Inclusiveness	0.281
+Workers	Türkiye	Inclusiveness	0.281
 Workers	United States	Inclusiveness	0.480
 Workers	Australia	Quality_of_life	0.764
 Workers	Austria	Quality_of_life	0.661
@@ -242,7 +242,7 @@ Workers	Portugal	Quality_of_life	0.479
 Workers	Slovak Republic	Quality_of_life	0.476
 Workers	Slovenia	Quality_of_life	0.607
 Workers	Sweden	Quality_of_life	0.752
-Workers	Turkey	Quality_of_life	0.314
+Workers	Türkiye	Quality_of_life	0.314
 Workers	United States	Quality_of_life	0.746
 Workers	Australia	Quality_of_opportunities_Quartiles	2
 Workers	Austria	Quality_of_opportunities_Quartiles	2
@@ -277,7 +277,7 @@ Workers	Portugal	Quality_of_opportunities_Quartiles	1
 Workers	Slovak Republic	Quality_of_opportunities_Quartiles	2
 Workers	Slovenia	Quality_of_opportunities_Quartiles	2
 Workers	Sweden	Quality_of_opportunities_Quartiles	4
-Workers	Turkey	Quality_of_opportunities_Quartiles	3
+Workers	Türkiye	Quality_of_opportunities_Quartiles	3
 Workers	United States	Quality_of_opportunities_Quartiles	4
 Workers	Australia	Income_Quartiles	3
 Workers	Austria	Income_Quartiles	2
@@ -312,7 +312,7 @@ Workers	Portugal	Income_Quartiles	1
 Workers	Slovak Republic	Income_Quartiles	1
 Workers	Slovenia	Income_Quartiles	4
 Workers	Sweden	Income_Quartiles	3
-Workers	Turkey	Income_Quartiles	2
+Workers	Türkiye	Income_Quartiles	2
 Workers	United States	Income_Quartiles	4
 Workers	Australia	Future_prospects_Quartiles	4
 Workers	Austria	Future_prospects_Quartiles	2
@@ -347,7 +347,7 @@ Workers	Portugal	Future_prospects_Quartiles	4
 Workers	Slovak Republic	Future_prospects_Quartiles	3
 Workers	Slovenia	Future_prospects_Quartiles	1
 Workers	Sweden	Future_prospects_Quartiles	1
-Workers	Turkey	Future_prospects_Quartiles	2
+Workers	Türkiye	Future_prospects_Quartiles	2
 Workers	United States	Future_prospects_Quartiles	1
 Workers	Australia	Family_environment_Quartiles	3
 Workers	Austria	Family_environment_Quartiles	4
@@ -382,7 +382,7 @@ Workers	Portugal	Family_environment_Quartiles	4
 Workers	Slovak Republic	Family_environment_Quartiles	4
 Workers	Slovenia	Family_environment_Quartiles	3
 Workers	Sweden	Family_environment_Quartiles	1
-Workers	Turkey	Family_environment_Quartiles	4
+Workers	Türkiye	Family_environment_Quartiles	4
 Workers	United States	Family_environment_Quartiles	3
 Workers	Australia	Skills_environment_Quartiles	3
 Workers	Austria	Skills_environment_Quartiles	3
@@ -417,7 +417,7 @@ Workers	Portugal	Skills_environment_Quartiles	1
 Workers	Slovak Republic	Skills_environment_Quartiles	4
 Workers	Slovenia	Skills_environment_Quartiles	3
 Workers	Sweden	Skills_environment_Quartiles	1
-Workers	Turkey	Skills_environment_Quartiles	4
+Workers	Türkiye	Skills_environment_Quartiles	4
 Workers	United States	Skills_environment_Quartiles	4
 Workers	Australia	Inclusiveness_Quartiles	4
 Workers	Austria	Inclusiveness_Quartiles	3
@@ -452,7 +452,7 @@ Workers	Portugal	Inclusiveness_Quartiles	2
 Workers	Slovak Republic	Inclusiveness_Quartiles	4
 Workers	Slovenia	Inclusiveness_Quartiles	4
 Workers	Sweden	Inclusiveness_Quartiles	1
-Workers	Turkey	Inclusiveness_Quartiles	2
+Workers	Türkiye	Inclusiveness_Quartiles	2
 Workers	United States	Inclusiveness_Quartiles	2
 Workers	Australia	Quality_of_life_Quartiles	4
 Workers	Austria	Quality_of_life_Quartiles	3
@@ -487,7 +487,7 @@ Workers	Portugal	Quality_of_life_Quartiles	2
 Workers	Slovak Republic	Quality_of_life_Quartiles	4
 Workers	Slovenia	Quality_of_life_Quartiles	4
 Workers	Sweden	Quality_of_life_Quartiles	1
-Workers	Turkey	Quality_of_life_Quartiles	3
+Workers	Türkiye	Quality_of_life_Quartiles	3
 Workers	United States	Quality_of_life_Quartiles	4
 Entrepreneurs	Australia	Quality_of_opportunities	0.364
 Entrepreneurs	Austria	Quality_of_opportunities	0.309
@@ -522,7 +522,7 @@ Entrepreneurs	Portugal	Quality_of_opportunities	0.370
 Entrepreneurs	Slovak Republic	Quality_of_opportunities	0.356
 Entrepreneurs	Slovenia	Quality_of_opportunities	0.356
 Entrepreneurs	Sweden	Quality_of_opportunities	0.418
-Entrepreneurs	Turkey	Quality_of_opportunities	0.394
+Entrepreneurs	Türkiye	Quality_of_opportunities	0.394
 Entrepreneurs	United States	Quality_of_opportunities	0.555
 Entrepreneurs	Australia	Income	0.410
 Entrepreneurs	Austria	Income	0.470
@@ -557,7 +557,7 @@ Entrepreneurs	Portugal	Income	0.402
 Entrepreneurs	Slovak Republic	Income	0.404
 Entrepreneurs	Slovenia	Income	0.679
 Entrepreneurs	Sweden	Income	0.529
-Entrepreneurs	Turkey	Income	0.471
+Entrepreneurs	Türkiye	Income	0.471
 Entrepreneurs	United States	Income	0.452
 Entrepreneurs	Australia	Future_prospects	0.689
 Entrepreneurs	Austria	Future_prospects	0.572
@@ -592,7 +592,7 @@ Entrepreneurs	Portugal	Future_prospects	0.705
 Entrepreneurs	Slovak Republic	Future_prospects	0.652
 Entrepreneurs	Slovenia	Future_prospects	0.428
 Entrepreneurs	Sweden	Future_prospects	0.145
-Entrepreneurs	Turkey	Future_prospects	0.594
+Entrepreneurs	Türkiye	Future_prospects	0.594
 Entrepreneurs	United States	Future_prospects	0.507
 Entrepreneurs	Australia	Family_environment	0.647
 Entrepreneurs	Austria	Family_environment	0.680
@@ -627,7 +627,7 @@ Entrepreneurs	Portugal	Family_environment	0.661
 Entrepreneurs	Slovak Republic	Family_environment	0.735
 Entrepreneurs	Slovenia	Family_environment	0.619
 Entrepreneurs	Sweden	Family_environment	0.374
-Entrepreneurs	Turkey	Family_environment	0.731
+Entrepreneurs	Türkiye	Family_environment	0.731
 Entrepreneurs	United States	Family_environment	0.616
 Entrepreneurs	Australia	Skills_environment	0.556
 Entrepreneurs	Austria	Skills_environment	0.519
@@ -662,7 +662,7 @@ Entrepreneurs	Portugal	Skills_environment	0.332
 Entrepreneurs	Slovak Republic	Skills_environment	0.617
 Entrepreneurs	Slovenia	Skills_environment	0.547
 Entrepreneurs	Sweden	Skills_environment	0.178
-Entrepreneurs	Turkey	Skills_environment	0.585
+Entrepreneurs	Türkiye	Skills_environment	0.585
 Entrepreneurs	United States	Skills_environment	0.764
 Entrepreneurs	Australia	Inclusiveness	0.688
 Entrepreneurs	Austria	Inclusiveness	0.572
@@ -697,7 +697,7 @@ Entrepreneurs	Portugal	Inclusiveness	0.400
 Entrepreneurs	Slovak Republic	Inclusiveness	0.604
 Entrepreneurs	Slovenia	Inclusiveness	0.771
 Entrepreneurs	Sweden	Inclusiveness	0.270
-Entrepreneurs	Turkey	Inclusiveness	0.350
+Entrepreneurs	Türkiye	Inclusiveness	0.350
 Entrepreneurs	United States	Inclusiveness	0.489
 Entrepreneurs	Australia	Quality_of_life	0.764
 Entrepreneurs	Austria	Quality_of_life	0.661
@@ -732,7 +732,7 @@ Entrepreneurs	Portugal	Quality_of_life	0.563
 Entrepreneurs	Slovak Republic	Quality_of_life	0.752
 Entrepreneurs	Slovenia	Quality_of_life	0.762
 Entrepreneurs	Sweden	Quality_of_life	0.314
-Entrepreneurs	Turkey	Quality_of_life	0.667
+Entrepreneurs	Türkiye	Quality_of_life	0.667
 Entrepreneurs	United States	Quality_of_life	0.746
 Entrepreneurs	Australia	Quality_of_opportunities_Quartiles	3
 Entrepreneurs	Austria	Quality_of_opportunities_Quartiles	2
@@ -767,7 +767,7 @@ Entrepreneurs	Portugal	Quality_of_opportunities_Quartiles	3
 Entrepreneurs	Slovak Republic	Quality_of_opportunities_Quartiles	2
 Entrepreneurs	Slovenia	Quality_of_opportunities_Quartiles	2
 Entrepreneurs	Sweden	Quality_of_opportunities_Quartiles	4
-Entrepreneurs	Turkey	Quality_of_opportunities_Quartiles	3
+Entrepreneurs	Türkiye	Quality_of_opportunities_Quartiles	3
 Entrepreneurs	United States	Quality_of_opportunities_Quartiles	4
 Entrepreneurs	Australia	Income_Quartiles	1
 Entrepreneurs	Austria	Income_Quartiles	2
@@ -802,7 +802,7 @@ Entrepreneurs	Portugal	Income_Quartiles	1
 Entrepreneurs	Slovak Republic	Income_Quartiles	1
 Entrepreneurs	Slovenia	Income_Quartiles	4
 Entrepreneurs	Sweden	Income_Quartiles	3
-Entrepreneurs	Turkey	Income_Quartiles	2
+Entrepreneurs	Türkiye	Income_Quartiles	2
 Entrepreneurs	United States	Income_Quartiles	2
 Entrepreneurs	Australia	Future_prospects_Quartiles	4
 Entrepreneurs	Austria	Future_prospects_Quartiles	2
@@ -837,7 +837,7 @@ Entrepreneurs	Portugal	Future_prospects_Quartiles	4
 Entrepreneurs	Slovak Republic	Future_prospects_Quartiles	3
 Entrepreneurs	Slovenia	Future_prospects_Quartiles	1
 Entrepreneurs	Sweden	Future_prospects_Quartiles	1
-Entrepreneurs	Turkey	Future_prospects_Quartiles	2
+Entrepreneurs	Türkiye	Future_prospects_Quartiles	2
 Entrepreneurs	United States	Future_prospects_Quartiles	1
 Entrepreneurs	Australia	Family_environment_Quartiles	3
 Entrepreneurs	Austria	Family_environment_Quartiles	4
@@ -872,7 +872,7 @@ Entrepreneurs	Portugal	Family_environment_Quartiles	4
 Entrepreneurs	Slovak Republic	Family_environment_Quartiles	4
 Entrepreneurs	Slovenia	Family_environment_Quartiles	3
 Entrepreneurs	Sweden	Family_environment_Quartiles	1
-Entrepreneurs	Turkey	Family_environment_Quartiles	4
+Entrepreneurs	Türkiye	Family_environment_Quartiles	4
 Entrepreneurs	United States	Family_environment_Quartiles	3
 Entrepreneurs	Australia	Skills_environment_Quartiles	3
 Entrepreneurs	Austria	Skills_environment_Quartiles	3
@@ -907,7 +907,7 @@ Entrepreneurs	Portugal	Skills_environment_Quartiles	1
 Entrepreneurs	Slovak Republic	Skills_environment_Quartiles	4
 Entrepreneurs	Slovenia	Skills_environment_Quartiles	3
 Entrepreneurs	Sweden	Skills_environment_Quartiles	1
-Entrepreneurs	Turkey	Skills_environment_Quartiles	4
+Entrepreneurs	Türkiye	Skills_environment_Quartiles	4
 Entrepreneurs	United States	Skills_environment_Quartiles	4
 Entrepreneurs	Australia	Inclusiveness_Quartiles	4
 Entrepreneurs	Austria	Inclusiveness_Quartiles	3
@@ -942,7 +942,7 @@ Entrepreneurs	Portugal	Inclusiveness_Quartiles	2
 Entrepreneurs	Slovak Republic	Inclusiveness_Quartiles	4
 Entrepreneurs	Slovenia	Inclusiveness_Quartiles	4
 Entrepreneurs	Sweden	Inclusiveness_Quartiles	1
-Entrepreneurs	Turkey	Inclusiveness_Quartiles	1
+Entrepreneurs	Türkiye	Inclusiveness_Quartiles	1
 Entrepreneurs	United States	Inclusiveness_Quartiles	3
 Entrepreneurs	Australia	Quality_of_life_Quartiles	4
 Entrepreneurs	Austria	Quality_of_life_Quartiles	3
@@ -977,7 +977,7 @@ Entrepreneurs	Portugal	Quality_of_life_Quartiles	2
 Entrepreneurs	Slovak Republic	Quality_of_life_Quartiles	4
 Entrepreneurs	Slovenia	Quality_of_life_Quartiles	4
 Entrepreneurs	Sweden	Quality_of_life_Quartiles	1
-Entrepreneurs	Turkey	Quality_of_life_Quartiles	3
+Entrepreneurs	Türkiye	Quality_of_life_Quartiles	3
 Entrepreneurs	United States	Quality_of_life_Quartiles	4
 Students	Australia	Quality_of_opportunities	0.168
 Students	Austria	Quality_of_opportunities	0.036
@@ -1012,7 +1012,7 @@ Students	Portugal	Quality_of_opportunities	0.088
 Students	Slovak Republic	Quality_of_opportunities	0.080
 Students	Slovenia	Quality_of_opportunities	0.058
 Students	Sweden	Quality_of_opportunities	0.007
-Students	Turkey	Quality_of_opportunities	0.270
+Students	Türkiye	Quality_of_opportunities	0.270
 Students	United States	Quality_of_opportunities	1.000
 Students	Australia	Income	0.499
 Students	Austria	Income	0.362
@@ -1047,7 +1047,7 @@ Students	Portugal	Income	0.538
 Students	Slovak Republic	Income	0.551
 Students	Slovenia	Income	0.866
 Students	Sweden	Income	0.020
-Students	Turkey	Income	0.463
+Students	Türkiye	Income	0.463
 Students	United States	Income	0.304
 Students	Australia	Future_prospects	0.684
 Students	Austria	Future_prospects	0.679
@@ -1082,7 +1082,7 @@ Students	Portugal	Future_prospects	0.737
 Students	Slovak Republic	Future_prospects	0.697
 Students	Slovenia	Future_prospects	0.529
 Students	Sweden	Future_prospects	0.442
-Students	Turkey	Future_prospects	0.529
+Students	Türkiye	Future_prospects	0.529
 Students	United States	Future_prospects	0.380
 Students	Australia	Family_environment	0.480
 Students	Austria	Family_environment	0.346
@@ -1117,7 +1117,7 @@ Students	Portugal	Family_environment	0.494
 Students	Slovak Republic	Family_environment	0.569
 Students	Slovenia	Family_environment	0.536
 Students	Sweden	Family_environment	0.124
-Students	Turkey	Family_environment	0.648
+Students	Türkiye	Family_environment	0.648
 Students	United States	Family_environment	0.450
 Students	Australia	Skills_environment	0.791
 Students	Austria	Skills_environment	0.636
@@ -1152,7 +1152,7 @@ Students	Portugal	Skills_environment	0.480
 Students	Slovak Republic	Skills_environment	0.743
 Students	Slovenia	Skills_environment	0.598
 Students	Sweden	Skills_environment	0.373
-Students	Turkey	Skills_environment	0.828
+Students	Türkiye	Skills_environment	0.828
 Students	United States	Skills_environment	0.875
 Students	Australia	Inclusiveness	0.622
 Students	Austria	Inclusiveness	0.567
@@ -1187,7 +1187,7 @@ Students	Portugal	Inclusiveness	0.331
 Students	Slovak Republic	Inclusiveness	0.537
 Students	Slovenia	Inclusiveness	0.700
 Students	Sweden	Inclusiveness	0.263
-Students	Turkey	Inclusiveness	0.375
+Students	Türkiye	Inclusiveness	0.375
 Students	United States	Inclusiveness	0.411
 Students	Australia	Quality_of_life	0.764
 Students	Austria	Quality_of_life	0.661
@@ -1222,7 +1222,7 @@ Students	Portugal	Quality_of_life	0.563
 Students	Slovak Republic	Quality_of_life	0.752
 Students	Slovenia	Quality_of_life	0.762
 Students	Sweden	Quality_of_life	0.314
-Students	Turkey	Quality_of_life	0.667
+Students	Türkiye	Quality_of_life	0.667
 Students	United States	Quality_of_life	0.746
 Students	Australia	Quality_of_opportunities_Quartiles	4
 Students	Austria	Quality_of_opportunities_Quartiles	2
@@ -1257,7 +1257,7 @@ Students	Portugal	Quality_of_opportunities_Quartiles	3
 Students	Slovak Republic	Quality_of_opportunities_Quartiles	3
 Students	Slovenia	Quality_of_opportunities_Quartiles	3
 Students	Sweden	Quality_of_opportunities_Quartiles	1
-Students	Turkey	Quality_of_opportunities_Quartiles	4
+Students	Türkiye	Quality_of_opportunities_Quartiles	4
 Students	United States	Quality_of_opportunities_Quartiles	4
 Students	Australia	Income_Quartiles	3
 Students	Austria	Income_Quartiles	2
@@ -1292,7 +1292,7 @@ Students	Portugal	Income_Quartiles	3
 Students	Slovak Republic	Income_Quartiles	3
 Students	Slovenia	Income_Quartiles	4
 Students	Sweden	Income_Quartiles	1
-Students	Turkey	Income_Quartiles	2
+Students	Türkiye	Income_Quartiles	2
 Students	United States	Income_Quartiles	1
 Students	Australia	Future_prospects_Quartiles	3
 Students	Austria	Future_prospects_Quartiles	3
@@ -1327,7 +1327,7 @@ Students	Portugal	Future_prospects_Quartiles	4
 Students	Slovak Republic	Future_prospects_Quartiles	4
 Students	Slovenia	Future_prospects_Quartiles	2
 Students	Sweden	Future_prospects_Quartiles	1
-Students	Turkey	Future_prospects_Quartiles	2
+Students	Türkiye	Future_prospects_Quartiles	2
 Students	United States	Future_prospects_Quartiles	1
 Students	Australia	Family_environment_Quartiles	2
 Students	Austria	Family_environment_Quartiles	1
@@ -1362,7 +1362,7 @@ Students	Portugal	Family_environment_Quartiles	2
 Students	Slovak Republic	Family_environment_Quartiles	4
 Students	Slovenia	Family_environment_Quartiles	3
 Students	Sweden	Family_environment_Quartiles	1
-Students	Turkey	Family_environment_Quartiles	4
+Students	Türkiye	Family_environment_Quartiles	4
 Students	United States	Family_environment_Quartiles	2
 Students	Australia	Skills_environment_Quartiles	4
 Students	Austria	Skills_environment_Quartiles	3
@@ -1397,7 +1397,7 @@ Students	Portugal	Skills_environment_Quartiles	1
 Students	Slovak Republic	Skills_environment_Quartiles	3
 Students	Slovenia	Skills_environment_Quartiles	3
 Students	Sweden	Skills_environment_Quartiles	1
-Students	Turkey	Skills_environment_Quartiles	4
+Students	Türkiye	Skills_environment_Quartiles	4
 Students	United States	Skills_environment_Quartiles	4
 Students	Australia	Inclusiveness_Quartiles	4
 Students	Austria	Inclusiveness_Quartiles	4
@@ -1432,7 +1432,7 @@ Students	Portugal	Inclusiveness_Quartiles	1
 Students	Slovak Republic	Inclusiveness_Quartiles	3
 Students	Slovenia	Inclusiveness_Quartiles	4
 Students	Sweden	Inclusiveness_Quartiles	1
-Students	Turkey	Inclusiveness_Quartiles	2
+Students	Türkiye	Inclusiveness_Quartiles	2
 Students	United States	Inclusiveness_Quartiles	2
 Students	Australia	Quality_of_life_Quartiles	4
 Students	Austria	Quality_of_life_Quartiles	3
@@ -1467,5 +1467,5 @@ Students	Portugal	Quality_of_life_Quartiles	2
 Students	Slovak Republic	Quality_of_life_Quartiles	4
 Students	Slovenia	Quality_of_life_Quartiles	4
 Students	Sweden	Quality_of_life_Quartiles	1
-Students	Turkey	Quality_of_life_Quartiles	3
+Students	Türkiye	Quality_of_life_Quartiles	3
 Students	United States	Quality_of_life_Quartiles	4
