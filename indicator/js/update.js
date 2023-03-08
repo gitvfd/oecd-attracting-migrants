@@ -271,7 +271,7 @@ function update(){
     if (document.getElementById('Income_radio_1').checked) {
         Income_weight = document.getElementById('Income_radio_1').value
     } else if (document.getElementById('Income_radio_2').checked) {
-        Income_weight = document.getElementById('Income_radio_3').value
+        Income_weight = document.getElementById('Income_radio_2').value
     } else if (document.getElementById('Income_radio_3').checked) {
         Income_weight = document.getElementById('Income_radio_3').value
     }
